@@ -5,7 +5,8 @@ setup(
     version='0.1',
     packages=find_packages(),  # Automatically finds all sub-packages like subfolder1, subfolder2
     install_requires=["lxml", "tqdm", "python-dotenv", "langchain_core", "langchain_openai", "tqdm",
-                      "typing", "langchain_text_splitters", "docx", "fuzzywuzzy"],  # Add dependencies if necessary
+                      "typing", "langchain_text_splitters", "docx", "fuzzywuzzy", "pydantic",
+                     "python-docx"],  # Add dependencies if necessary
     description='A Python package to use an AI assitant for historical analysis',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
