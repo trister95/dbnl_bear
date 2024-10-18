@@ -4,7 +4,7 @@ setup(
     name='dbnl_bear',
     version='0.1',
     packages=find_packages(),  # Automatically finds all sub-packages like subfolder1, subfolder2
-    install_requires=["os", "lxml.etree", "tqdm", "glob", "re", "asyncio",
+    install_requires=["lxml.etree", "tqdm", "glob", "re", "asyncio",
                       "dotenv", "langchain_core", "langchain_openai", "tqdm.asyncio",
                       "typing", "langchain_text_splitters", "docx", "fuzzywuzzy"],  # Add dependencies if necessary
     description='A Python package to use an AI assitant for historical analysis',
