@@ -5,7 +5,8 @@ from langchain_core import prompts
 from langchain_openai import ChatOpenAI
 from tqdm.asyncio import tqdm
 from typing import Optional, Dict, Any, List
-from langchain_core.pydantic_v1 import BaseModel, Field, create_model
+from pydantic import BaseModel, Field, create_model
+#from langchain_core.pydantic_v1 import BaseModel, Field, create_model
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
