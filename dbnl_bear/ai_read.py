@@ -44,6 +44,7 @@ async def analyze_sentence(sentence: str, structured_llm):
         print(f"Problematic sentence: {sentence}")
         return None
 
+
 async def analyze_document(input_file: str, phenomenon_of_interest: str, text_splitter = text_splitter,
                            model = "gpt-4o-mini-2024-07-18"):
 
@@ -52,6 +53,9 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
 
     sentences = text_splitter.split_text(original_text)
 
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("API key not found. Install python-dotenv, make .env style and save the API key there as: OPENAI_API_KEY=your-api-key-here")                           
     llm = ChatOpenAI(model=model)
     AnalysisModel = create_analysis_model(phenomenon_of_interest)
     llm_structured_output = llm.with_structured_output(AnalysisModel)
