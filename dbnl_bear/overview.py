@@ -2,6 +2,8 @@ import docx
 from docx.shared import RGBColor
 from fuzzywuzzy import fuzz
 
+#needs changes in relevant passages logic
+
 def highlight_relevant_passages(input_file, output_file, relevant_passages):
     # Read the original text
     with open(input_file, 'r', encoding='utf-8') as file:
