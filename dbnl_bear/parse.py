@@ -5,7 +5,7 @@ import glob
 import re
 
 """
-These are helper functions.
+The functions below are helper functions.
 """
 
 def create_if_absent(directory):
@@ -21,7 +21,7 @@ def create_if_absent(directory):
 
 def get_files_with_extension(directory, extension):
     """
-    Outputs all files with a specific extension in a directory.
+    Gets all files with a specific extension (like .xml) from a specific directory.
     """
     try:
         # Using glob for pattern matching
@@ -34,9 +34,9 @@ def get_files_with_extension(directory, extension):
 
 def clean_whitespace(text):
     """Clean unnecessary whitespaces from the text."""
-    # Collapse multiple spaces and newlines
-    text = re.sub(r"\s+", " ", text)
-    # Optional: Convert multiple newlines to a double newline for paragraph separation
+    #Collapse multiple spaces and tabs
+    text = re.sub(r"[ \t]+", " ", text)
+    #Convert multiple newlines to a double newline for paragraph separation
     text = re.sub(r"(\s*\n\s*)+", "\n\n", text)
     return text.strip()
 
@@ -50,8 +50,8 @@ def extract_dbnl_id(f_name):
     return match[0] if match else None
 
 """
-These functions extract the actual literary texts
-from a directory with dbnl-xml files.
+The functions do the core activity of the script:
+they take a dir with dbnl-xml files, extract the actual literary texts, and put them in a new dir.
 """
 
 def find_text_element(root):
@@ -67,7 +67,7 @@ def find_text_element(root):
 def get_text_dbnl(xml_file, id, output_dir):
     """
     Extracts text from a dbnl xml-file and saves it as a .txt file.
-    In this setup, notes are not removed!
+    In this setup, notes in the texts (e.g. explanations, references) are not removed!
     """
     # Parse the XML file
     tree = ET.parse(xml_file)
