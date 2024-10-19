@@ -6,7 +6,6 @@ from langchain_openai import ChatOpenAI
 from tqdm.asyncio import tqdm
 from typing import Optional, Dict, Any, List
 from pydantic import BaseModel, Field, create_model
-#from langchain_core.pydantic_v1 import BaseModel, Field, create_model
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
@@ -65,4 +64,12 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
     structured_llm = prompt | llm_structured_output
 
     tasks = [analyze_sentence(sentence, structured_llm) for sentence in sentences]    
-    return await tqdm.gather(*tasks, total=len(tasks))
+    results =  tqdm.gather(*tasks, total=len(tasks))
+
+    final_results = []
+    for sentence, result in zip(sentences, results):
+        if result:
+            result.original_sentence = sentence
+            final_results.append(result)
+
+    return final_results
