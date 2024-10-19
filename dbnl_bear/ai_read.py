@@ -64,7 +64,7 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
     structured_llm = prompt | llm_structured_output
 
     tasks = [analyze_sentence(sentence, structured_llm) for sentence in sentences]    
-    results =  tqdm.gather(*tasks, total=len(tasks))
+    results = await tqdm.gather(*tasks, total=len(tasks))
 
     final_results = []
     for sentence, result in zip(sentences, results):
