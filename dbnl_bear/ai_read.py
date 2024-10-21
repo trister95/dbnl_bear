@@ -83,9 +83,20 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
     prompt = ChatPromptTemplate.from_messages([("system", system_prompt), ("human", "{input}")])
     structured_llm = prompt | llm_structured_output
 
-    tasks = [analyze_sentence(sentence, structured_llm, FullAnalysisModel) for sentence in sentences]
-    
-    return await tqdm.gather(*tasks)
+    #tasks = [analyze_sentence(sentence, structured_llm, FullAnalysisModel) for sentence in sentences]
 
+    total_sentences = len(sentences)
+    with tqdm.tqdm(total=total_sentences, desc = "Processing Sentences") as pbar:
+        final_results = []
 
-
+        for sentence in sentences:
+            try:
+                result = await analyze_sentence(sentence, structured_llm, FullAnalysisModel)
+                if result:
+                    result.original_sentence = sentence
+                    final_results.append(result)
+            except Exception as e:
+                print(f"Error analyzing sentence: {e}")
+            pbar.update(1)
+   
+    return final_results
