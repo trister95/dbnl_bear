@@ -82,21 +82,13 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
     system_prompt = get_system_prompt(phenomenon_of_interest)
     prompt = ChatPromptTemplate.from_messages([("system", system_prompt), ("human", "{input}")])
     structured_llm = prompt | llm_structured_output
+    
+    tasks = [analyze_sentence(sentence, structured_llm, FullAnalysisModel) for sentence in sentences]
 
-    #tasks = [analyze_sentence(sentence, structured_llm, FullAnalysisModel) for sentence in sentences]
-
-    total_sentences = len(sentences)
-    with tqdm(total=total_sentences, desc = "Processing Sentences") as pbar:
-        final_results = []
-
-        for sentence in sentences:
-            try:
-                result = await analyze_sentence(sentence, structured_llm, FullAnalysisModel)
-                if result:
-                    result.original_sentence = sentence
-                    final_results.append(result)
-            except Exception as e:
-                print(f"Error analyzing sentence: {e}")
-            pbar.update(1)
+    # Process all tasks concurrently using asyncio.gather and tqdm
+    final_results = []
+    async for result in tqdm.asyncio.as_completed(tasks, total=len(tasks), desc="Processing Sentences"):
+        if result:
+            final_results.append(result)
    
     return final_results
