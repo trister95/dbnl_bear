@@ -1,0 +1,15 @@
+# Exclude the notebook folder
+exclude notebook/*
+
+# Exclude any virtual environments and unwanted directories
+exclude .env/
+exclude venv/
+
+# Exclude build files
+exclude build/
+exclude dist/
+exclude *.egg-info/
+
+# Include essential files
+include README.md
+include LICENSE

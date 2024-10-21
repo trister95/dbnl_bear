@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dbnl_bear',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     install_requires=["lxml", "tqdm", "python-dotenv", "langchain_core", "langchain_openai", "tqdm",
                       "typing", "langchain_text_splitters", "docx", "fuzzywuzzy", "pydantic",
