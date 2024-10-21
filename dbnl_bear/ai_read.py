@@ -1,6 +1,6 @@
 import os
 from langchain_openai import ChatOpenAI
-from tqdm.asyncio import tqdm
+from tqdm import tqdm
 from typing import Optional
 from pydantic import BaseModel, Field, create_model
 from langchain_core.prompts import ChatPromptTemplate
@@ -86,7 +86,7 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
     #tasks = [analyze_sentence(sentence, structured_llm, FullAnalysisModel) for sentence in sentences]
 
     total_sentences = len(sentences)
-    with tqdm.tqdm(total=total_sentences, desc = "Processing Sentences") as pbar:
+    with tqdm(total=total_sentences, desc = "Processing Sentences") as pbar:
         final_results = []
 
         for sentence in sentences:
