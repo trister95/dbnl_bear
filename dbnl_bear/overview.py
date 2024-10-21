@@ -81,11 +81,11 @@ def map_to_original_index(original_text, alphanumeric_index):
 
 def create_plain_text_output(output_file, document_name, relevant_passages):
     with open(output_file, 'w', encoding='utf-8') as file:
-        file.write(f"In this text: {document_name} the following has been found:\n")
-        for passage in relevant_passages:
-            file.write(f"{passage}\n")
+        file.write(f"In this text: {document_name} the following has been found (numbered):\n")
+        for n, passage in enumerate(relevant_passages):
+            file.write(f"No. {n}:    {passage}\n")
 
-def create_barcode_plot(output_file, relevant_passages, all_passages):
+def create_barcode_plot(relevant_passages, all_passages):
     barcode = np.array([1 if p in relevant_passages else 0 for p in all_passages])
     pixel_per_bar = 4
     dpi = 100
