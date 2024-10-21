@@ -85,12 +85,5 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
     structured_llm = prompt | llm_structured_output
     
     tasks = [analyze_sentence(sentence, structured_llm, FullAnalysisModel) for sentence in sentences]
-
-    # Process all tasks concurrently using asyncio.gather and tqdm
-    final_results = []
     
-    async for result in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="Processing Sentences"):
-        if result:
-            final_results.append(result)
-   
-    return final_results
+    return await tqdm.gather(*tasks)
