@@ -1,6 +1,7 @@
 import os
+import asyncio
 from langchain_openai import ChatOpenAI
-from tqdm import tqdm
+from tqdm.asyncio import tqdm
 from typing import Optional
 from pydantic import BaseModel, Field, create_model
 from langchain_core.prompts import ChatPromptTemplate
@@ -87,7 +88,8 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
 
     # Process all tasks concurrently using asyncio.gather and tqdm
     final_results = []
-    async for result in tqdm.asyncio.as_completed(tasks, total=len(tasks), desc="Processing Sentences"):
+    
+    async for result in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="Processing Sentences"):
         if result:
             final_results.append(result)
    
