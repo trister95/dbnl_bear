@@ -1,6 +1,8 @@
 import docx
 from docx.shared import RGBColor
 from fuzzywuzzy import fuzz
+import matplotlib.pyplot as plt
+import tqdm 
 
 #needs changes in relevant passages logic
 
@@ -14,7 +16,7 @@ def highlight_relevant_passages(input_file, output_file, relevant_passages):
 
     # Process the text and add it to the document with highlighting
     current_pos = 0
-    for passage in relevant_passages:
+    for passage in tqdm.tqdm(relevant_passages):
         # Find the best match for the passage in the remaining text
         best_match = None
         best_ratio = 0
@@ -53,13 +55,18 @@ def create_barcode_plot(input_file, output_file, relevant_passages):
     with open(input_file, 'r', encoding='utf-8') as file:
         original_text = file.read()
 
-    barcode = [' '] * len(original_text)
+    barcode = [0] * len(original_text)
 
     for passage in relevant_passages:
         start = original_text.find(passage)
         if start != -1:
             for i in range(start, start + len(passage)):
-                barcode[i] = '|'
+                barcode[i] = 1  # Mark relevant parts as 1 (for relevant)
 
-    with open(output_file, 'w', encoding='utf-8') as file:
-        file.write(''.join(barcode))
+    plt.figure(figsize=(10, 2))  # Adjust size as needed
+    plt.bar(range(len(barcode)), barcode, color='black', width=1.0)
+
+    plt.axis('off')
+
+    plt.savefig(output_file, bbox_inches='tight', pad_inches=0)
+    plt.show()
