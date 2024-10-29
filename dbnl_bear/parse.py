@@ -3,6 +3,7 @@ import lxml.etree as ET
 import tqdm
 import glob
 import re
+import html
 
 """
 The functions below are helper functions.
@@ -54,6 +55,88 @@ The functions do the core activity of the script:
 they take a dir with dbnl-xml files, extract the actual literary texts, and put them in a new dir.
 """
 
+def make_html_entity_dict():
+    """
+    This function makes a dict where html character entities
+    (like: "&nbsp;") are coupled to xml-readable html decimal
+    representations (like: "&160;").
+
+    Note that in this function the named entities cannot
+    end with a semicolon and can only have a length of 1.
+    """
+    html_decimal_dict = {}
+    for entity, codepoint in html.entities.html5.items():
+        if len(codepoint) == 1 and not entity.endswith(";"):
+            html_decimal_dict[entity] = ord(codepoint)
+    additional_entities = {
+        'lsquo': ord('‘'),
+        'rsquo': ord('’'),
+        'ldquo': ord('“'),
+        'rdquo': ord('”'),
+        'dagger': ord('†'),
+        'rarr': ord('→'),
+        'phi': ord('φ'),
+        'Sigma': ord('Σ'),
+        'alpha': ord('α'),
+        'omicron': ord('ο'),
+        'rho': ord('ρ'),
+        'sigmaf': ord('ς'),
+        'nu': ord('ν'),
+        'omega': ord('ω'),
+        'eta': ord('η'),
+        'nacute': ord('ń'),
+        'pi': ord('π'),
+        'tau': ord('τ'),
+        'sigma': ord('σ'),
+        'epsilon': ord('ε'),
+    }
+    html_decimal_dict.update(additional_entities)
+    return html_decimal_dict
+
+def additional_declaration_str():
+    """
+    This function formulates a additional declaration string for XML documents.
+    Give it the end of the old declaration (make sure this only pops up once in
+    the document!) and provide a dictionary.
+
+    Note that this function is written for conversion of html character entities
+    to numerical representations. For other use, some tweaks might be needed.
+    """
+    html_decimal_dict = make_html_entity_dict()
+    new_declaration = ""
+
+    for item in html_decimal_dict.items():
+        new_str = f'<!ENTITY {item[0]} "&#{item[1]};">\n'
+        new_declaration += new_str
+
+    return '.dtd"' + "\n[" + new_declaration + "]"
+
+
+def add_declaration_to_xml(xml_dir):
+    """
+    This functions adds an entity declaration. It also checks if the "new" declaration
+    isn't already present.
+    """
+    addition = additional_declaration_str()
+
+    for f_name in tqdm.tqdm(os.listdir(xml_dir)):
+        if f_name.endswith(".xml"):
+            with open(os.path.join(xml_dir, f_name), "r", encoding="utf-8") as f:
+                xml_text = f.read()
+                start = xml_text.find('<!DOCTYPE')
+                end = xml_text.find('.dtd"') + len('.dtd"')
+                doctype = xml_text[start:end]
+                new_doctype = doctype.replace('.dtd"', addition)
+                if new_doctype not in xml_text:
+                    xml_text = xml_text[:start] + new_doctype + xml_text[end:]
+                    with open(
+                        os.path.join(xml_dir, f_name), "w", encoding="utf-8"
+                    ) as f:
+                        f.write(xml_text)
+    return
+
+
+
 def find_text_element(root):
     """
     Find and return the <text> element from the XML tree. If the number of text elements is not equal to 1, something fishy is going on and
@@ -86,6 +169,7 @@ def dbnl_to_txt(input_dir, output_dir="dbnl_txt_files"):
     """
     Puts the pieces of the pipeline together.
     """
+    add_declaration_to_xml(input_dir)
     xml_files = get_files_with_extension(input_dir, "xml")
     create_if_absent(output_dir)
     for f in tqdm.tqdm(xml_files):
