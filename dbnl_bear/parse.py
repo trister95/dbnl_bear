@@ -7,7 +7,7 @@ import html
 from typing import List, Dict, Optional
 
 class DBNLParser:
-    @staticmmethod
+    @staticmethod
     def create_if_absent(directory):
         """
         Function creates a directory if it doesn't exist already.
