@@ -44,7 +44,7 @@ class DBNLParser:
     @staticmethod
     def extract_dbnl_id(f_name):
         """
-        Etract dbnl-id from a filename.
+        Extract dbnl-id from a filename.
         """
         pattern = r"[a-zA-Z_]{4}\d{3}[a-zA-Z_\d]{4}\d{2}"
         regex = re.compile(pattern)

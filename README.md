@@ -1,6 +1,6 @@
 ![My Package Logo](assets/logo.png)
 
-This is dbnl_bear, a python package to make it easier to use AI for reading assistance in historical analaysis. 
+This is dbnl_bear, a python package to make it easier to use AI for reading assistance in historical analysis.
 
 The "bear" part of the package name is inspired by a passage from Alex Komoroske's Bits and Bobs:
 
