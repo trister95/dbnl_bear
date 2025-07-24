@@ -7,7 +7,6 @@ from pydantic import BaseModel, Field, create_model
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=400,
     chunk_overlap=20,
@@ -63,18 +62,35 @@ async def analyze_sentence(sentence: str, structured_llm, FullAnalysisModel):
         print(f"Problematic sentence: {sentence}")
         return None
 
-async def analyze_document(input_file: str, phenomenon_of_interest: str, text_splitter = text_splitter,
-                           model = "gpt-4o-mini-2024-07-18"):
-
+async def analyze_document(input_file: str, phenomenon_of_interest: str, text_splitter=text_splitter,
+                         model="gpt-4-turbo-mini-2024-07-18"):
+    
     with open(input_file, 'r', encoding='utf-8') as f:
         original_text = f.read()
 
     sentences = text_splitter.split_text(original_text)
-
+    
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
-        raise ValueError("API key not found. Install python-dotenv, make .env style and save the API key there as: OPENAI_API_KEY=your-api-key-here")                           
-    llm = ChatOpenAI(model=model)
+        raise ValueError("API key not found. Install python-dotenv, make .env file and save the API key there as: OPENAI_API_KEY=your-api-key-here")
+    
+    # Initialize cost tracker
+    cost_tracker = TokenCostTracker(model)
+    
+    llm = ChatOpenAI(
+        model=model,
+        callbacks=[{
+            "on_llm_start": lambda x: cost_tracker.update_usage(
+                cost_tracker.count_tokens(str(x.prompts)),
+                0
+            ),
+            "on_llm_end": lambda x: cost_tracker.update_usage(
+                0,
+                cost_tracker.count_tokens(str(x.response))
+            )
+        }]
+    )
+    
     LLMAnalysisModel = create_llm_analysis_model(phenomenon_of_interest)
     FullAnalysisModel = create_full_analysis_model(phenomenon_of_interest)
 
@@ -86,4 +102,15 @@ async def analyze_document(input_file: str, phenomenon_of_interest: str, text_sp
     
     tasks = [analyze_sentence(sentence, structured_llm, FullAnalysisModel) for sentence in sentences]
     
-    return await tqdm.gather(*tasks)
+    results = await tqdm.gather(*tasks)
+    
+    # Get final usage report
+    usage_report = cost_tracker.get_usage_report()
+    print("\nToken Usage and Cost Report:")
+    print(f"Model: {usage_report['model']}")
+    print(f"Prompt Tokens: {usage_report['prompt_tokens']}")
+    print(f"Completion Tokens: {usage_report['completion_tokens']}")
+    print(f"Total Tokens: {usage_report['total_tokens']}")
+    print(f"Estimated Cost: ${usage_report['estimated_cost_usd']:.4f}")
+    
+    return results, usage_report

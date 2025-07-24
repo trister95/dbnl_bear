@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dbnl_bear',
-    version='0.4.1',
+    version='0.3.3',
     packages=find_packages(),
     install_requires=["lxml", "tqdm", "python-dotenv", "langchain_core", "langchain_openai", "tqdm",
                       "typing", "langchain_text_splitters", "docx", "fuzzywuzzy", "pydantic",
@@ -17,5 +17,10 @@ setup(
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
     ],
+    entry_points={
+        "console_scripts": [
+            "dbnl-bear=dbnl_bear.cli:main",
+        ]
+    },
     python_requires='>=3.10',
 )

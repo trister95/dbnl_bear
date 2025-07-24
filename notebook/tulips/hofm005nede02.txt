@@ -1,0 +1,8045 @@
+Verantwoording digitale uitgave van de Nederlandtsche Woorden-Schat 1650door Ike van Hardeveld
+
+Bron
+
+Deze uitgave betreft de digitale versie van het bastaardwoordenboek van Johan Hofman uit 1650, waarvan de titelpagina luidt:
+
+Nederlandtsche Woorden-Schat, Dat is, Verduytschinge van Uytheemsche Woorden, die somtijdts onder het Nederlandtsch gevonden worden. Wt verscheyde Schrijvers vergadert. [drukkersmerk] Te HAERLEM, Ghedruckt, by Thomas Fonteyn, Boeck-drucker ende Boeck-verkooper aen de Marckt, in de gekroonde Druckery, 1650.Als ‘legger’ van deze digitale editie is gebruikt een exemplaar in persoonlijk eigendom. Deze eerste druk van het woordenboek is tevens te vinden in de Koninklijke Bibliotheek te Den Haag (393 H 2) en in de Universiteits Bibliotheek te Leiden (1193 G 24).
+
+Het digitaliseringsproject
+
+In 2007 heeft Nicoline van der Sijs in verschillende media een oproep gedaan voor hulp van vrijwilligers bij het digitaliseren van de Statenvertaling 1637. Vanwege de grote respons is dit Bijbeldigitaliseringsproject uitgebreid met andere laatmiddeleeuwse en vroegmoderne bijbelvertalingen. Ook werden vier kerkboeken getranscribeerd. Andere deelprojecten volgden, waaronder verzamelingen van spreekwoorden en een Friese bijbelvertaling.
+
+Begin 2009 zijn de werkzaamheden van de vrijwilligers die meewerkten aan het digitaliseren ondergebracht in de Stichting Vrijwilligersnetwerk Nederlandse Taal (SVNT). Daarna volgde ondermeer een digitale uitgave van het Nederlands-Engels woordenboek van Hexham uit 1648. Ook de digitale uitgave van de Nederlandtsche Woorden-Schat uit 1650 vormt een onderdeel van dit omvangrijke digitaliseringsproject.
+
+Alle teksten zijn gepubliceerd op de website van dbnl en gedeponeerd bij Data Archieving and Networked Services DANS, een onderdeel van de KNAW. De Bijbels zijn voorts gepubliceerd op de website van het Nederlands Bijbelgenootschap (NBG), en sommige tevens op de website van het Instituut voor Nederlandse Lexicologie (INL).
+
+Medewerkers aan de digitale uitgave van de Nederlandtsche Woorden-Schat
+
+Coördinatie
+
+dr. Nicoline van der Sijs, Leiden (NL)
+
+Medewerkers
+
+dr. Ike van Hardeveld, Poppel (B) (typewerk en correctie)
+
+drs. Paula Koning, Rotterdam (NL) (tweede correctie)
+
+Achtergrondinformatie over de Nederlandtsche Woorden-Schat van 1650
+
+De Nederlandtsche Woorden-Schat verscheen in 1650 anoniem bij boekdrukker en boekverkoper Thomas Fonteyn te Haarlem. Het was een bastaardwoordenboekje dat zuiver Nederlandse woorden gaf voor ‘Uytheemsche woorden, die somtijdts onder het Nederlandtsch gevonden worden’, zoals de ondertitel zegt.
+
+De Nederlandtsche Woorden-Schat kwam voort uit het purisme, een belangrijke beweging die streefde naar zuivering en opwaardering van de moedertaal. Het werd ontoelaatbaar geacht om woorden te gebruiken die geen deel uitmaakten van de moedertaal. Nederlandse equivalenten moesten de vreemde woorden verklaren en bovenal vervangen. Men diende dus geen ‘emailleren’ te schrijven, maar doorvlammen, geen ‘galoperen’ maar rennen en geen ‘occasie’ maar geleegentheydt.
+
+In het korte voorwoord noemt de drukker drie drijvende krachten binnen het purisme, namelijk Van den Werve, Coornhert, en de Kamer In liefd’ bloeyende. Jan van den Werve was de samensteller van Den schat der Duytsscher talen, een bekend bastaardwoordenboek waarvan de eerste druk in 1552 verscheen te Antwerpen, als Het tresoor der Duytsscher talen. D.V. Coornhert verwees naar Van den Werve in de voorrede van zijn Officia Ciceronis, een werk dat hij uit het Latijn vertaalde in de moedertaal en dat in 1561 verscheen te Haarlem. De Amsterdamse rederijkerskamer In liefd’ bloeyende noemde het werk van Van den Werve in de Twe-spraack vande Nederduitsche letterkunst, een Nederlandse spraakkunst die in 1584 het licht zag in Leiden.
+
+De vertaling van bastaardwoorden in de Nederlandtsche Woorden-Schat is volgens de drukker voor het grootste deel overgenomen van ‘uytmuntende Dichters, als andere Schrijvers’. Deze vertaling is bestemd voor hen die geen kennis bezitten van talen, maar die willen weten wat een bepaald vreemd woord betekent, en hoe men dat woord het best in het Nederlands kan weergeven.
+
+Al is het de boekdrukker die zich in het voorwoord tot de lezer richt, en al zal hij wel de opdracht hebben gegeven om de Nederlandtsche Woorden-Schat samen te stellen, de auteur ervan is hij niet. De samensteller is Johan Hofman. Zijn naam wordt pas in de tweede druk vermeld door Lodewijk Meijer, de bewerker van die uitgave. In de tweede druk staat ook het lofdicht van Reijer Anslo, getiteld ‘Op de Nederlandtsche Woorden-Schat van Johan Hófman’.
+
+Johan Hofman woont, in elk geval gedurende het grootste deel van zijn leven, in Haarlem. Hofman is een vooraanstaand lid van de Remonstrantse Broederschap. Hij correspondeert met de bekende remonstrantse predikant Geeraerdt Brandt, beschrijver van kerkgeschiedenis, die hij informeert over allerlei kerkelijke kwesties. In 1666 sterft Hofman aan de pest en hij wordt begraven in de Grote Kerk te Haarlem.
+
+Waarmee Hofman zijn brood heeft verdiend, is niet geheel duidelijk. In 1644 werkt hij als corrector voor boekdrukker Thomas Fonteyn, voor wie hij in 1650 de Nederlandtsche Woorden-Schat samenstelt. Als Fonteyn in 1653 naar Amsterdam verhuist, blijft Hofman in Haarlem. In 1655 woont hij daar nog, als koopman in de grote Houtstraat. Zijn koopmanschap heeft te maken met de wereld van boek en papier, met het verhandelen van nagelaten documenten en van boekenbezit uit inboedels van overledenen.
+
+Van Johan Hofman zijn vier gedichten bewaard gebleven in de Bloemkrans van verscheiden gedichten, een verzamelbundel die in 1659 verscheen in Amsterdam. Hofman moet bijzonder belezen zijn geweest, vooral op het gebied van de theologie. Lodewijk Meijer noemt hem in de tweede druk van de Woorden-Schat een ‘gheleerde man’, een man van ontwikkeling. In zijn ogen is Hofman ‘een voortreffelijk zaak- en spraakkundighe’, iemand die zeer ter zake kundig is op het gebied van de taal.
+
+De Woorden-Schat van 1650 is een weinig gecompliceerd werkje. De ruim 3.700 artikelen tellen gemiddeld niet meer dan 2,8 woorden. Vermindert men dit getal met het trefwoord, dan blijven er voor de betekenisafdeling niet meer dan 1,8 woorden over, wat duidelijk laat zien hoe beknopt de artikelen zijn.
+
+De trefwoorden behoren tot de bastaardwoorden. Dat zijn vreemde woorden die zijn vernederlandst in vorm en/of uitspraak. Driekwart heeft een vernederlandste vorm, zoals bijvoorbeeld: Bestiaal, Frustratie, Hilariteyt, Tapijt, Victoirie. De overige 25% heeft een volledig uitheemse vorm, maar zal meestal wel zijn vernederlandst in de uitspraak, zoals Gouvernement, Levant, Nonchalant.
+
+Bijna steeds zijn de trefwoorden die Hofman opneemt, afkomstig uit Frans of Latijn. De leenwoorden die in de 17e eeuw in onze taal worden aangetroffen, zijn gewoonlijk uit een van deze twee talen afkomstig. Deze talen waren hier belangrijk. Het Frans was de taal van het hof en de administratie en werd onderwezen op de Franse school. Het Latijn was de taal van kerk, onderwijs en wetenschap en werd gedoceerd op de Latijnse school.
+
+Het trefwoordenbestand van Hofmans Woorden-Schat bestaat uit regelmatig voorkomende bastaardwoorden, gewoonlijk met een vrij algemene betekenis. Meestal zijn ze afkomstig uit bepaalde domeinen, met name die van recht, geneeskunde en wijsbegeerte, krijgskunde, godsdienst, landsbestuur, boek en letteren.
+
+Het duidelijkst aanwezig is het domein van het recht. Voorbeelden zijn: Accerseren (daghvaarden, dagen), Buffet (reghtbank), Cauterie (brand-yser), Exherederen (onterven). Veel trefwoorden komen uit de geneeskunde, zoals: Ceroon (smeer-salf), Cicatrice (litteeken), Fistel (loopend gat), Nativiteyt (geboorte). Ook de wijsbegeerte, die in Hofmans tijd zowel aan middelbaar als aan hoger onderwijs wordt onderwezen, vormt een belangrijke bron: Equaliteyt (even-gelijckheydt), Operatie (werckinge), Positie (stellinge, stant).
+
+De betekenissen bestaan voor 95% uit één woord. Hofman geeft ze niet alleen om het trefwoord te verklaren, maar juist ook om dit te vervangen. Daarom heeft éénwoordigheid zijn voorkeur. Liever één lang en ongewoon woord als betekenis, dan twee woorden. Dat verklaart betekenissen als faamrooven, geselschappigh, reuckofferen, scheursughtigh.
+
+De éénwoordigheid der betekenissen wordt in het bijzonder gerealiseerd door samenstellingen met een koppelteken tussen de samenstellende delen. Zo komen lange, ongewone betekenissen tot stand als achter-uyt-vaarder, onder-recht-legghen, opper-hoofdigheydt, tegen-aanspannen, voor-recht-dagen.
+
+Niet meer dan 5% der betekenissen bestaat uit meer dan één woord. Meestal gaat het om een klein woordgroepje dat in z’n geheel fungeert als synoniem van het trefwoord. Voorbeelden zijn: (Melodie) zoet geluyd, (Meubelen) tilbare goederen, (Recapitulatie) wederhalinge der hooft-stucken.
+
+In Hofmans lexicografische eersteling zijn nogal wat tekortkomingen te signaleren. Er zijn fouten in de spelling, onduidelijke of verkeerde betekenissen, twijfelachtige verklaringen. Dat de spelling een bijzonder grillig beeld vertoont, is niet zo vreemd. In Hofmans tijd bestond er immers nog geen vaste spelling. Ook speelden zetter en corrector in de toenmalige drukkerij een belangrijke rol en konden zij gemakkelijk steken laten vallen. Bovendien zullen fouten dikwijls afkomstig zijn uit de bronnen die Hofman raadpleegde. Aan een lexicografisch werk werden in die tijd trouwens volkomen andere eisen gesteld dan tegenwoordig.
+
+Het is niet zo dat Hofman voor de vreemde woorden die hij in de moedertaal tegenkwam, zelf een vertaling bedacht. Veel van zijn ‘verduytschinghen’ zijn ook elders te vinden. Slechts incidenteel gebruikte hij niet-lexicografische werken als bron. Hij putte vooral uit werken van lexicografische aard. Belangrijkste was waarschijnlijk Den schat der Duytsscher talen uit 1552, van J. van den Werve, die de drukker noemt in het voorwoord.
+
+Het woordenboek van Hofman, dat in totaal twaalf keer is uitgegeven, werd in de loop der jaren steeds bekender. De tweede druk van 1654 werd bewerkt en aangevuld door Lodewijk Meijer. Ook de druk van 1658, verschenen bij Jan Hendriksz Boom en Jan Rieuwertsz te Amsterdam, en die van 1663 en 1669, verschenen bij de familie Boom, zijn door Meijer bewerkt.
+
+In 1658 herspelt Meijer de titel tot Nederlandsche Woordenschat. In 1669 verandert hij de titel in: L. Meijers Woordenschat. Hoewel de uitgave van 1669 Meijers laatste bewerking is, blijft de naam van het woordenboek bij alle volgende uitgaven ongewijzigd. Hierdoor zijn ook de latere uitgaven meestal aan ‘L. Meijer’ toegeschreven. De naam van Hofman kreeg weinig bekendheid.
+
+De drukken van 1688, 1698, 1720 en 1731 zijn ook nog uitgegeven door leden van de boekverkopersfamilie Boom. In 1688 is dat een bewerking door een onbekende. In 1720 is de bekende letterkundige David van Hoogstraten de bewerker. In 1698 en in 1731 gaat het om ongewijzigde herdukken.
+
+In 1745 geeft uitgever Jeronimus Ratelband te Amsterdam opdracht aan een onbekende om de Woordenschat te herzien. In 1777 neemt de Haarlemmer Ernst Willem Cramerus deze taak op zich voor uitgever Loveringh en Allart te Amsterdam. In 1805 verschijnt de twaalfde en laatste druk van het woordenboek bij uitgever A. Blussé en Zoon te Dordrecht, volgens de titelpagina herzien door ‘Verscheiden Taalminnaars’.
+
+De eerste druk van de Woorden-Schat bevat alleen bastaardwoorden. In de derde druk splitst Meijer de inhoud in een deel met ‘bastaardwoorden’ en een deel met ‘konstwoorden’, uitheemse vaktermen. In 1669 voegt hij een derde deel toe met ‘verouderde en onghewoone woorden’. Deze drie delen, vrijwel altijd gebonden in één band, vormen tot in de twaalfde en laatste druk van 1805, samen het woordenboek.
+
+In 1650 telt de Woorden-Schat, met één deel, bijna 4000 artikelen en 10.000 woorden. De laatste druk van 1805, met drie delen, bevat 21.000 artikelen en ruim 100.000 woorden. Meer dan anderhalve eeuw is de Woorden-Schat dan gedrukt, verkocht en geraadpleegd. Men is het werk blijven gebruiken tot ver in de negentiende eeuw toe.
+
+Gebruikte literatuur
+
+- Ike van Hardeveld, ‘Op zoek naar een onbekende…Wie was Johan Hofman, samensteller van de Nederlandtsche woorden-schat?’, in: Jaarboek van de Stichting Instituut voor Nederlandse Lexicologie, p. 54-88, Leiden 1997. Te vinden in het digitale tijdschrift Trefwoord: http://www.fryske-akademy.nl/fa/uitgaven/trefwoord
+
+- Ike van Hardeveld, Lodewijk Meijer (1629-1681) als lexicograaf. Dissertatie, Leiden 2000.
+
+Te vinden op: http://hdl.handle.net/1887/514
+
+Inhoudsopgave van de Nederlandtsche Woorden-Schat
+
+- Titelpagina. Nederlandtsche Woorden-Schat enz.
+
+- Opdracht door de drukker.
+
+- Het alfabetisch woordenboek zelf, van A tot Z.
+
+Gevolgde werkwijze bij het digitaliseren
+
+De tekst van de Nederlandtsche Woorden-Schat is in zijn geheel overgetikt. Daarbij werden alle tekstelementen (boektitels, tussenregels enz.) voorzien van coderingen om de tekst op internet te kunnen plaatsen. Het overgetypte werk is tot tweemaal toe integraal vergeleken met het origineel.
+
+Diplomatische uitgave
+
+De gedigitaliseerde versie is een diplomatische weergave van de tekst. Het origineel is dus zo exact mogelijk gevolgd. In dit geval inclusief de bijzonder onregelmatige spelling. Ook het hoofdlettergebruik en de interpunctie van het origineel zijn nauwkeurig overgenomen.
+
+Het spatiegebruik rond de leestekens is in de digitale versie genormaliseerd. Dat houdt in dat na (en niet vóór) de leestekens consequent een spatie is gezet. Steeds is een spatie geplaatst voor het lidwoord ’t (in ’t, van ’t), maar nooit in een combinatie met t’ (t’samen).
+
+Aan het begin van het trefwoord wordt in het woordenboek geen onderscheid gemaakt tussen de hoofdletter I en de hoofdletter J. Beide zijn met I weergegeven en zo is dit ook overgenomen. Dus: Ialours, Ialousie, Idioot, Idole.
+
+Tussen de hoofdletters U en V is soms wel onderscheid gemaakt, maar meestal niet en niet consequent. Onder de V staan bijvoorbeeld: Ulceratie, Ulcereren. En onder de U staan: Vsure, Vsurpatie. Ook dit is precies overgenomen. Dus: Unanimiteit, Vnguent, Urbaan, Vsantie.
+
+Synonieme trefwoorden zijn in het originele woordenboek vaak onder elkaar geplaatst. Na een accolade volgt dan de gezamenlijke betekenis. In de diplomatische weergave zijn dergelijke synoniemen achter elkaar geplaatst, gescheiden door een komma, en is de accolade weggelaten. Dit is bijvoorbeeld gedaan bij: Anxiëteyt en Anxiëtude, Fournieren en Furneren, Negotiatie en Negotie, Regime en Regiment.
+
+Romein en cursief schrift, breviaturen
+
+De tekst van de Nederlandtsche Woorden-Schat is gezet in verschillende lettertypes. In het alfabetische deel van het woordenboek is de ingang gedrukt in romein. Na een komma volgt de betekenis in fractuurschrift, afgesloten met een punt. In de digitale uitgave is de ingang in romein overgenomen in romein. De betekenis in fractuurletter is overgenomen in cursief. De fractuurkomma tussen de betekenissen is eveneens overgenomen in cursief. De komma na de ingang en de punt na de betekenissen bleven romein.
+
+De opdracht voorin het werk is gedrukt in romein en cursief, hetgeen net zo is overgenomen. De titelpagina vertoont romein, cursief en (één woord) fractuur. Romein en cursief zijn overgenomen. Het enige woord in fractuur, het woord ‘Nederlandtsche’, is eveneens cursief gezet.
+
+Eventuele vormverschillen tussen letters zijn buiten beschouwing gelaten, omdat het gaat om betekenisloze typografische verschillen. Het gebruik van de twee verschillende letters s, de korte s, en de lange s die sterk op een f lijkt, is daarom genegeerd.
+
+In het woordenboekgedeelte komt een klein aantal breviaturen voor. Zoals gebruikelijk in een diplomatische uitgave zijn deze opgelost. De toegevoegde letters zijn cursief weergegeven bij de romeinse ingangen en ze zijn in romein weergegeven bij de cursieve betekenissen. Dit ter onderscheiding. Het liggend streepje boven een klinker, soms gevonden bij een betekenis, is opgelost als niet-cursieve n: weder-antwoorden (p.129), ophouden (p.132). De puntkomma achter een eind-q, soms gevonden bij de betekenissen, is opgelost als cursieve ue: Lubricque, Mechanique, Mistique.
+
+Af en toe is aan een bastaardwoord een zuiver Nederlands woordje toegevoegd, daarmee verbonden door een koppelteken. Dit woordje staat in het origineel cursief afgedrukt en is cursief overgenomen. Ter illustratie: Allodiale-goederen, onleen-goederen. Convooy-gelt, verlof-gelt.
+
+Regelindeling en paginering
+
+De vormgeving van de oorspronkelijke tekst is in de digitale uitgave losgelaten. De regeleinden komen dus in de digitale uitgave niet overeen met die in de oorspronkelijke tekst. Afgebroken woorden zijn in de digitale uitgave aaneengetypt.
+
+Er is steeds aangegeven waar een nieuwe pagina in het origineel begint. Het voorwerk van het originele woordenboek is ongepagineerd. Het gaat om drie pagina’s, die in de digitale uitgave opvolgend zijn genummerd. Wanneer een nieuwe pagina begint, is de indicatie [pag. *x] geplaatst, bijvoorbeeld [pag. *I]. De asterisk geeft aan dat het paginanummer in het origineel niet voorkomt.
+
+De pagina’s van het alfabethische deel van het woordenboek zijn opvolgend genummerd en deze paginanummers zijn steeds nauwkeurig overgenomen uit het origineel, bijvoorbeeld [pag. 40]. Zeven pagina’s hebben in het origineel een verkeerd paginanummer:
+
+[pag. 200] lees: [pag. 100]
+
+[pag. 201] lees: [pag. 101]
+
+[pag. 204] lees: [pag. 104]
+
+[pag. 205] lees: [pag. 105]
+
+[pag. 208] lees: [pag. 108]
+
+[pag. 209] lees: [pag. 109]
+
+[pag. 212] lees: [pag. 112]
+
+Ook deze onjuiste paginanummers zijn ongewijzigd overgenomen, maar ze zijn in de onderliggende html gecorrigeerd.
+
+Zetfouten
+
+Zetfouten of drukfouten, ook omgekeerde letters, zijn precies overgenomen uit het origineel, inclusief onjuiste paginanummers (zie hierboven). De opvallendste zetfouten zijn:
+
+p.5 Adjointeren. byvoegen.     Achter het trefwoord punt, lees: komma.
+
+p.13 Arrectie, (…) oprechtinge,     Na betekenisafdeling fractuurkomma, lees: punt.
+
+p.26 Combineren, samenvoegen,     Na betekenisafdeling fractuurkomma, lees: punt.
+
+p.32 Consenteren, bewilligen toestemmen.     Komma tussen betekenissen ontbreekt.
+
+p.34 Contesteren, (…) beroepen opghetuygen.     Komma tussen betekenissen ontbreekt.
+
+p.35 Tweemaal het trefwoord Contraventeur.
+
+p.51 Effect, sorteren, stant grijpen.     Bedoeld is: Effect sorteren, stant grijpen.
+
+p.54 Enërveren, lees: Enerveren.
+
+p.57 Ercerperen, lees: Excerperen.
+
+p.59 Exërciteren, lees: Exerciteren.
+
+p.72 Homicidie, doodtslagh-     Koppelteken, lees: punt.
+
+p.76 Immeuble. Immobile, ontilbaer.     Achter Immeuble punt, lees: komma.
+
+p.78 Impotentie; onmaghtigheydt,…     Puntkomma, lees: komma.
+
+p.82 Inëvitabel, lees: Inevitabel.
+
+p.82 Iuexpugnabel, lees: Inexpugnabel.
+
+p.83 Infideliteyt, (…) trouweloosheydt,     Na betekenisafdeling fractuurkomma, lees: punt.
+
+p.200 Muteren, (…) verauderen     Bedoeld is: veranderen.
+
+p.201 Negligent, versnymigh…     Bedoeld is: versuymigh.
+
+p.204 Observeren, waarnemeu.     Bedoeld is: waarnemen.
+
+p.114 Poligamic, lees: Poligamie.
+
+p.115 Practiseren, (…) onderwind.     Bedoeld is: onderwinden.
+
+p.116 Precipitatie, (…) verhaastingc.     Bedoeld is: verhaastinge.
+
+p.117 Prefidentie, lees: Presidentie.
+
+p.126 Recificeren, lees: Rectificeren.
+
+p.127 Reduceren, (…) herbrengcn.     Bedoeld is: herbrengen.
+
+p.132 Retourneren, (…) keeren,      Na betekenisafdeling fractuurkomma, lees: punt.
+
+p.138 Solutie, op;lossinge…     Bedoeld is: op-lossinge.
+
+p.143 uspectie, lees: Suspectie.
+
+p.149 Valey – dal.     Koppelteken, lees: komma.
+
+p.152 Vsufruct – lijftoght…     Koppelteken, lees: komma.
+
+Nederlandtsche
+
+Woorden-Schat,
+
+Dat is,
+
+Verduytschinge van Uytheem-
+
+sche Woorden, die somtijdts on-
+
+der het Nederlandtsch gevon-
+
+den worden.
+
+Wt verscheyde Schrijvers vergadert.
+
+[drukkersmerk]
+
+Te HAERLEM,
+
+Ghedruckt, by Thomas Fonteyn, Boeck-druc-
+
+ker ende Boeck-verkooper aen de Marckt, in
+
+de gekroonde Druckery, 1650.
+
+De Drucker
+
+Aen den Goedtwillighen
+
+Lesers.
+
+GUnstighe Beminners van onse rijcke Moeders Tale, wy vertoonen u in dese Woorden-schat de verduytschinghe van veele onduytsche woorden: Te weten sulcke, die in verscheyde gheleghentheydt onder ’t Nederlandtsch plachten gemenght te werden. Dierghelijcke verduytschinge is eerstelijck ghedaan door den Heer Ian van den Werve in sijn Schat der Duytsche Tale, ghelijck D. V. Cornhert loffelijck ghedenckt inde Voorreden van sijne vertaalde Officia Ciceronis, ende de Kamer van Liefd bloeyende t’ Amsterdam in hare Tweespraeck van de Nederduytsche Letter-konst. Doch de Nederlandtsche Tale is zedert tot meer volmaacktheydt gekomen, soo wel door uytmuntende Dichters, als andere Schrijvers, uyt de welcke dese verduytschinghe ten meesten deele is waar-ghenomen ende aen-gheteyckent, tot nut en dienst van de onkundighe in Talen; de welcke in verscheyde voorvallen begeerigh zijn te weten wat dit of dat Wtheemsch woordt beteyckent, ende hoe men het selve best in Duytsch soude konnen uytdrucken.
+
+Dit behoorde een yeghelijck aangenaam te zijn, want het is leelijck (seydt Erasmus erghens) dat een Mensch een vreemdelingh schijnt in die Tale daer in hy gheboren is. Oversulckx hebben wy ghe-oordeelt dat wy met dese vertalingh te drucken, veele een aanghenamen dienst souden doen, het welck bevindende, sal ons aanporren om na desen in dierghelijcke of grooter saken voort te gaan.
+
+Vaart wel.
+
+WOORD-SCHAT.
+
+A. B.
+
+ABaliënatie, ontvreemdingh.
+
+Abandonneren, overgeven, verlaten, opgeven.
+
+Abderen, verberghen, berghen, schuylen.
+
+Abdiceren, ontseggen, afseggen.
+
+Aberreren, afdwalen.
+
+Abhorreren, afschricken.
+
+Abigeren, weghdrijven, ontvoeren.
+
+Abjiceren, weghwerpen, verwerpen.
+
+Abjuratie, afzweeringe.
+
+Abjureren, afzweren, ontzweren.
+
+Abjudiceren, afwijsen, ontwijsen.
+
+Ablatie, ontnemingh, weghnemingh.
+
+Ablegeren, afsenden, weghstieren.
+
+Abnegeren, lochgenen, ontseggen, verzaken.
+
+Abnuëren, afwencken, ontseggen.
+
+Aboleren, verdelgen, vernielen, vernietigen.
+
+Abominabel, grouwelijck.
+
+Abominatie, gruwel, afschrick.
+
+Abonderen, overvloeyen.
+
+Aborderen, anranden, an boort leggen.
+
+Abortiëren, misdraght baren, mis-baren, mis-draghen.
+
+Abregé, verkortzel, kort begrijp.
+
+Abripiëren, wechrucken, ontrucken, schaken.
+
+Abrogeren, afschaffen, afbreken.
+
+Abrupt, plotselijk.
+
+Abscederen, afscheyden, afwijcken, ontwijcken.
+
+Absconderen, wegh-duycken, ontschuylen.
+
+Absent, afweesen.
+
+Absenteren, afsijn.
+
+Absolut, onbepaalt, plat-uyt, vol-uyt, volstreckt, rond-uyt.
+
+Absolveren, volvoeren, voltrecken, vrykennen, afdoen, ontslaen.
+
+Absolutie, afdoeninge, vrykenninge.
+
+Absorberen, opslocken, inslorpen, verslinden.
+
+Abstergeren, afvagen, afwissen.
+
+Abstinentie, onthoudinge, afhoudinge.
+
+Abstineren, onthouden, spanen.
+
+Abstract, afgetrocken.
+
+Abstraheren, onttrecken, aftrecken.
+
+Abstruderen, verstoten.
+
+Absurd, ongerijmt.
+
+Abundantie, overvloedigheyd.
+
+Abus, misbruyk, mislagh, versinning.
+
+Abuseren, mis-bruyken, mis-leyden, versinnen.
+
+A. C.
+
+Academia, Opper-school, Landschool.
+
+Accableren, verdrucken, stolpen.
+
+Accederen, by-komen, ankomen, ghenaken.
+
+Accelereren, spoeden, haasten.
+
+Accenderen, ontsteken, ansteken.
+
+Accenseren, by-rekenen, by-aghten, by-houden.
+
+Accent, woord-klank, galm.
+
+Accepteren, anvaarden.
+
+Acceptilatie, ontfang-brief, quijtbrief.
+
+Accerseren, daghvaarden, dagen.
+
+Accessoor, toegancklijck, bykomende.
+
+Acces, toegang, angang.
+
+Accident, toeval, voorval, byval.
+
+Accideren, toevallen, voorvallen, byvallen.
+
+Accingeren, angorden, omgorden.
+
+Acclamatie, toeroeping.
+
+Acclameren, toeroepen.
+
+Accomoderen, voegen, gevoegen, gerieven.
+
+Accompagneren, verselschappen.
+
+Accord, verdragh.
+
+Accorderen, verdragen, overeenkomen.
+
+Accoutreren, toestellen, optooyen.
+
+Accresceren, angroeyen.
+
+Accumberen, ansitten, anliggen.
+
+Accumuleren, ophopen.
+
+Accuraat, schrander, spitsvindigh, bondigh.
+
+Accusatie, anklacht, beschuldiging.
+
+Accuseren, betighten, anklagen, beschuldigen, betijgen, antijgen.
+
+Acerbiteyt, wrangheydt.
+
+Acquiëscement, berustinge, toestaninge.
+
+Acquiësceren, berusten, gerust zijn, toestaan, bewillighen.
+
+Acquireren, verkrijgen, bekomen.
+
+Acquiteren, quijten, quijtschelden.
+
+Acre, scherp.
+
+Acte, blijck, bescheydt, een kennisse.
+
+Actie, handelingh, werckinghe, opspraack, op te spreken hebben.
+
+Actif, werckelijck.
+
+Actiones, reghtsmiddelen, Pleytstucken, dinghtaalen.
+
+Actueel, Actueux, werckelijck.
+
+Actum, gedaan, gemaackt.
+
+Acuëren, wetten, spitsen, scherpen.
+
+Acut, scherp.
+
+A. D.
+
+Adagium, spreeckwoord.
+
+Adapteren, anvoeghen, by-schicken, toe-passen.
+
+Adderen, toedoen.
+
+Additie, toedoeningh.
+
+Addiceren, toekennen, toeseggen.
+
+Adduceren, anleyden, byleyden.
+
+Adhereren, anhangen.
+
+Adhiberen, byhouden, bybrengen, besigen.
+
+Adhibitie, toebrenginge, bybrenginge.
+
+Adhorteren, anmanen.
+
+Adiëren, anvaerden, annemen.
+
+Adigeren, andrijven.
+
+Adjiciëren, toewerpen.
+
+Adimeren, benemen.
+
+Adimpliëren, vervullen.
+
+Adjoint, bygevoegde.
+
+Adjointeren. byvoegen.
+
+Adjourneren, daghvaarden.
+
+Adipisceren, bekomen, verkrijgen.
+
+Adjudicatie, toewijsinge.
+
+Adjudiceren, toewijsen.
+
+Adjument, hulp, bystant.
+
+Adjunct, bygevoegd.
+
+Adjureren, zweeren, bezweeren.
+
+Adjusteren, gelijkmaken.
+
+Adjuveren, helpen.
+
+Admonitie, anmaninge.
+
+Adminiculeren, ondersteunen, helpen, stutten.
+
+Administratie, bewint, bedieninge.
+
+Administreren, bewindt hebben.
+
+Admiraal, Zee-vooght, Vloot-Heer.
+
+Admirabel, wonderbaar.
+
+Admireren, verwonderen.
+
+Admisceren, vermengen.
+
+Admitteren, toestaan, inwilligen.
+
+Admoneren, vermanen, anmanen.
+
+Admorderen, toebijten, anbijten.
+
+Admoveren, anvoeren, aanbrenghen, anstuwen.
+
+Adnavigeren, anschepen, anvaren.
+
+Adnecteren, anknopen, anbinden.
+
+Adoleren, reuckofferen.
+
+Adopteren, anneemen tot kintschap.
+
+Adoptie, anneeming tot kindtschap.
+
+Adoratie, anbiddinge.
+
+Adoreren, anbidden.
+
+Adorneren, vercieren, opschicken, tooyen.
+
+Adresse, bestellinge, beschickinge.
+
+Adresseren, schicken, bestellen, beschicken, anwijsen, toestieren.
+
+Advenant, overeenkomst.
+
+Adveniëren, toekomen.
+
+Advent, toekomste.
+
+Advers, tegen.
+
+Adversarius, tegendeel, tegenzijde.
+
+Adversiteyt, tegenspoet.
+
+Adverteren, toekeeren, waerschouwen.
+
+Advertissement, waerschouwinge, te kennen geving.
+
+Advijs, goetdunken, waerschouwinge.
+
+Adviseren, beraden, besinnen, raden, te kennen geven.
+
+Aduleren, pluymstrijcken, vleyen.
+
+Adultere, overspel.
+
+Advocaat, voorspraak.
+
+Advoceren, voorspreeken.
+
+Advolveren, toerollen, aanrollen, toewentelen, aanwentelen.
+
+Advouëren, gestandt doen, toestemmen.
+
+A. F.
+
+Affable, gespraaksaam.
+
+Affecteren, be-yveren, behertighen, soecken, vereyschen.
+
+Affectie, hertstoght, toeneyging.
+
+Affectioneren, toeneygen.
+
+Afficiëren, andoen.
+
+Affigeren, anheghten.
+
+Affiniteyt, maagschap, swagerschap.
+
+Affirmeren, bevestigen.
+
+Afflictie, quellinge.
+
+Affluëren, toevloeyen, overvloeyen.
+
+Affront, verkortinge, beleedinge.
+
+Affronteren, verkorten, beledigen.
+
+A. G.
+
+Agent, Gesant, Hofgesant.
+
+Ageren, doen, bedrijven, verhandelen.
+
+Aggravatie, beswaringe, overladinge.
+
+Aggraveren, beswaren, overladen.
+
+Aggreable, angenaam, behaaglijck.
+
+Aggreatie, behaging, toestemming.
+
+Aggrediëren, anvallen, angaan, toetreden.
+
+Aggreëren, behaghen, believen, bewillighen.
+
+Aggregeren, toegaderen.
+
+Aggresseren, anvatten, anvallen, invaren.
+
+Agil, snel, behendigh.
+
+Agitatie, drijvinge, beroeringe, anstokinge.
+
+Agiteren, drijven, beroeren.
+
+Agnosceren, erkennen.
+
+Agriculture, Lant-bou.
+
+A. L.
+
+Aliënatie, vervreemdinge.
+
+Aliëneren, vervreemden.
+
+Aliment, Alimonie, onderhout, voetsel.
+
+Alimentatie, voedinge, opvoedinge.
+
+Allatreren, anbassen.
+
+Allegatie, bybrenging.
+
+Allegeren, bybrengen, voorthalen.
+
+Alleveren, verlighten.
+
+Alliantie, verbont.
+
+Alliëren, verbont maken, verbinden.
+
+Alliceren, anlocken.
+
+Allideren, anstoten.
+
+Allocutie, anspraak.
+
+Allodiale-goederen, onleen-goederen.
+
+Alloqueren, anspreken.
+
+Alludéren, op speelen, ’t ooge op hebben.
+
+Alluëren, anvloeyen.
+
+Allumeren, ontsteken.
+
+Allusie, spelinge oft insicht op yets.
+
+Alluvie, anvloeyinge, anspoelinge.
+
+Alteratie, veranderingh.
+
+Altercatie, gekijf.
+
+Alterceren, kijven.
+
+Alternatie, wisselingh, walinge.
+
+Alterneren, beurthouden, overhants doen.
+
+Altus, hoogh, boven-zangh.
+
+A. M.
+
+Amaritude, bitterheyd.
+
+Amasseren, ophopen.
+
+Amateur, liefhebber.
+
+Ambages, omwegen.
+
+Ambassadeur, Gesant, Hofgesant.
+
+Ambidextre, slinx en reghts.
+
+Ambiëren, na hengelen, om hengelen, vryen, begeren.
+
+Ambigeren, twijfelen.
+
+Ambulatie, wandelinge.
+
+Amende, boete.
+
+Ameniteyt, lieflijkheyd.
+
+Amiable, lieflijck.
+
+Amissie, verlies.
+
+Amitteren, verliesen.
+
+Ammunitie, toerustingh, oorloghs gereedtschap, Krijgs-tuygh.
+
+Amodereren, middelen.
+
+Amoliëren, wegh drijven, verdrijven, afwenden.
+
+Amoveren, weren, weghdoen.
+
+Amphibologie, twijfelreden, twijfel-zin, dubbelsinnigheyt.
+
+Amphitheätrum, Schouw-burgh, ronden Schouw-burgh.
+
+Amplecteren, omhelsen.
+
+Ample, breedt, ruym, wijdlughtigh.
+
+Ampliëren, verbreeden.
+
+Amplificeren, breetmaken, uytbreeden.
+
+Amputeren, besnoeyen, afsnoeyen.
+
+A. N.
+
+Anabaptist, Herdoper.
+
+Anagramma, even-letter-spreuck.
+
+Analogie, evenredenheyd.
+
+Anathematiseren, vervloecken.
+
+Anatomie, ontledinge.
+
+Androgijnen, Manwijven.
+
+Angusteren, benaauwen, engen.
+
+Angustie, enghte, bangigheyd.
+
+Animadverteren, waarschouwen, behertigen, bevroeden.
+
+Animeren, moedigen, moetgeven.
+
+Animeux, moedigh.
+
+Anualen, Jaarboecken.
+
+Annecteren, anknopen, anheghten.
+
+Annex, angeheght.
+
+Annicheleren, vernietigen.
+
+Annoteren, anteykenen.
+
+Annuëren, toewencken, toeknicken.
+
+Annulleren, vernietigen.
+
+Annunciëren, verkondigen.
+
+Antecederen, voorgaen, overtreffen.
+
+Antecelleren, uytmunten, overtreffen.
+
+Antecesseur, Voorsaat.
+
+Anteponeren, voorstellen, voorsetten.
+
+Anticipatie, voorkominge.
+
+Anticiperen, voorkomen.
+
+Antidateren, te vooren anteykenen.
+
+Antipathie, afkeer, weersin.
+
+Antiqueren, outmaken, weghdoen, afschaffen.
+
+Antiquiteyt, outheydt.
+
+Anxiëteyt, Anxiëtude, angst, benaautheyd, anghstvalligheyd.
+
+A. P.
+
+Apertie, openinge.
+
+Apologia, verantwoordingh, naamscherm, verdedigingh.
+
+Apoplexie, popelsye, beroertheyt.
+
+Apostaat, afvallige.
+
+Apostasie, afval.
+
+Apostil, bescheyt, bescheyt-schrift.
+
+Aposteme, Apostumatie, swellinge, geswel.
+
+Apozeme, kruyd-drank.
+
+Appaiseren, bevredigen.
+
+Apparentie, schijnbaarheyd.
+
+Apparent, ooghschijnlijck, schijnbaarlijck.
+
+Appareren, bereyden, verschijnen.
+
+Appart, afgesondert, afgedeelt.
+
+Appel, beroep.
+
+Appellatie, beroepinge.
+
+Appelleren, beroepen.
+
+Appenderen, anhangen.
+
+Appendix, anhangsel.
+
+Appetijt, graagheyd.
+
+Appingeren, anvoegen, afmalen, aanschilderen, opdichten.
+
+Applauderen, vervrolijcken, prijsen, toejuyghgen.
+
+Applicatie, toepassinge.
+
+Appliceren, toepassen.
+
+Appointeren, spitsen, bestemmen, vergelijcken.
+
+Appointement, besleghtinge.
+
+Apponeren, apposeren, bysetten.
+
+Apporteren, bybrengen, toebrengen.
+
+Appositie, bysettinge.
+
+Appreciëren, waerdeeren, schatten.
+
+Apprehenderen, vatten, bevatten.
+
+Apprehensie, vattinge, begrijpinge.
+
+Approbatie, goetkenninge.
+
+Approberen, goedt kennen, goedt achten.
+
+Approche, naardering, loopgragt.
+
+Approcheren, naarderen.
+
+Appropinqueren, genaken, naarderen.
+
+Appropriëren, toe-eygenen.
+
+Appuy, leening, steunsel.
+
+April, Grasmaant.
+
+Apteren, voegen, passen.
+
+A. R.
+
+Arbiter, Scheytsman, Seghsman, bemiddeler.
+
+Arbitraal, beraadtsaam, wilkuerlijck, goedt-dunckende.
+
+Arbitrage, bemiddelingh.
+
+Arbitreren, bemiddelen, raadtslaan, beraatslaghen.
+
+Arcenaal, Wapenhuys.
+
+Arceren, weren, afweren, beletten, in-drijven.
+
+Architectura, Bouw-konst.
+
+Arcteren, beklemmen, benauwen.
+
+Ardent, vyerigh, brandigh.
+
+Arderen, branden.
+
+Ariditeyt, drooghte.
+
+Aristocratie, der besten-regieringe.
+
+Arguatie, bewijsinge, kibbelingh.
+
+Arguëren, bewijsen, knibbelen.
+
+Argument, bewijs, bewijsreden.
+
+Arithmetica, Telkonst.
+
+Armade, krijghs-rustinge, krijghs-heyr.
+
+Armeren, wapenen.
+
+Aromatijck, welrieckende.
+
+Arquebuse, Vyer-roer.
+
+Arrectie, opstreckinge, oprechtinge,
+
+Arrideren, toelaghgen.
+
+Arrigeren, opstrecken, oprechten.
+
+Arrest, beslagh, besluyt, bekommering.
+
+Arresteren, besluyten, bekommeren, beslaan.
+
+Arriveren, ankomen, anlanden.
+
+Arroderen, inbijten, knagen, beknabbelen.
+
+Arrogant, beroemelijck, trots, vermeten.
+
+Arrogeren, beroemen, vermeten.
+
+Arrouseren, besproeyen.
+
+Arterie, pols-ader, hert-ader.
+
+Articule, lidt.
+
+Artifice, konst-handel, konstgreep, konst.
+
+Artillerie, geschut.
+
+A. S.
+
+Ascenderen, klimmen, opgaan.
+
+Ascendent, opgaande.
+
+Ascensie, klimminge, opvaart, opstyginge.
+
+Aspect, anschou.
+
+Aspergeren, besprengen.
+
+Asperneren, versmaden, veraghten.
+
+Aspersie, besprenging.
+
+Aspiciëren, anschouwen.
+
+Aspiratie, toeblasinge, galm.
+
+Aspireren, nae snacken, nae traghten, bejagen, op vlammen.
+
+Adporteren, weghbrengen.
+
+Assaut, anval.
+
+Asscriberen, toeschrijven.
+
+Assecteren, navolgen, bejagen.
+
+Assembleren, vergaderen.
+
+Assenteren, falivouwen, vleyen.
+
+Assentiëren, mede-houden, toestemmen.
+
+Assequeren, bekomen, verkrijgen.
+
+Assereren, verdadigen, gestant doen.
+
+Assersie, verdadiging, toestemmige.
+
+Asserteur, verdadiger, verseeckeraer.
+
+Asserveren, behoeden, bewaren.
+
+Assesseur, bygevoeghde, bysitter.
+
+Assignatie, anwijsinge.
+
+Assigneren, anwijsen.
+
+Assimileren, vergelijcken.
+
+Assimuleren, mede-veynsen.
+
+Assises, pleytdagen.
+
+Assisteren, bystaan.
+
+Associëren, verselschappen.
+
+Assommeren, dootslaan, knellen, optellen.
+
+Assopiëren, stillen, in slaap wiegen.
+
+Assumeren, bynemen, annemen, toenemen.
+
+Assumtie, bynemingh, annemingh, toenemingh.
+
+Assureren, versekeren.
+
+Astringeren, toeprangen, stoppen, vastmaken.
+
+Astrologie, starre-leringe, starrekijkinge.
+
+Astrologus, Astrologijn, starrekijcker.
+
+Astronomie, starrekonst.
+
+Astutie, schalckheyd, list.
+
+Asijl - vryplaets.
+
+A. T.
+
+Atheist, ongodtsdienstige, ongodtlijcke, ongodist, Godt-verlater.
+
+Atroos, fel, vinnigh, bits, grimmigh.
+
+Attache, anheghtsel.
+
+Attacheren, anheghten.
+
+Attaqueren, anranden, aanrantsen.
+
+Attenderen, toeluysteren, ophooren.
+
+Attentaat, poginge, bestaen, bedrijf.
+
+Attenteren, onderstaan, poghen, onderwinden, bedrijven.
+
+Attentie, toeluysteringe.
+
+Attesteren, betuygen.
+
+Attenuëren, verdunnen, verkleynen.
+
+Attingeren, bereycken, aenraken.
+
+Atrapperen, betrappen, achterhalen.
+
+Attribuëren, toegeven, toe-eygenen.
+
+A. V.
+
+Avancement, voorderinge, bevoorderinge.
+
+Avanceren, vorderen.
+
+Avantage, voordeel.
+
+Audacie, stoutheydt.
+
+Audiëntie, gehoor.
+
+Auditeur, anhoorder.
+
+Auditorium, gehoor-plaats.
+
+Aventuur, geval.
+
+Averseren, versmaden, afwenden.
+
+Averteren, afwenden, omkeeren, ontwenden.
+
+Aufereren, weghdragen, ontdragen.
+
+Aufugeren, ontvlieden.
+
+Augmenteren, vermeerderen.
+
+Augustus, Oogstmaant.
+
+Authoriseren, gesagh-gheven, machtighen, achtbaar maken.
+
+Authoriteyt, gesagh, gheloofwaerdigheydt, achtbaarheyd.
+
+Avoceren, afstemmen.
+
+Avonturen, wagen.
+
+Ausculteren, luysteren, gehoor gheven, toe-luysteren.
+
+Austeriteyt, wrangheyd, stuursheyd, barsheydt.
+
+Autentijck, geloofwaardigh, aghtbaar.
+
+Auxiliëren, helpen, behulpigh zijn.
+
+B. A.
+
+BAcchanalien, slemp-dagen.
+
+Bagagie, reys-tuygh.
+
+Bague, kleynoodt, juweel.
+
+Baillu, Landtvooght.
+
+Balance, Wage, weeghschaal.
+
+Ballet, Dans-spel.
+
+Bancqueroutier, banck-breker, achter-uyt-vaarder.
+
+Bandijt, Balling.
+
+Banderolle, Vlagge, Vane.
+
+Baptiseren, Doopen.
+
+Barbaar, woest, rouw.
+
+Barbier, Baartscheerder.
+
+Baron, Vryheer, Baanderheer.
+
+Barriëre, scheyboom.
+
+Bastard, oneghtelingh, Speelkind.
+
+Bastillie, slot.
+
+Bataille, slagh, veltslagh, of scheeps-strijdt.
+
+Batement, klughtspel, klught.
+
+Baterye, storm-kat.
+
+B. E.
+
+Beatifiëren, geluksaligh maken, saligen.
+
+Beatitude, geluksaligheyd.
+
+Belliqueus, strijdbaar.
+
+Benediceren, zeegenen.
+
+Benedictie, zeegen, zeegeningh.
+
+Beneficie, weldaat.
+
+Benevolentie, goetwilligheyd.
+
+Benigniteyt, goedertierenheyd.
+
+Besoigne, werk.
+
+Besoigneren, arbeyden, werken.
+
+Bestiaal, Vee, dierlijck, beestelijck.
+
+B. I.
+
+Bibliotheque, Boeck-kamer.
+
+Billion, afgekeurt.
+
+Billet, seel.
+
+Biscuit, tweeback.
+
+B. L.
+
+Blame, naamschendinge, eervlek.
+
+Blameren, faamrooven, naamschenden.
+
+Blandatie, gevley, vleyinghe, liefkoosinge.
+
+Blandiëren, vleyen, liefkoosen.
+
+Blasoen, veldt-teycken, wapen-schildt, zin-staal.
+
+Blasphemeren, lasteren.
+
+Blasphemie, laster, lasteringe.
+
+Blocqueren, beschanssen, omcingelen.
+
+B. O.
+
+Bombarde, grof geschut.
+
+Bordeel, Hoerhuys.
+
+Borduren, naald-wercken, sticken.
+
+B. R.
+
+Brageren, proncken, pralen.
+
+Brasalet, armkeeten, armring.
+
+Braveren, trotsen.
+
+Bresse, breuck, schaart, stormgat.
+
+Brevier, verkortsel, kort begrijp.
+
+Brigade, bende.
+
+Brigantijn, roofjaght, roofschip.
+
+Brusque, stuurs, bars.
+
+Brutaal, onbeschoft, beestachtigh.
+
+Buffet, reghtbank.
+
+Buffon, bootsemaker, speel-geck.
+
+C. A.
+
+CAbinet, geheymschat, juweel-kamer.
+
+Cachet, zeegel.
+
+Cadentie, neerganck.
+
+Cadet, jonger soon.
+
+Caduc, neervallig, vergancklijck, bouvalligh.
+
+Cajoleren, snappen, snateren, snacken.
+
+Calamiteyt, elendigheydt, gequel.
+
+Calant, koop-vriendt.
+
+Calculeren, rekenen.
+
+Calefaciëren, koesteren, verwarmen, baakeren.
+
+Calengeren, verklagen, optygen, betighten.
+
+Calfatren, lappen, verhantselen.
+
+Calliditeyt, doortraptheyd, loosheyt.
+
+Calumnie, laster, lasteringe, schantvleck.
+
+Calumnieren, lasteren, faamrooven, schantvlecken.
+
+Campaigne, Velt, Veltleger.
+
+Camperen, veltleegeren, leegeren.
+
+Canaal, water-loop, goot.
+
+Canaillie, gespuys, ’t graauw.
+
+Cancelleren, te niet doen.
+
+Canon, regel, richtsnoer, regelmaat, regel-stuck, grof geschut.
+
+Canonijck, regelmatigh.
+
+Canoniseren, toeheyligen, inwyen, heyligen.
+
+Capabel, vatbaar, ontfanghbaar, bevattelijck.
+
+Capaciteyt, vatbaarheyd, begrip.
+
+Capitaal, hooftsom, hooftsaack.
+
+Capiteyn, Hooftman.
+
+Capittel, hooftstuck, een Godtshuys.
+
+Capitulatie, verdragh-stucken oft poincten, hooftstuck-deelingh.
+
+Capricieux, hoofdigh, koppigh.
+
+Captatie, bejagh, vattinge.
+
+Capteren, bejagen, vatten.
+
+Captie, Captiuncle, vattinge, begrijpinge.
+
+Captieux, begrijpigh, vangaghtigh.
+
+Captif, gevangen.
+
+Captiveren, vatten, grijpen, vangen.
+
+Carbonade, rooster-gebraedt, roostinge.
+
+Carresse, liefkosinge, onthael, gestreel.
+
+Carmen, vaers, rijm.
+
+Carquant, halsbandt, halsketen, halsghewaad.
+
+Carquois, pijl-koker.
+
+Carresseren, liefkosen, onthalen, streelen.
+
+Carveel, Boeyer.
+
+Cassatie, afschaffinge.
+
+Casseren, afschaffen, afdancken.
+
+Casteel, Burgh.
+
+Castigatie, tughtinge.
+
+Castigeren, tughtigen.
+
+Castratie, lubbinge.
+
+Castreren, lubben.
+
+Casuël, toevalligh, by geval.
+
+Casus, geval.
+
+Catalogus, naamtafel, naamceel.
+
+Catharren, zinckingen.
+
+Catholijck, algemeyn.
+
+Cavallier, Ruyter.
+
+Cavallerye, Ruyterye.
+
+Caveren, verhoeden, seker doen.
+
+Cavillatie, kakelerye.
+
+Cavilleren, kakelen, betatelen, vitsen.
+
+Cauteleux, schalck, leep.
+
+Cauterie, brand-yser.
+
+Cautie, hoede, goet-seker, borge.
+
+C. E.
+
+Cedent, die afstant doet, afstaander.
+
+Cederen, wijcken, afwijcken, afstaan.
+
+Cedule, schuld-brief, ceel.
+
+Celebratie, gedenck-pleginge, vyeringe.
+
+Celebreren, gedenk-plegen, vyeren.
+
+Celeren, verbergen.
+
+Censeren, schatten.
+
+Censeur, bestraffer, tuchtmeester.
+
+Censure, bestraffinge.
+
+Censureren, bestraffen.
+
+Ceremonie, dienstpleginge, Kerk-gebruyck.
+
+Ceremonieux, dienstplightigh.
+
+Cerneren, zien, onderscheyden, ziften.
+
+Ceroon, smeer-salf.
+
+Certatie, wed-strijd, weddinge.
+
+Certeyn, seker, gewis.
+
+Certeren, wed-strijden, wedden.
+
+Certificatie, verseekeringe.
+
+Certificeren, seeker maken.
+
+Certifiëren, verseekeren.
+
+Certitude, seekerheyd, gewisheydt.
+
+Cessatie, aflatinge, ophoudinge.
+
+Cesseren, aflaten, ophouden.
+
+Cessie, afstant.
+
+Cessionaris, afstandt-houder, dien daer ’t bescheydt van afstant op houdt.
+
+C. H.
+
+Character, sinteyken, merkletter, uytbeeltsel.
+
+Chirographe, hantschrift.
+
+Chiromantie, hant-kijkinge.
+
+Chirurgie, wond-heelinge, heelkonst.
+
+Chirurgijn, wond-heeler, hand-meester.
+
+Cholera, galle.
+
+Choor, Rey.
+
+C. I.
+
+Ciborie, ouwel-kas.
+
+Cicatrice, litteeken.
+
+Ciment, steenkalck.
+
+Circul, ring.
+
+Circumfereren, omdraghen, omvoeren, om-ringen.
+
+Circumferentie, Circuit, omganck, omtreck, ringh.
+
+Circumflecteren, ombuygen, rondom buygen.
+
+Circumligeren, rondom binden.
+
+Circumlocutie, omsprake.
+
+Circummuniëren, toerusten, omwallen.
+
+Circumscriberen, omschrijven.
+
+Circumspect, omsichtigh.
+
+Circumspiciëren, omhersien.
+
+Circumstantie, omstandigheyt.
+
+Circumvideren, omhersien.
+
+Circuncideren, besnijden.
+
+Circuncisie, besnijdinge.
+
+Circunderen, omringen.
+
+Circunduceren, omleyden.
+
+Circunflueren, omvloeyen, omvlieten.
+
+Circunponeren, omsetten.
+
+Circunraderen, omschaven.
+
+Circunveniëren, ondergaen, verstricken.
+
+Circunventie, onderganinge, bedrogh, verstrickinge.
+
+Cisterne, reegenback.
+
+Citadelle, Burght.
+
+Citeren, dagen, daghvaarden.
+
+Civil, burgerlijck, heusch.
+
+Clameren, schreuwen.
+
+Clameur, geschreeu.
+
+Clamiteren, seer schreeuwen.
+
+Clandestin, heymelijck.
+
+Clareren, verlichten, helderen.
+
+Clarificeren, klaar maken.
+
+Claudiceren, hincken, mankgaan.
+
+Clausule, slot, besluyt.
+
+Clementie, saghtmoedigheyd.
+
+Cliëntele, menighte.
+
+Climaat, lughtstreke, gewest.
+
+Clisterie, spuyte.
+
+C. O.
+
+Coadjureren, mede-helpen.
+
+Coaguleren, runnen, stremmen.
+
+Codicil, onvolkomen uytterste wil.
+
+Coërceren, bedwingen.
+
+Cogitatie, peynsinge, besinninge, betraghtinge, gedachte.
+
+Cogiteren, peynsen, besinnen, betraghten, dencken.
+
+Cognitie, kuntschap, kennisse.
+
+Cohabiteren, bywonen.
+
+Cohabitatie, bywoninge.
+
+Cohiberen, bedwingen.
+
+Cohorteren, anmanen.
+
+Coleryc, heetbloedigh, galachtigh.
+
+Coleur, verwe.
+
+Colijc, krimpsel, buyckpijn.
+
+Collaboreren, medewercken.
+
+Collateraal, zijdeling, van gelijcken trap oft evenhooge.
+
+Collatie, vergaderinge, t’samenspraak, vergelijckinge.
+
+Collationeren, samen-brengen.
+
+Collauderen, samen-loven.
+
+Collectie, versaming.
+
+Collegie, versamelinge.
+
+Collideren, te samen-botsen.
+
+Colligeren, te samen-binden, t’samen-gaderen, samen-rapen.
+
+Colloquie, samenspraack.
+
+Collucteren, t’samen-worstelen.
+
+Colluderen, toekaatsen, samen spelen.
+
+Colluëren, spoelen, anspoelen.
+
+Collusie, toekaatsinge, samenspelinge.
+
+Colonie, bewooninge.
+
+Colum, pylaar, suyl.
+
+Combat, geveght.
+
+Combinage, samenvoeginge.
+
+Combineren, samenvoegen,
+
+Cumbustie, ontsteekentheydt, onsteekinghe, brand.
+
+Comedie, schouwspel.
+
+Comeet, staert-sterre.
+
+Comitie, Landt-dagh, rijckx-dagh, daghvaard.
+
+Commanderen, gebieden, bevelen.
+
+Commandement, gebodt, bevel.
+
+Commandeur, bevelhebber.
+
+Commemoreren, herdencken, verhalen, vertellen.
+
+Commensaal, disgenoot.
+
+Commentarie, bedenkinge, overlegginge.
+
+Commercie, koophandel, verhandeling.
+
+Commigreren, verhuysen, sich nedersetten.
+
+Commineren, dreygen.
+
+Comminuëren, inslaan, toeslaan, kneusen, vermorselen.
+
+Commisceren, vermengen.
+
+Commiseratie, erberminge, deernis.
+
+Commissaris, bevelhebber.
+
+Commissie, bevel, last.
+
+Commitigeren, vermorwen.
+
+Committeren, bevel geven, bevelen, lasten, bedrijven.
+
+Commodieux, ghemackelijck, gherieffelijck.
+
+Commoditeyt, bequaamheyd, gemak, ghelegentheyt, gerijf.
+
+Commotie, beroerte, beroeringe.
+
+Communicatie, ghemeynschap, ghemeynmakinge.
+
+Communie, gemeynschap.
+
+Commuteren, mangelen, wisselen.
+
+Compact, verbondt, verding.
+
+Compaignon, ghesel, macker, maat, medegenoot.
+
+Compaignie, geselschap, maatschap, krijgsbende.
+
+Compareren, samen komen, verschijnen, vergelijcken.
+
+Comparitie, samenkomste.
+
+Compas, passer.
+
+Compassie, meedelijden, meedogen, deernis.
+
+Compatibel, meedelijdigh, lijdelijck, gedoogsaam.
+
+Compeer, gevader.
+
+Compelleren, toedrijven, aanklaghen, aanspreeken.
+
+Compendie, verkortsel.
+
+Compendieux, beknopt.
+
+Compensatie, samengeldinge.
+
+Compenseren, samengelden.
+
+Competent, behoorlijk.
+
+Competentie, behoorlijkheyd, behoorte.
+
+Competeren, behooren.
+
+Complaceren, gelieven, believen.
+
+Complainte, beklagh.
+
+Compleet, volkomen, voltooyt.
+
+Complexie, aart, gesteltheyd.
+
+Complice, macker, medepleeger.
+
+Complimenten, eerdienstigheyden, dienstbiedingen, dienstreeden, gedienstigheyden.
+
+Complimenteren, plight-plegen.
+
+Complot, samenspanninge, anslagh, opstel.
+
+Complotteren, samenspannen.
+
+Comportement, voere, wandel, handel en wandel.
+
+Comporteren, gedragen.
+
+Composeren, samenstellen, toestellen, verdragen.
+
+Compositie, samenstellinghe, toestellinghe, verdragh.
+
+Comprehenderen, bevatten, begrijpen.
+
+Comprehensie, bevattinge.
+
+Compres, gedrongen, geperst.
+
+Comprimeren, toeparssen, toedrucken.
+
+Compromis, toeseggingh, verblijf, belofte.
+
+Compromitteren, toeseggen, verblijven, beloven.
+
+Comptoir, reken-kamer, reken-tafel, schrijf-kamer.
+
+Compulsie, samendrift, toedrijvinge.
+
+Computeren, rekenen, anrekenen.
+
+Concederen, toestaen, bewilligen, toelaten.
+
+Concept, begrip, ontwerp.
+
+Concerneren, betreffen.
+
+Concessie, toestaningh, toelatingh, bewilligingh.
+
+Conciërge, Hofwaghter.
+
+Concilie, Raadts-vergaderinghen, Landt-dagh, Landraat.
+
+Conciliëren, bevredigen, versoenen.
+
+Concipiëren, begrijpen, ontwerpen.
+
+Concisie, doorsnijdinge.
+
+Conciteren, aanporren, oproyen, aanprickelen.
+
+Conclave, Kerck-kamer.
+
+Concluderen, besluyten.
+
+Concoctie, kokinge, verdouwinghe, verteeringh.
+
+Concordantie, samen-stemminge, overeenstemminge.
+
+Concorderen, overeenstemmen.
+
+Concordie, eenstemmigheyd, eendraght.
+
+Concreperen, uytbarsten.
+
+Concubine, bysit.
+
+Concupiscentie, begeerlijkheyd.
+
+Concurreren, samenlopen, mededeelen.
+
+Concurrentie, samendeelinge, mededeelinge.
+
+Concussie, kneevelerye, knellinge, schrobbery.
+
+Comdemneren, doemen, verdoemen, veroordelen.
+
+Condescenderen, aftreden, inwilligen.
+
+Conditie, bedingh, voorwaarde, bespreck, staat.
+
+Conditioneel, met voorwaarde, met beding.
+
+Condoleantie, leetbeklaginge, rouwklaght, rouwbeklaginge.
+
+Condoleren, leetbeklagen, rouwbeklagen.
+
+Condoneren, vergeven, toegeven.
+
+Conducteur, leytsman.
+
+Conductie, huur, verhuuringe.
+
+Confabuleren, praten, samenpraten.
+
+Confectie, toemakinghe, suyker-kost, suyker-werck.
+
+Confederatie, verbontmakinge, bontgenootschap.
+
+Confedereren, verbontmaken.
+
+Conferentie, samen-sprake, samen-draght, reden-wisselinge.
+
+Confereren, inbrenghen, samen-draghen, reden-wisselen.
+
+Confesseren, belijden, bekennen, bieghten.
+
+Confessie, belijdenisse, bieght.
+
+Confidentie, vrymoedigheydt, vertrouwelijckheydt, onbeteutertheyt.
+
+Confideren, Confiëren, betrouwen.
+
+Configeren, door-rijgen.
+
+Confineren, bepalen.
+
+Confirmatie, bevestiging.
+
+Confirmeren, bevestigen.
+
+Confiscatie, verbeurt-makinge.
+
+Confisqueren, verbeurt maken.
+
+Confijten, insulten.
+
+Confiture, suyker-werk, suycker-ghebak, insultinge.
+
+Confonderen, verwarren, beschamen.
+
+Conform, gelijckformigh.
+
+Conformeren, vergelijcken.
+
+Conformiteyt, gelijkformigheydt.
+
+Confort, versterkinge.
+
+Confrater, spits-broeder, meedebroeder.
+
+Confringeren, verbreeken.
+
+Confugeren, toevlught hebben, toevluchten.
+
+Confugie, toevlught.
+
+Confuys, verwart, beschaamt.
+
+Confusie, verwarringe, beschaminge.
+
+Confutatie, wederlegginge.
+
+Confuteren, wederleggen.
+
+Congeleren, stremmen, bevriesen.
+
+Congereren, samen draghen, samen brenghen.
+
+Congratuleren, begroeten, geluk wenschen.
+
+Congregeren, versamelen.
+
+Congruëren, gevoegen, over-een-komen.
+
+Congruentie, ghevoeghlijckheyd, over-een-kominge.
+
+Conjecture, gissinghe, raadtsel, raminghe.
+
+Conjectureren, gissen, ramen.
+
+Conjugeren, Conjungeren, samen-voeghen.
+
+Conjunctie, samen-voeginge.
+
+Conjuratie, samen-sweeringe.
+
+Conjureren, samen-sweeren.
+
+Connecteren, samen-knoopen.
+
+Connexie, samen-knoopinge.
+
+Conniventie, ooghluykinge.
+
+Conniveren, ooghluycken.
+
+Conquest, veroveringh, overwinst.
+
+Conquesteren, veroveren.
+
+Consacreren, toeheyligen, heyligen.
+
+Consaluteren, begroeten, meedegroeten.
+
+Consanguiniteyt, bloedtvriendtschap.
+
+Conscientie, geweeten, gewisse.
+
+Conscinderen, doorsnijden, doorhouwen, doorhacken.
+
+Conscriberen, samenschrijven.
+
+Conscriptie, samenschrijvinge.
+
+Consent, bewilligingh, toestemmingh.
+
+Consenteren, bewilligen toestemmen.
+
+Consequentie, gevolgh.
+
+Consequeren, vervolgen, verkrijgen, erlangen.
+
+Conserveren, bewaren.
+
+Considerabel, aanmercklijk, nadenckelijck.
+
+Consideratie, insight, aanmerckinge.
+
+Concidereren, insien, besinnen, aanmercken.
+
+Concilie, raatslagh, raat.
+
+Consiliëren, raatslaan, raatplegen.
+
+Consignatie, onder-recht-legginge, verzegelinge.
+
+Consigneren, verzeghelen, onder-recht-legghen.
+
+Consisteren, bestaen.
+
+Consistorie, Kerckenraat, Raatkamer.
+
+Consolatie, vertroostinge.
+
+Consoleren, verstroosten.
+
+Consolidatie, heelinge, wond-heelingh, vermengingh van twee gerechtigheden.
+
+Consolideren, vastmaken, genesen, heelen.
+
+Consommatie, voleyndinge.
+
+Consommeren, voleynden.
+
+Consonant, meedeklincker.
+
+Consoneren, meedeklincken.
+
+Consort, meedestander, macker.
+
+Conspiciëren, anschouwen.
+
+Conspiratie, samen-spanninge, anspanninge.
+
+Conspireren, samen-spannen, anspannen.
+
+Constant, stantvastigh.
+
+Constantie, stantvastigheyd.
+
+Constellatie, samenkomst van sterren.
+
+Constituëren, stellen, instellen.
+
+Constitutie, stellinge, instellinge, ghesteltenisse.
+
+Constrictie, bedwangh.
+
+Constringeren, bedwingen, pranghen, pramen.
+
+Constructie, bouwinge, beleyd.
+
+Construëren, bouwen, beleggen.
+
+Consul, Raatsheer.
+
+Consuleren, beraden.
+
+Consultatie, raatgevinge, raatpleeginge.
+
+Consulteren, raatpleegen.
+
+Consumeren, verdoen, verteeren, verslijten.
+
+Contagie, besmettinge.
+
+Contagieux, besmettelijck.
+
+Contamineren, besmetten.
+
+Contemneren, versmaden.
+
+Contemplatie, overpeynsinge.
+
+Contempleren, overpeynsen.
+
+Contenantie, gelaat.
+
+Contenderen, invaren, twisten, krackeelen, kijven, pleyt-anleggen.
+
+Contentement, vernoegen, genoegen.
+
+Contentie, twist, krackeel.
+
+Contentieux, krackeeligh.
+
+Contesteren, tegentuygen, beroepen opghetuygen.
+
+Contineren, bevatten.
+
+Contingentie, gebeurlijckheyt.
+
+Contingeren, ghebeuren, betreffen, raacken.
+
+Continentie, inhoudinge, ingebondenheyt, onthouding.
+
+Continent, onthoudend.
+
+Continuatie, anhoudinge, volherdinge, vervolgh.
+
+Continuëren, anhouden, volherden.
+
+Contorqueren, wringen, omwringen.
+
+Contrabanderen, tegen-aanspannen.
+
+Contract, overeenkominge, verdragh.
+
+Contractant, onder-handelaar.
+
+Contracteren, overeenkomen, verdraghen, onderhandelen.
+
+Contradiceren, teegenseggen, teegenspreken.
+
+Contradictie, teegenspraak.
+
+Contraheren, over-een-komen, samen-handelen.
+
+Contrarie, teegendeeligh, strijdigh.
+
+Contrariëren, teegenstreven.
+
+Contrariëteyt, teegenheyt, strijdigheyd.
+
+Contraveniëren, teegenkomen, overtreeden.
+
+Contraventeur, tegenstrever, overtreder.
+
+Contrey, Landtstreke.
+
+Contramanderen, afseggen.
+
+Contremineren, tegenmijnen.
+
+Contrerolleren, weer-schrijven, tegen-boeckhouden, tegenspreken.
+
+Contrerolleur, tegen-rol-houder.
+
+Contrescharp, bolwerck.
+
+Contraventeur, overtreder.
+
+Contribuëren, opbrengen, toebrengen.
+
+Contributie, opbrenginge, schattinge.
+
+Contristeren, bedroeven.
+
+Controversie, redenstrijd, geschil, twist.
+
+Controverteren, twisten, in gheschil trecken.
+
+Contunderen, kneusen.
+
+Contumatie, wrevel, halstarrigheydt, wrevelmoedigheyd.
+
+Conturberen, beroeren.
+
+Contumelie, schamperheyd.
+
+Contumelieux, schamperachtigh.
+
+Contusie, kneusinge.
+
+Convalescentie, ghesont-werdinge, gesontheyd.
+
+Convenant, verdragh.
+
+Convenient, overeenkomende, gevoeglijck.
+
+Conveniëren, overkomen, over-een-komen, voor-recht-dagen.
+
+Convent, samen-komst, Klooster, samen-wooninge.
+
+Conventie, overkomst, aanspraack.
+
+Conventicule, vergaaringsken.
+
+Conversatie, ommegang.
+
+Converseren, ommegaan.
+
+Conversie, bekeeringe.
+
+Convicie, scheldinge.
+
+Convictie, overwinninge.
+
+Conviëren, nodigen.
+
+Convinceren, overwinnen.
+
+Conviveren, samen-eten, gastmalen.
+
+Convoceren, samen-roepen.
+
+Convolveren, omwentelen, samen-winden, inwickelen.
+
+Convoqueren, samen-roepen.
+
+Convoy, geley, vry-geley, geley-gelt.
+
+Convooy-gelt, verlof-gelt.
+
+Convulsie, kramp.
+
+Copie, afschrift, uytschrift.
+
+Copiëren, uytschrijven.
+
+Copieux, ruym, rijckelijck, overvloedigh.
+
+Cordiaal, hertelijck, openhertigh, gulhertig.
+
+Corporaal, Rotmeester.
+
+Corps de garde, Krijghs-wacht.
+
+Corpulentie, lijvigheydt, swaarlijvigheydt.
+
+Corollarium, toe-mate.
+
+Corraderen, samen-schrabben.
+
+Correctie, verbeeteringe.
+
+Correspondentie, overeenkomst.
+
+Corresponderen, overeenkomen.
+
+Correptie, berispinge.
+
+Corripiëren, rucken, toerucken, berispen, begrijpen.
+
+Corrival, meede-minnaar.
+
+Corroberen, verstercken.
+
+Corroderen, beknagen, beknabbelen.
+
+Corromperen, verderven.
+
+Corrosijf, bijtend.
+
+Corruëren, neerstorten, instorten, omvallen.
+
+Cortelas, Houwer, Sabel.
+
+Cosmographie, werelt-beschrijvinge.
+
+Costuymen, gewoonten, oude herkomen.
+
+Cotteren, randen, beranden, kant-schrijven.
+
+Coucheren, nederstellen, stellen.
+
+Couleren, vlieten.
+
+Courage, moedt, gemoedt.
+
+Cours, loop, gangstreeck.
+
+Courtisaan, Hovelingh.
+
+Courtois, Hoofs, heusch.
+
+Couvert, overdeckt, gedeckt.
+
+C. R.
+
+Createur, Schepper.
+
+Creatie, scheppinge.
+
+Creature, schepsel.
+
+Credentie, geloofbaarheyd, geloofs-brief.
+
+Credit, geloove, inschuld.
+
+Crediteren, gelooven, borgen, vertrouwen.
+
+Crediteur, geloover, uytborger, schuldt-eyscher.
+
+Creduliteyt, lightgeloovigheyd.
+
+Creëren, scheppen.
+
+Crimen, misdaat, laster-stuck.
+
+Criminatie, betightinge, scheldinge.
+
+Crimineel, misdadigh, strafwaardigh.
+
+Crimineren, betighten, schelden.
+
+Cronijck, tijd-schrift.
+
+Crucifix, kruys-heghtinge.
+
+Crudeel, Cruël, wreedt.
+
+C. V.
+
+Cubiculair, Kamerling.
+
+Cubitus, elleboogh, elle.
+
+Culpabel, strafbaar, bestraffelijck, schuldigh.
+
+Culperen, betighten, beschuldigen.
+
+Cumuleren, samen-hoopen, op-hoopen.
+
+Curateur, versorger, besorger.
+
+Cure, versorginge, geneesinge, heelinge.
+
+Cureren, versorgen, geneesen, heelen.
+
+Curieux, naau-keurigh, nieusgierigh, sindelijck.
+
+Currier, looper.
+
+Custodie, bewaringe.
+
+D. A.
+
+DAmneren, doemen.
+
+Dangereux, gevaarlijck.
+
+Datum, daghstellinghe, tijdt-stellinghe, verleent.
+
+D. E.
+
+Debatteren, bestrijden, beveghten, wederspreken.
+
+Debauchant, slampamper, slemper, optrecker.
+
+Debaucheren, optrecken, mooy-weer-spelen, yemandt oprockenen, verleyen, slempen, slampampen.
+
+Debil, swack, kranck.
+
+Debit, schult.
+
+Debiteur, schuldenaar, schuld-plightige.
+
+Debonnaire, goedertier.
+
+Decent, betamelijck, gevoeghlijck.
+
+Decentie, betamelijckheyd, gevoeglijckheyt.
+
+December, Wintermaant.
+
+Decerneren, onderscheyden, bestemmen.
+
+Decideren, besleghten, vonnissen.
+
+Decifreren, af-cijfferen.
+
+Decipiëren, bedriegen.
+
+Decisie, besleghtinge, vonnis.
+
+Declaratie, verklaringe.
+
+Declareren, verklaren.
+
+Declinatie, buyginge, afwijckinge.
+
+Declineren, buygen, af-neygen, af-wijcken, dalen.
+
+Decreet, besluyt.
+
+Decoreren, vercieren, op-proncken, optoyen.
+
+Decorum, betamelijckheydt, welvoeghentheydt.
+
+Dedicatie, toewyinge, toe-eygening.
+
+Deductie, verhaal, beleydinge, beright.
+
+Deduceren, beleyden, verhalen, onderwijsen, berighten.
+
+Defailliëren, missen, ontbreeken.
+
+Default, Defect, ontbreekinge, ghebreck, missinghe.
+
+Defenderen, verweeren, verdadigen, beschermen, beschutten.
+
+Defenseur, beschermer, beschutter.
+
+Defensie, beweeringe, bescherminge, beschuttinge.
+
+Defereren, anbrengen, opdragen.
+
+Deficiëren, ontbreeken.
+
+Defiëren, wantrouwen.
+
+Definiëren, bepalen.
+
+Definitie, bepalinge.
+
+Defloratie, schoffeeringe, onteeringe.
+
+Defloreren, schoffeeren, schenden, onteeren.
+
+Defluxie, afvloeyinge, sinkinge.
+
+Defrauderen, bedriegen, verkorten, vervoordelen.
+
+Defrayeren, kost-vry-houden, kost-vryen.
+
+Degouteren, onsmakelijck maken, wansmaken, walgen.
+
+Degraderen, afsetten.
+
+Deguiseren, vermommen.
+
+Delaberen, afsijgen
+
+Delay, uytstel.
+
+Delayeren, vertrecken, uytstellen.
+
+Delatie, anbrenginge.
+
+Delectatie, verlustiging.
+
+Delecteren, verlustigen.
+
+Delectie, verkiesinge.
+
+Delegeren, bevel geeven.
+
+Delegatie, beveelinge, oversettinge, ontmakinge.
+
+Deliberatie, beradinge, besinninge.
+
+Delibereren, beraden, raatslaan, besinnen.
+
+Delicaat, teer, saght, lecker.
+
+Delict, misdaat.
+
+Deliëren, Diluëren, verdunnen.
+
+Deligeren, verkiesen.
+
+Deliniëren, afpalen, afmeeten, afteykenen.
+
+Delinquant, misdoender, misdadige.
+
+Delinqueren, misdoen.
+
+Delireren, raaskallen, sinneloos zijn.
+
+Delivreren, bevrijden.
+
+Delogeren, verhuysen, verplaatsen.
+
+Demanderen, begeeren.
+
+Demanteleren, ontmantelen, ontwallen.
+
+Demigreren, verhuysen.
+
+Demissie, vernederinge, afsettinge.
+
+Democratie, volcks regieringe.
+
+Demoliëren, verdelgen, afbreken.
+
+Demoniaack, beseetene.
+
+Demonstratie, betooninge, vertoogh.
+
+Demonstreren, betonen.
+
+Denominatie, noeminge, naam-noeminge.
+
+Denoteren, beduyden.
+
+Denunciatie, ankondinge, ansegginge.
+
+Denunctiëren, ankondigen, anseggen.
+
+Dependeren, af-hangen, aenhangen.
+
+Deploreren, beweenen.
+
+Deponeren, ter getrouwer handt stellen, af-leggen, uytsetten, af-stellen.
+
+Deportement, afsettinge, draginge, verdraginge.
+
+Deporteren, afsetten, dragen, verdragen.
+
+Deposeren, betuygen, daarstellen, over-stellen.
+
+Depositie, betuyginge, af-legginge, uytsettinge.
+
+Depositum, ter getrouwer handt gestelt, bewaar-anneming.
+
+Deprecatie, af-biddinge.
+
+Depredatie, roovinge, plonderinge.
+
+Deprehenderen, vatten, gewaar worden.
+
+Deprehensie, vattinge, gewaar wording.
+
+Deputeren, afsenden.
+
+Derivatie, afleydinge.
+
+Deriveren, afleyden, afwenden.
+
+Derogeren, afbreken, onttrecken, weeren.
+
+Desabuseren, weder te recht brengen.
+
+Desadvoyeren, afstemmen.
+
+Desarmeren, ontwapenen.
+
+Desbanderen, ontspannen, los-laten, ontslaan, ontbinden.
+
+Desborderen, overvloeyen.
+
+Descendent, afkomelingh, neergaende.
+
+Descenderen, neerdalen, afkomen.
+
+Desconsoleren, wantroosten.
+
+Describeren, afschrijven, beschrijven.
+
+Descriptie, beschrijving.
+
+Desereren, verlaten.
+
+Desertie, verlatinge.
+
+Desert, verlaten, woestijn.
+
+Desheriteren, onterven.
+
+Desisteren, afstaan.
+
+Deshorteren, af-manen.
+
+Designatie, afteykeninge, beduydinge.
+
+Designeren, afteykenen, beduyden.
+
+Desmoveren, beweghen, versetten, vervoeren.
+
+Desordre, wanschick, wanstal.
+
+Despect, veraghting, afsight, smaat.
+
+Despenderen, bekostigen, verspillen.
+
+Despensier, schafmeester.
+
+Despereren, wanhopen.
+
+Despiciëren, versmaden, veraghten.
+
+Depraveren, verargeren, bederven.
+
+Desseing, opset, voorneemen.
+
+Destinatie, schickinge, bestellinge.
+
+Destineren, schicken, bestellen.
+
+Destituëren, ontsetten, verlaten.
+
+Destructie, verdelgingh, vernielinghe, verwoestinge.
+
+Destruëren, verdelghen, vernielen, verwoesten.
+
+Deterioreren, verslimmen, verargeren.
+
+Determinatie, afpalinge, besluyt.
+
+Determineren, afpalen, besluyten.
+
+Detestatie, afschrick, verfoeyinghe, afsweeringe.
+
+Detesteren, af-sweeren, afgruwen.
+
+Detineren, ophouden.
+
+Detentie, ophoudinge.
+
+Detorqueren, omwenden, omkeeren, verdrayen.
+
+Detorsie, omkeering.
+
+Detractie, aftreckinghe, ontreckinghe, achterklap.
+
+Detracteren, Detraheren, aftrecken, onttrecken, aghterklappen.
+
+Devalleren, neerlaten, afsincken, sacken.
+
+Devijs, sin-spreuck.
+
+Devoir, plight, plight-schuld.
+
+Devoleren, afvliegen.
+
+Devolveren, afwentelen, afrollen, ontwinden.
+
+Devolutie, ontwindinge.
+
+Devoreren, verslinden, opslocken.
+
+Devoot, andaghtigh.
+
+Devotie, aandaght.
+
+Devouëren, verlaten, vervloecken.
+
+Dexteriteyt, behendigheyd.
+
+D. I.
+
+Diadema, Koninghs Kroon.
+
+Diaken, armer-versorger.
+
+Dialectica, Reeden-konst, Reedenkaveling.
+
+Dialogus, tweespraak.
+
+Diameter, middel-lijn.
+
+Diaphragma, middelschot.
+
+Dicteren, bewoorden, voor-spellen.
+
+Dictionaris, Woord-boeck.
+
+Diëte, eet-reegel.
+
+Diffamatie, faamrovinge.
+
+Diffameren, faamroven.
+
+Differeren, uytstellen, verscheelen, verschillen.
+
+Different, differentie, verschil.
+
+Difficil, swaar.
+
+Difficulteyt, swaarheydt.
+
+Diffidentie, wantrouw.
+
+Diffringeren, verbreeken.
+
+Diffugeren, afvlieden, ontvlughten.
+
+Diffunderen, vergieten, verplenghen, uytspreyden.
+
+Digereren, verdouwen, verteeren.
+
+Digestie, verdouwinge.
+
+Digniteyt, waardigheyd, waardy.
+
+Digressie, buyten-tree, uytspanninghe, uytweyding, uytsprong.
+
+Dilaberen, vergaan, vervallen.
+
+Dilay, uytstel.
+
+Dilateren, wijden, uytsetten.
+
+Dilatie, uytstel.
+
+Dilectie, liefde, verkeurtheyd, keure, verkiesinge.
+
+Diligent, naerstigh, vlijtigh.
+
+Diligeren, liefhebben, lieven.
+
+Diluëren, afspoelen, overspoelen.
+
+Diluvie, overwateringh, overspoelinge, ondervloeyinge.
+
+Dimensie, afmetinge.
+
+Diminuëren, verkleynen.
+
+Dimitteren, vry-laten, vry-stellen, ontslaan.
+
+Direct, reghts-weeghs, reghel-reght, recht-uyt, recht-toe.
+
+Directie, bestieringe, beleydt.
+
+Directeur, bestierder, bewinthebber.
+
+Direptie, ontruckinghe, plonderingh, roovingh.
+
+Dirigeren, bestieren, stieren, beleyden.
+
+Dirimeren, scheyden, afscheyden.
+
+Diripiëren, ontrucken, plonderen, berooven.
+
+Disavantage, nadeel.
+
+Disceptatie, krackeel.
+
+Discepteren, krackelen.
+
+Discerneren, onderscheyden, onderkennen.
+
+Discerperen, verscheuren.
+
+Discinderen, doorsnijden.
+
+Discipline, leeringe, tucht.
+
+Discipul, leerling.
+
+Discommodereren, ontrieven.
+
+Discoord, tweedracht, oneenigheyd.
+
+Discorderen, verscheelen.
+
+Discoureren, reedeneren.
+
+Discours, reeden-voeringhe, reedeneringhe, reeden.
+
+Discreet, bescheyden.
+
+Discrepantie, verschil.
+
+Discreperen, verscheelen.
+
+Discretie, bescheydenheydt.
+
+Discussie, uytdrijvinge, verdrijvinge.
+
+Discutieren, uytdrijven, verdrijven, verstoten.
+
+Disert, bespraakt.
+
+Disgratie, ongunst, ongenade.
+
+Disjunctie, scheydinge.
+
+Disloqueren, verplaatsen, ontplaatsen, ontleden.
+
+Dispareren, verdwijnen.
+
+Dispariteyt, ongelijckheyd.
+
+Dispensatie, uytdeelinge, bedeylinge.
+
+Dispenseren, vry-geven, uytdeelen, schicken.
+
+Dispensier, schaf-meester, uytdeelder.
+
+Dispergeren, verspreyden.
+
+Dispersie, verspreydinge.
+
+Displiceren, mishagen.
+
+Dispiciëren, afschouwen.
+
+Dispoliëren, plonderen, berooven.
+
+Disponeren, schicken.
+
+Dispoost, wel-gestelt.
+
+Dispositie, beschick, gesteltenis.
+
+Disputatie, reeden-weginge, reeden-strijd.
+
+Disputeren, reeden-wegen, reeden-strijden.
+
+Dissentiëren, oneens zijn.
+
+Dissentie, tweedraght, oneenigheyd.
+
+Dissereren, reedeneren.
+
+Dissertatie, reedeneeringe.
+
+Dissidue, tweedraght.
+
+Dissimulatie, ontveynsinge.
+
+Dissimuleren, ontveynsen.
+
+Dissipatie, verstrooyinge.
+
+Dissiperen, verstrooyen.
+
+Dissonantie, wan-geluydt.
+
+Dissolveren, ontbinden, los maken.
+
+Dissoluyt, ongebonden, los.
+
+Dissolutie, ongebondenheydt, lossigheyt.
+
+Dissonant, wanluydende.
+
+Dissuaderen, ontraden.
+
+Distantie, tusschenheydt, wijdte.
+
+Distentie, uytspansel, uytspanninge.
+
+Distillatie, afsijpinge.
+
+Distilleren, afdruypen, afsijpen.
+
+Distinctie, onderscheyd.
+
+Distorqueren, ombuygen, verdrayen.
+
+Distractie, aftreckinghe, van een trecken, verkoopinge.
+
+Distraheren, aftrecken, van een trecken, verkoopen.
+
+Distribuëren, om-deelen, verspreyden.
+
+Distributie, verspreydinge, om-deylinge.
+
+Disturberen, verstoren.
+
+Divers, ongelijck, onderscheyden, verscheyden.
+
+Diversie, afwendinge.
+
+Diversiteyt, verscheydenheyd.
+
+Diverteren, afwenden, ontwenden.
+
+Divideren, scheyden, verdelen.
+
+Diviseren, redeneren.
+
+Divisie, deelinge.
+
+Divortie, eghtscheydinge.
+
+Divulgeren, gemeen maken, ruchtbaar maken, verspreyden.
+
+D. O.
+
+Doceren, leeren.
+
+Docile, leersaam.
+
+Doctor, Leeraar.
+
+Doctrine, leere, leeringe.
+
+Document, leerstuck, bewijsinge.
+
+Dogmatiseren, voort leeren, leerlingen maken.
+
+Doleantie, treuringhe, bedroeftheydt, weeklage, beklagh.
+
+Dolent, droevigh, treurigh.
+
+Doleren, treuren, klagen.
+
+Doleur, droefheyt, smerte.
+
+Domainen, Lants inkomsten, heerlijckheden.
+
+Domestijck, huysgenoot, behuyst, huyslijck.
+
+Domicilie, woonsteede, maalsteede.
+
+Dominatie, heerschappy, heerschinge.
+
+Domineren, heerschen.
+
+Dommage, schade.
+
+Donatie, gifte, geschenck, schenckinge.
+
+Dos, Dote, Douarie, Bruydtschat, morgen-gave, Bruylofts-gave.
+
+Doteren, begaven, ten houwelijck geven.
+
+D. R.
+
+Draperye, Laken-handel.
+
+Dresseren, toerechten, opstellen, toestellen, oprichten, afrechten.
+
+Drogist, Kruydenier.
+
+D. V.
+
+Dubiteren, twijffelen.
+
+Duc, Hertogh.
+
+Duplicatie, verdubbelinge.
+
+Dupliceren, dubbelen, tweevout maken.
+
+Duplijck, tweevout, dobbel-antwoord.
+
+Duwarien, morgen-gaven.
+
+D. Y.
+
+Dysenterie, doorloop, roode-loop.
+
+E. C.
+
+ECclesiastijck, Kerckelijck, Geestelijck.
+
+Eclipsis, verduysteringe, mangel.
+
+E. D.
+
+Ederen, uyt-geeven.
+
+Edict, gebodt.
+
+Edificatie, bouwinge, stightinge.
+
+Edifitie, gebouw.
+
+Editie, uytgevinge.
+
+Educatie, opvoedinge.
+
+E. F.
+
+Effaceren, uytveegen, uytwissen.
+
+Effaroucheren, verwilderen, verbijsteren.
+
+Effect, daadt, werck.
+
+Effect, sorteren, stant grijpen.
+
+Effectuëren, te weeghe brenghen, uytwercken.
+
+Effemineren, verwijven.
+
+Efficatie, kraght, werckinge.
+
+Efficiëren, te weege brengen.
+
+Effigie, afbeeltsel.
+
+Efforceren, onderwinden, pogen.
+
+Effort, poginge.
+
+Effrayeren, Effroyeren, verschricken, verbasen.
+
+Effugie, uytvlught.
+
+Effusie, uytstortinge, plenginghe, vergietinghe.
+
+E. G.
+
+Egayëren, vervrolijcken.
+
+Egaal, even gelijck.
+
+Egaleren, even gelijck maken.
+
+E. L.
+
+Elaboreren, uytwercken.
+
+Elaberen, ontsluyten.
+
+Elatie, verheffinge.
+
+Electie, verkiesinge.
+
+Electuarie, slickingh, leckernye, leckinge.
+
+Elegant, aardigh.
+
+Elegantie, aardigheydt.
+
+Elegie, treur-sang, treur-lied, klaght.
+
+Element, hooftstoffe, beginsel.
+
+Elevatie, verheffinge.
+
+Eleveren, verheffen.
+
+Elideren, uytdrijven.
+
+Eligeren, uytkiesen, verkiesen.
+
+Eloceren, verhuuren.
+
+Elocutie, uytspraacke.
+
+Eloquent, welspreekend.
+
+Eloquentie, welspreekentheyd.
+
+Elucideren, verlighten, verklaren, helderen.
+
+Eluderen, bespotten.
+
+Eluëren, af-spoelen, uyt-wasschen.
+
+E. M.
+
+Emailleren, doorvlammen, brand-schilderen.
+
+Emancipatie, handlightinge.
+
+Emanciperen, overgeven, vry-eygenen, vry-maken.
+
+Emaneren, uytgeeven, uytkomen.
+
+Emballeren, inpacken.
+
+Embarasseren, inmengen, indringen.
+
+Embarqueren, inscheepen.
+
+Embarreren, door-rijgen, doorsteken.
+
+Emblema, beeld-werck.
+
+Embraseren, ontsteken, ontfoncken, in brant steken.
+
+Embrasseren, om-armen.
+
+Embuscade, verspiedinge, laagh-legginghe, belaginge.
+
+Emenderen, verbeteren.
+
+Emigreren, verhuysen.
+
+Eminent, uytstekende.
+
+Emissaris, uytgesonden.
+
+Emissie, afvaardinghe, uytlatinghe, afsendinge.
+
+Emitteren, afsenden.
+
+Emoliëren, versaghten.
+
+Emologeren, voor goedt aghten, voor goedt kennen.
+
+Emolument, genot, gewin.
+
+Empareren, bemaghtigen.
+
+Empescheren, beletten, verhinderen.
+
+Emphiteusis, erfpaght-reght.
+
+Employ, besteedinge, anlegginge, beesigheyt, aanwendinge.
+
+Employeren, besteeden, anleggen, beesigen, aanwenden.
+
+Emporteren, ontvoeren.
+
+Emputeren, wijten, aanrekenen, toerekenen.
+
+Emulatie, afgunst, onderganinghe, volgh-sught, volgh-yver.
+
+Emunderen, reynigen.
+
+E. N.
+
+Enarreren, vertellen, verhalen.
+
+Encourageren, moedt geeven.
+
+Enërveren, ontzenuwen, krachteloos maacken.
+
+Enfantery, voet-volck.
+
+Engageren, verpanden, inwickelen.
+
+Enorm, wanstalligh, ongeschickt.
+
+Enqueste, ondersoeck.
+
+Entameren, ontginnen, beginnen, aanvangen.
+
+Enterineren, gestaden.
+
+Enterinement, gestading.
+
+Entreprinse, anslagh.
+
+Enthusiast, Geest-drijver.
+
+Enuderen, ontdecken.
+
+Envelopperen, inwickelen, inwinden.
+
+Envie, nijdt, wangunst.
+
+Enumereren, aan-tellen, op-tellen, toe-tellen.
+
+Enuntiëren, uytseggen, uytspreecken.
+
+E. P.
+
+Epigramma, opschrift, overschrift.
+
+Epilogus, sluyt-reden.
+
+Epiphanie, verschijninge.
+
+Epistel, Send-brief.
+
+Epistilium, stijlbandt.
+
+Epitaphe, Graf-schrift.
+
+Epitome, verkortsel, kort-begrijp.
+
+Epuleren, brassen, gastmalen.
+
+E. Q.
+
+Equaliteyt, even-gelijckheydt.
+
+Equinoctie, naght-eveninge.
+
+Equipage, uytrustinge.
+
+Equiperen, uytrusten.
+
+Equipollent, gelijck-maghtigh.
+
+Equiteyt, billickheyd.
+
+Equiteren, te paard rijden.
+
+Equivalent, gelijck-waardigh.
+
+Equivaleren, gelijk gelden, even waardig zijn.
+
+Equivooc, dubbelsinnigh.
+
+E. R.
+
+Erreren, missen, dwalen.
+
+Erreur, dolinge, missing, dwaling.
+
+Erigeren, opreghten.
+
+Eripiëren, uytrucken, ontrecken, ontnemen.
+
+Eroderen, uytknagen.
+
+Erogeren, uytdeelen.
+
+Eruditeyt, beschaaftheyd.
+
+Eruptie, uytbreuck, uytval.
+
+E. S.
+
+Espargne, Espergne, versparinghe, zuynigheyd.
+
+Essay, proeve.
+
+Essentie, wesen, wesentheyt.
+
+Estimeren, aghten, waardeeren.
+
+Esquadre, Esquadron, hooft-gedeelte, wijck, troep, slagh-orde.
+
+Esquinantie, keelsieckte, gorgelsieckte.
+
+E. V.
+
+Evacuatie, leediging.
+
+Evacuëren, leedigen, ontleedigen.
+
+Evaderen, ontgaan, ontsnappen.
+
+Evageren, uytwijcken, swerven, uytswerven, uytweyden.
+
+Evaluatie, waardeeringe.
+
+Evaluëren, waardeeren.
+
+Evaporatie, op-dampinge.
+
+Evaporeren, uytwasemen, uytdampen, op-dampen.
+
+Evanesceren, verdwijnen.
+
+Evelleren, uyttrecken, uytplucken.
+
+Evenement, geschiedinge, gebeuringe, voorval, uytkomst.
+
+Eveniëren, gheschieden, ghebeuren, overkomen.
+
+Eventileren, uytwannen.
+
+Everteren, verkeeren, omkeeren.
+
+Evident, opentlijck, schijnbaarlijck.
+
+Evidentie, schijnbaarheyd.
+
+Evictie, uytwinninge, afwinninge.
+
+Evinceren, afwinnen, uytwinnen
+
+Eviteren, mijden, schuwen.
+
+Evocatie, uytroepinge, overdaging.
+
+Evoceren, uytroepen.
+
+Evolveren, ontrollen, ontwinden.
+
+Evolutie, ontfouwinge, ontwindinge.
+
+Evomeren, uytspouwen.
+
+E. X.
+
+Exacte, gaau, door-wroght.
+
+Exactie, af-eysschinge, schattinge.
+
+Exaggeratie, vergrootinge, ophoopinge.
+
+Exaggereren, vergrooten, ophoopen.
+
+Exagitatie, oeffeninge, quelling.
+
+Exagiteren, oeffenen, omleyden, quellen.
+
+Exaltatie, verhooginge, verheffinge.
+
+Exalteren, verhoogen, verheffen.
+
+Examen, examinatie, uytvorschinge.
+
+Examineren, uytvorschen, ondertasten.
+
+Exaspereren, vergrammen, vergrimmen, verbitteren, ontsteecken.
+
+Exauceren, uythooren, verhooren.
+
+Excederen, te boven gaen.
+
+Excelleren, uytsteken, overtreffen, uytmunten.
+
+Excellent, uytnemend, uytstekend.
+
+Exceptie, uytneminge, verset.
+
+Excerneren, uytsiften, uytdoen.
+
+Ercerperen, uytnemen, uytplucken.
+
+Exces, overdaadt.
+
+Excessif, overdadigh.
+
+Excideren, uythouwen, uytsnyen, uytvallen.
+
+Excipiëren, uytnemen, uytsonderen.
+
+Exciteren, anporren, aanritsen, opwecken.
+
+Exclamatie, uytschreeuwinge.
+
+Exclameren, uytschreeuwen.
+
+Excluderen, uytsluyten.
+
+Exclus, uytgeweert, uytgesloten.
+
+Excogiteren, besinnen, versinnen.
+
+Excommunicatie, ban, uytsluytinge.
+
+Excommuniceren, bannen, uytsluyten, verwaten.
+
+Excoriatie, villinge.
+
+Excrement, uytwerpsel.
+
+Exculperen, ontschuldigen.
+
+Excurreren, uytloopen.
+
+Excursie, uytloopinge.
+
+Excusatie, Excuse, ontschuldiging.
+
+Excuseren, ontschuldigen.
+
+Excussie, afdwinginge.
+
+Excuteren, afdwingen.
+
+Execrabel, afgrijselijck.
+
+Execratie, afgrijsing.
+
+Execreren, afgrijsen, vervloecken.
+
+Executeren, uytreghten.
+
+Executeur, uytrechter, uytvoerder.
+
+Executie, uyt-rechtinge.
+
+Exempel, voorbeeld, voorschrift.
+
+Exempt, bevrijdt, vry.
+
+Exempteren, bevryen, uytsonderen.
+
+Exemptie, bevrijdinge, vrydom.
+
+Exequeren, volbrengen, verrigten, uytvoeren.
+
+Exerceren, Exërciteren, oeffenen.
+
+Exercitie, oeffening.
+
+Exercitores, mede-reders.
+
+Exhalatie, uytwaseming.
+
+Exhaleren, uytwasemen.
+
+Exherederen, onterven.
+
+Exhiberen, daar stellen, op wijsen.
+
+Exhibitie, daarstellinge, opwijsinge.
+
+Exhortatie, anmaninge.
+
+Exhorteren, anmanen.
+
+Exigentie, vereyschinge, eysch.
+
+Exigeren, af-eyschen.
+
+Exigue, gering.
+
+Exilie, ban, uytbanninge.
+
+Exileren, ballingh zijn.
+
+Exiliëren, uytspringen.
+
+Eximeren, uytkoopen, vry-koopen, bevryen, uytsonderen.
+
+Existeren, daar zijn.
+
+Existentie, daar-wesinge.
+
+Exitie, eyndinge, ondergangh.
+
+Exorbitantie, uytsporigheyt, al te.
+
+Exorcist, besweerder, uytbander, duyvel-jager.
+
+Exordie, anvangh.
+
+Exoreren, verbidden.
+
+Exorneren, opproncken.
+
+Exonereren, ontlasten.
+
+Expectatie, verwaghtinge.
+
+Expecteren, verwaghten.
+
+Expediëren, redden, afvaardigen.
+
+Expeditie, reddinge, afvaardinge.
+
+Expediënt, afgereght, vaardigh.
+
+Expelleren, uytdrijven.
+
+Experientie, ondervindinge, uytvindinghe, ervarentheydt.
+
+Experiëren, uytvinden, ervaren.
+
+Experimenteren, ondervinden.
+
+Expert, ervaren, ondersocht.
+
+Expiratie, eyndinge.
+
+Expiëren, versoenen.
+
+Expileren, uytrooven, plonderen.
+
+Expireren, eyndigen, uyt-aassemen, den geest geeven.
+
+Expisceren, uytwissen, uytvagen.
+
+Explicatie, ontvouwinge, uytlegginge.
+
+Expliceren, ontvouwen, uytleggen.
+
+Exploot, uytwerckinge.
+
+Exploiteren, uytwercken.
+
+Exploreren, beproeven, ondersoecken.
+
+Exponeren, uytleggen.
+
+Exporteren, uytdragen.
+
+Expositie, uytlegginge.
+
+Expostuleren, beklagh doen, sich beklagen.
+
+Expres, uytdruckelijck.
+
+Expresseren, uytdrucken.
+
+Expressie, uytdruckinge.
+
+Exprimeren, uytdrucken.
+
+Exprobatie, veraghtinge, verwijt.
+
+Exprobreren, verwijten.
+
+Expugneren, afwinnen, afstormen, ontweldigen.
+
+Expulseren, uytstooten, uytdrijven.
+
+Expulsie, uytdrijvinghe.
+
+Expurgatie, uytsuyveringhe.
+
+Expurgeren, uytsuyveren.
+
+Exquireren, doorsoecken.
+
+Exquis, Exquisit, uytghelesen.
+
+Extenderen, uytspannen, recken, uytrecken, uytstrecken, uytbreyden.
+
+Extensie, reckinghe.
+
+Exteren, voor handen zijn, uytstaan.
+
+Extereren, uytwrijven.
+
+Extergeren, uytwissen.
+
+Extersie, uytwissinghe.
+
+Exterieur, uytwendigh.
+
+Extermineren, uytroden, uytdrijven.
+
+Extimatie, aghtinghe.
+
+Extimeren, aghten.
+
+Extingeren, uytblussen.
+
+Extirpatie, uytroyinghe.
+
+Extirperen, uytroyen.
+
+Extolleren, verheffen.
+
+Extorqueren, afperssen, ontwringhen.
+
+Extorsie, af-perssinge, ontwringing.
+
+Extract, uyttrecksel.
+
+Extraheren, uyttrecken.
+
+Extraordinaris, ongewoon, onghemeen.
+
+Extravagant, uytsporigh.
+
+Extravagantie, uytsporigheydt.
+
+Extravageren, uyt het spoor slaan.
+
+Extreem, uytneemende, uytterst.
+
+Extremiteyt, uytterste.
+
+Extruderen, uytstooten.
+
+Exulcereren, versweeren, uytsweeren.
+
+Exultatie, opspringinge.
+
+Exulteren, opspringen, huppelen.
+
+Exunderen, overvloeyen.
+
+F. A.
+
+FAbel, vertellinge, praat-reden, verdigtsel.
+
+Fabuleus, beuselaghtigh, verdight.
+
+Fabriceren, timmeren, verzieren, verdichten.
+
+Fabrijck, bouwinge, timmeringe.
+
+Facetieux, boertigh.
+
+Facil, light-doenlijck, daatvaardigh.
+
+Faciliteren, lighten.
+
+Faciliteyt, daatvaardigheyd.
+
+Facteur, saackvoerder, bewinthebber.
+
+Factie, rottinge, samenrottinge.
+
+Factieux, rotaghtigh.
+
+Faculteren, maght geeven.
+
+Faculteyt, vermogen, vermogentheyd.
+
+Facundie, welsprekentheyd.
+
+Failleren, ontbreken.
+
+Falcidie, afkorting, afsnijding.
+
+Falcificatie, vervalschinge.
+
+Fallatie, valscheydt.
+
+Fameux, berught.
+
+Familiaer, huys-gemeen, gemeensaam.
+
+Familie, gesin.
+
+Familiariteyt, gemeynsaamheydt.
+
+Fantasie, verbeeldinge.
+
+Fantasme, Fantosme, schim, inbeeldinghe, molick, bulleback, bytebaau.
+
+Fantastijck, bysinnigh, eyghensinnigh, vies.
+
+Farce, klught.
+
+Farous, woest, dul-koppigh.
+
+Fascheren, quellen, verdriet aen-doen.
+
+Fascheux, verdrietigh.
+
+Fascineren, betooveren.
+
+Fastidie, walginge, satheyd.
+
+Fastidiëren, walgen, sat maken.
+
+Fataal, nootschick.
+
+Fatigatie, vermoeyinge.
+
+Fatigue, vermoeytheyd.
+
+Fatigeren, vermoeyen.
+
+Fatsoen, gestalte, form, gedaante.
+
+Fausbourg, voorstadt.
+
+Faveren, begunstigen.
+
+Faveur, gunst.
+
+Favorabel, gunstigh.
+
+Favorijt, gunsteling.
+
+Fauteur, gunner, gunstdrager.
+
+F. E.
+
+Febre, koortse.
+
+Februarius, sprockelmaant.
+
+Feliciteyt, welvaart, voorspoed, geluck.
+
+Felonie, felheydt.
+
+Femenijn, wijflijck, vrouwlijck.
+
+Fenderen, splijten.
+
+Feodaal-goedt, leen-goedt.
+
+Feriën, vier-dagen.
+
+Ferme, vast, bondigh.
+
+Ferment, deesem, suurdeegh.
+
+Fermeren, sluyten.
+
+Feroos, dulkoppigh.
+
+Fertiliteyt, vrughtbaarheyd.
+
+Festineren, haasten, spoeyen.
+
+Festoyeren, onthalen.
+
+Feudaal, leen-goedt.
+
+F. I.
+
+Fiantie, betrouwelijckheyd.
+
+Fictie, verzieringe.
+
+Fidecommis, erf-beveelinge, erf-betrouwing.
+
+Fidejussor, borge.
+
+Fidel, getrouw.
+
+Fiëren, betrouwen.
+
+Figure, gestalte, afbeeldtsel.
+
+Figureren, afbeelden.
+
+Fin, eynde.
+
+Finalijck, eyndelijck.
+
+Finantien, inkomsten.
+
+Finesse, loosheydt.
+
+Fingeren, verzieren, bootsen.
+
+Firmament, Starren-Hemel.
+
+Firmeren, vestigen.
+
+Fiscaal, Graaflijckheyts-versorger.
+
+Fistel, loopend gat.
+
+F. L.
+
+Flanckering, zijdelings-borstweering.
+
+Flambeau, Fackel.
+
+Flateren, pluymstrijcken, vleyen.
+
+Flebotomie, aderlatinge.
+
+Flecteren, buygen.
+
+Flegmatijck, koutvoghtigh.
+
+Fleur, Blom, bloeysel.
+
+Floreren, bloeyen.
+
+Fluctuëren, vloeyen, vervloeyen, swerven, swalpen.
+
+Fluctueux, vloeyigh.
+
+F. O.
+
+Foire, Jaarmerkt.
+
+Foment, stovinge.
+
+Fonderen, grontvesten, vestigen.
+
+Fonteyn, Bron, well.
+
+Force, gewelt, maght.
+
+Forceren, bemaghtigen, overweldigen.
+
+Forclusie, verstootinge.
+
+Foreest, Bosch.
+
+Formaliteyt, gedaante, gestalte.
+
+Formaliseren, tegen-an-kanten, tegen-kanten.
+
+Formeren, maken, toe-stellen, gedaente gheven.
+
+Formidabel, vreesselijck, ontsichlijck.
+
+Formulier, leest, voorschrift.
+
+Fornicatie, hoerdery.
+
+Forniceren, hoerejagen.
+
+Fortificatie, sterckmakinge.
+
+Fortificeren, verstercken.
+
+Fortresse, sterckte, Slot.
+
+Fortune, geluck, kansse.
+
+Foveren, koesteren.
+
+Fouleren, vertreeden.
+
+Fournais, vyer-oven.
+
+Fournieren, Furneren, stoffeeren, opbrengen.
+
+F. R.
+
+Fractie, breekinge, breucke.
+
+Fracture, breucke.
+
+Fragiliteyt, broosheydt, breekelijckheydt.
+
+Fragment, breecksel, afbreecksel, stuck.
+
+Frange, zoom, boortsel.
+
+Frangeren, breeken.
+
+Fraude, bedrogh.
+
+Frauderen, bedriegen.
+
+Frayeur, schrick.
+
+Fregat, Jaght, Roof-jaght.
+
+Frenesie, krancksinnigheydt.
+
+Frenetijck, krancksinnigh.
+
+Frequentatie, bewandeling, door-wandeling.
+
+Frequent, veelvuldigh, veelvoudigh.
+
+Frequenteren, bewandelen, door-wandelen.
+
+Fricasseren, fruyten.
+
+Friseren, krullen.
+
+Frivool, leuraghtigh, sleght, beuselachtigh.
+
+Frontieren, grensen, kusten.
+
+Frontispis, voor-geevel.
+
+Fructueux, vrughtbaer.
+
+Frustratie, mis-leydinge, ontwendinge.
+
+Frustreren, mis-leyen, ontwenden, te leur stellen.
+
+F. U.
+
+Fugeren, vlughten, vlieden.
+
+Fugie, vlught.
+
+Fugitijf, vlughtigh.
+
+Fulmineren, blixemen.
+
+Fumeren, roocken.
+
+Fumeux, roockigh.
+
+Fundament, grondtvest, grondt.
+
+Fundatie, vastsettinge, grondlegginge.
+
+Funderen, vestigen, vast stellen, grondt-leggen.
+
+Fureur, Furie, uytsinnigheydt, razernye.
+
+Furieux, dul, rasende, uytsinnigh.
+
+Furneren, verschaffen.
+
+Fuseye, vier-pijl.
+
+G. A.
+
+GAbe, boert.
+
+Gabelle, tol.
+
+Gabion, Schans-korve.
+
+Gage, wedde, huur-loon, huur-winst, bezoldingh.
+
+Gageren, bezolden, beloonen.
+
+Gaillard, vrolick.
+
+Galey, roey-schip.
+
+Galland, reghtschapen, geestigh.
+
+Gallery, wandel-gangh, wandel-dreef.
+
+Gallioen, Oorloghs-schip, Conincx-schip.
+
+Galop, ren.
+
+Galoperen, rennen.
+
+Gangrena, kout vyer.
+
+Garanderen, waren, waar-borghen, ontheffen.
+
+Garant, waarschap, waar-borgh, verhaal.
+
+Garde, bewaringe, waght.
+
+Gardiaan, bewaarder, waghter, opsiender.
+
+Garnisoen, besettinge.
+
+Gauderen, verblijden.
+
+G. E.
+
+Geleren, vriesen.
+
+Genealogie, geslaght-tafel, afkomste.
+
+Generaal, gemeyn, algemeyn.
+
+Generaliteyt, alghemeynschap, landt-ghemeynschap.
+
+Generatie, teelinge.
+
+Genereren, teelen.
+
+Genereux, grootmoedigh, edelmoedigh.
+
+Genitoires, teel-leden.
+
+Geniture, teelsel, zaedt.
+
+Gentil, Edel.
+
+Geographie, aard-beschrijvinge.
+
+Geomantie, aard-kunst.
+
+Geometrie, aard-metinge, meet-konst.
+
+Gepassioneert, zughtigh, zijdigh.
+
+Germanien, Duytschlandt.
+
+Gestie, gebaar.
+
+G. L.
+
+Glorie, lof, roem.
+
+Gloriëren, roemen.
+
+Glorieux, loflijck, lof-rijck, beroemt.
+
+Glorificeren, roemen, heerlijck maken, brallen.
+
+Glosse, uytlegginge.
+
+Glosseren, uytleggen.
+
+G. O.
+
+Gourmanderen, vreten, gulsigh zijn.
+
+Gourmandise, vratigheyt, gulsigheydt.
+
+Gouvernement, bestieringe, plaats-voogdy.
+
+Gouverneren, bestieren, beheerschen.
+
+Gouverneur, Voogt, Ruwaert, Lantvoogt, Stadtvooght, Rijcx-vooght.
+
+G. R.
+
+Graat, trap.
+
+Gradatie, overstappinge.
+
+Gramatica, letter-kunst.
+
+Grasseren, straatschenden, woeden.
+
+Gratie, goetgunstigheydt.
+
+Gratieux, goetgunstigh, lieftalligh.
+
+Gratuleren, danckseggen, geluck wenschen, sich wel beloven.
+
+Gravamina, swarigheden.
+
+Graveren, beswaren.
+
+Graviteyt, deftigheydt.
+
+Gravis, deftigh.
+
+Griffier, Hof-schrijver.
+
+Grisons, Switsers.
+
+Grosseren, in ’t net schrijven.
+
+Grossier, groot-handelaer.
+
+G. U.
+
+Guide, leydtsman.
+
+Guirlande, Blom-krans, Roosen-hoedt.
+
+Gurgiteren, slocken, slicken.
+
+H. A.
+
+HAbijl, af-gereght, bequaam, gheschickt, behendigh.
+
+Habiliteyt, behendigheydt, bequaamheydt.
+
+Habiliteren, bequaam maken.
+
+Habijt, kleedt, kleedingh.
+
+Habitatie, woonsteede, wooninge.
+
+Habiteren, verblijven, woonen.
+
+Habituatie, kleedinge, bekleedinge.
+
+Habitude, bywooninge.
+
+Habituëren, bekleeden.
+
+Habitus, hebbinge, daadtvaardigheydt.
+
+Hacqueney, Telle.
+
+Hamey, voor-poorte.
+
+Hanteren, bewandelen, omgaan.
+
+Harangue, beweegh-reden, vertoogh.
+
+Harasseren, uyt-sloven, af-sloven, af-mennen.
+
+Harceleren, krackeelen.
+
+Harmonie, wel-luydinge, eenstemmigheyt, over-een-stemminge, t’samen-stemminge.
+
+Hazard, lot, gevaar.
+
+Hazarderen, wagen.
+
+Haverij, ongeluck, ongeval.
+
+H. E.
+
+Hemisphere, halfrondt.
+
+Hepatique, leeversughtigh.
+
+Heraut, Wapen-vooghdt, Wapen-dragher, Wapen-heer.
+
+Herbarist, kruydt-leeser, plucker, Kruydenier.
+
+Herbarius, Kruyd-boeck, Kruyd-schat.
+
+Herediteren, erven.
+
+Herediteyt, erfgoet, erfdeel.
+
+Heresie, Kettery, stijfsinnigheyt, eensinnigheydt.
+
+Heritage, erfgoet, erfdeel.
+
+Hermaphroditi, man-wijven.
+
+Heroicq, heldigh, heerlijck.
+
+Heromijt, Kluysenaer.
+
+Heureux, geluckigh.
+
+H. I.
+
+Hideux, grouwsaam.
+
+Hierarchye, Kerck-vooghdy.
+
+Hilariteyt, vrolickheydt.
+
+Hipocras, Kruyd-wijn.
+
+Historie, gheschiedenis, verhael, ghedenck-schrift.
+
+H. O.
+
+Homicidie, doodtslagh-
+
+Homicide, doodtslager.
+
+Homilie, gespreck, reedeneeringe.
+
+Hommage, manschap.
+
+Honneur, eer.
+
+Honorabel, eerlijck, eerbaar.
+
+Honoreren, eeren.
+
+Horloge, uyr-werck.
+
+Horreren, verschricken.
+
+Horreur, afschrick.
+
+Horribel, schrickelijck.
+
+Hortatie, vermaningh.
+
+Horteren, vermanen.
+
+Horison, gesight-eynder, Kim.
+
+Hospes, Waard.
+
+Hospitaal, Herbergh, gasthoudinghe, gasthuys, gastvry.
+
+Hospitaliteyt, huysvestinge, gast-vryheydt, herberghsaamheydt, waardschap.
+
+Hostage, pandt.
+
+Hostel, huysvestinge.
+
+Hostie, zeegh-offer.
+
+Hostiliteyt, vyandtschap.
+
+H. U.
+
+Humain, menschlijck, beleeft, heus.
+
+Humaniteyt, heusheyt, beleeftheydt.
+
+Humble, needrigh, demoedigh.
+
+Humecteren, bevoghtigen.
+
+Humeren, insuygen, slurpen.
+
+Humeur, voght, eygen aart.
+
+Humide, voghtigh.
+
+Humiditeyt, voghtigheydt.
+
+Humiliëren, verneederen.
+
+Humiliteyt, needrigheydt.
+
+H. Y.
+
+Hydropisie, watersught.
+
+Hymne, Lof-sangh.
+
+Hypocrisie, veynsinge.
+
+Hypocrijt, huychelaar, geveynsde.
+
+Hypoteeck, onderpandt.
+
+I. A.
+
+IActantie, beroemingh.
+
+Iacteren, beroemen.
+
+Iacture, verlies, wech-werpinge.
+
+Ialours, belghsieck, belghsughtigh.
+
+Ialousie, belghsught.
+
+Ianuarius, Loumaant.
+
+I. D.
+
+Ideen, voorbeeldtsels, bewerpsels, ontwerpsels.
+
+Idioot, ongeleerde, leeck, ongeletterde.
+
+Idole, Afgodt.
+
+Idolatrie, afgoderye.
+
+Idoon, huys.
+
+I. G.
+
+Ignominie, naam-schendinghe, schandt-vleck.
+
+Ignominieux, schandelijck, smadelijck, naam-schendigh.
+
+Ignorant, weet-niet, weetloos, onkundigh.
+
+Ignorantie, onkunde.
+
+Ignoreren, onkundigh zijn.
+
+I. L.
+
+Illaberen, insluypen.
+
+Illachrimeren, beweenen.
+
+Illatie, inbrenginge, invoeringe, besluyt.
+
+Illegitime, onwettelijck.
+
+Illideren, instooten.
+
+Illiquide, onklaar, oneffen.
+
+Illuderen, bespotten, beguychelen.
+
+Illuminatie, verlightinghe.
+
+Illumineren, verlighten.
+
+Illusie, bespotting, beguychelinge.
+
+Illusoir, bespottelijck.
+
+Illustratie, verlightinge, doorschijningh.
+
+Illustre, doorlughtigh.
+
+Illustreren, door-ligten, door-helderen, door-lughtigen.
+
+Illuvie, invloeyinge.
+
+I. M.
+
+Image, beeldt.
+
+Imagineren, inbeelden.
+
+Imbecilliteyt, swackheydt, onsterckheydt.
+
+Imitatie, naevolginge, nabootsinge.
+
+Imiteren, navolgen.
+
+Immediatelijck, eensklaps, sonder middel, onmiddelijck.
+
+Immedicabel, ongeneselijck.
+
+Immemoriaal, onghedenckbaar, boven gheheugen.
+
+Immense, onmeetelijck.
+
+Immeuble. Immobile, ontilbaer.
+
+Immoderatie, onmatigheydt.
+
+Immodest, onzeedigh, ongeschickt, ontughtigh.
+
+Immodestie, onzeedigheyt, ontught.
+
+Immolatie, op-offeringe.
+
+Immoleren, op-offeren.
+
+Immondiciteyt, onzuyverheydt, onreynigheydt.
+
+Immortaliseren, onsterflijck maken.
+
+Immortaliteyt, onsterflijckheydt.
+
+Immortel, onsterffelijck.
+
+Immuabel, Immutabel, onwisselbaer, onveranderlijck.
+
+Immuniteyt, onbelastheydt.
+
+Impaar, oneeven, ongelijck.
+
+Impalpabel, ontastbaar.
+
+Impatibel, ongedooghsaam, onlijdlijck, onverdragelijck.
+
+Impatient, onlijdsaam, onverduldigh.
+
+Impatientie, onlijdsaamheydt, onverduldigheydt.
+
+Impediëren, verhinderen, beletten.
+
+Impediment, belet, hinderingh.
+
+Impelleren, aanstouwen, drijven.
+
+Impenetrabel, ondoordringelijck.
+
+Imperateur, Keyser, Veldtheer.
+
+Imperceptibel, onbegrijpelijck.
+
+Impereren, gebieden, beveelen.
+
+Imperfect, onvolmaackt, onvolkomen.
+
+Imperfectie, onvolmaacktheydt, onvolkomenheydt.
+
+Imperiaal, Keyserlijck.
+
+Impertinent, ongerijmt, slordigh, onhebbelijck.
+
+Impetrant, verwerver, verkrijger.
+
+Impetreren, verwerven, verkrijgen.
+
+Impetueux, ongestuymigh, heftigh.
+
+Impetueusiteyt, onghestuymigheydt, hevigheydt.
+
+Impiëteyt, godloosheydt, ongodtvruchtigheydt.
+
+Impitoyabel, onbarmhertigh.
+
+Implacabel, onverzoenlijck.
+
+Impleren, vervullen.
+
+Implicatie, invouwinge, inwickelingh.
+
+Impliqueren, Impliceren, invouwen, inwickelen.
+
+Imploratie, anroepinge.
+
+Imploreren, anroepen.
+
+Imployabel, onbuygelijck.
+
+Imponeren, opleggen, bedriegen.
+
+Importabel, onverdragelijck, onlijdlijck.
+
+Importantie, gewightigheydt.
+
+Importeren, belangen, bedragen.
+
+Importuyn, overlastigh.
+
+Importuneren, overlasten, lastigh zijn, dringen.
+
+Importuniteyt, overlast, drangh.
+
+Imposeren, opleggen, te last leggen.
+
+Impositie, oplegginge, oplage, schattinge.
+
+Impossible, onmogelijck.
+
+Impost, tol, schattinge.
+
+Imposture, bedrogh.
+
+Impotent, onmaghtigh.
+
+Impotentie; onmaghtigheydt, onmaght.
+
+Imprecatie, toe-wenschinge, vloeck, quaedt-wenschinge.
+
+Imprenabel, onverkrijghelijck, onwinbaer.
+
+Impressie, indruckinge, drucksel, print, druckinge.
+
+Imprimeren, indrucken, inprenten.
+
+Improberen, quaadt keuren, quaadt aghten, wraken.
+
+Impropre, on-eyghen, onvoeghlijck, wanstalligh.
+
+Imprudent, onwijs, onvoorsightigh.
+
+Imprudentie, onwijsheydt, onvoorsightigheydt.
+
+Impudicq, onkuysch, onschamel, oneerbaer.
+
+Impugneren, beveghten.
+
+Impuissant, onmaghtigh, kraghteloos.
+
+Impulsie, opstokinge, andrijvinge.
+
+Impuniteyt, ongestraftheydt.
+
+Imputatie, wijtinghe, aantijgingh, toemeetinge.
+
+Imputeren, wijten, aantijghen, toe-meeten, toe-reekenen.
+
+I. N.
+
+Inaccessibel, on-toeganckelijck.
+
+Inadvertentie, onbedaghtsaamheydt, reuckeloosheydt, aghteloosheydt.
+
+Inanitie, ydelheydt, ledigheydt, ontleediginghe.
+
+Incapabel, onvatbaar, begrijpeloos, onbevattelijck.
+
+Incapaciteyt, onvatbaarheydt.
+
+Incarnatie, vleesch-wordinge, tijdt-schrift.
+
+Incarcereren, kerckeren, vangen.
+
+Incerteyn, onseeker.
+
+Incertitude, onseekerheyt.
+
+Incessament, on-ophoudelijck.
+
+Inceste, bloedtschande.
+
+Incident, inval, voorval.
+
+Incideren, insnijden, opsnijden, voorvallen, tusschen vallen.
+
+Incisie, insnijdinghe, doorsnijdinghe, opsnijdinge.
+
+Inciteren, aanporren, opstoken, aanritsen.
+
+Incivil, onburgherlijck, onheusch, onbeleeft.
+
+Inciviliteyt, onburgerlijckheyt, onheusheyt, onbeleeftheydt.
+
+Inclinatie, toeneyginge.
+
+Inclineren, toeneygen, neygen.
+
+Incluys, ingesloten, binnen.
+
+Incomoderen, ontrieven, ongheleegentheydt maken.
+
+Incommoditeyt, ongeleghentheydt, onghemack, ongerijf.
+
+Incomparabel, onvergelijckelijck.
+
+Incompatibel, onverdraaghlijck.
+
+Incompetent, onbehoorlijck.
+
+Incomprehensibel, onbegrijpelijck.
+
+Inconsideratie, onbesintheydt, reuckeloosheydt.
+
+Inconstant, onstantvastigh, wispelturigh.
+
+Inconstantie, onstantvastigheydt, wispelturigheydt.
+
+Incontinentie, lustvolginghe, onghetoomtheydt, wulpsheydt.
+
+Inconvenient, ongeval.
+
+Incorporel, onlighamelijck.
+
+Incorporeren, inlijven, innemen.
+
+Incorrect, onverbeetert, gebreckelijck.
+
+Incorrectie, onverbeetertheyt, gebreckelijckheydt.
+
+Incredibel, ongelooflijck.
+
+Incredul, ongeloovigh.
+
+Increduliteyt, ongeloof.
+
+Increpatie, bekijvinge.
+
+Increperen, bekijven, bulderen.
+
+Inculpabel, onstraffelijck.
+
+Inculqueren, instampen.
+
+Incumberen, opliggen.
+
+Incurabel, ongheneeslijck.
+
+Incurreren, anloopen, inloopen.
+
+Incursie, aanloop, optoght, anval.
+
+Indecent, onbetamelijck.
+
+Indeclinabel, onbuyghelijck.
+
+Indemneren, schadeloos houden.
+
+Indemniteyt, schadeloosheydt.
+
+Indice, kenteycken.
+
+Indicibel, onuytsprekelijck.
+
+Indictie, aanzegginge, op-lage.
+
+Indifferent, eenderley, onverscheydelijck.
+
+Indigene, ingeboren, inborelingh.
+
+Indigentie, behoeftigheydt.
+
+Indigestie, onverdouwinge, onverteertheyt, raauwheydt.
+
+Indignatie, verontwaardinge.
+
+Indirect, kromsweegs, averreghts.
+
+Indiscreet, onbescheyden.
+
+Indiscretie, onbescheydenheydt.
+
+Indisert, onbespraackt, wantalig, wansprakelijck.
+
+Indispoost, ongestelt, onghesont.
+
+Indispositie, ongesteltheydt, ongesontheydt.
+
+Indocte, ongeleert.
+
+Indocile, onleersaem.
+
+Indole, inborst.
+
+Indomptabel, onbetemmelijck.
+
+Indubitabel, ontwijffelbaer.
+
+Inductie, aanradinghe, invoeringhe, invoeginge.
+
+Indulgentie, gedooginge, toe-latingh, vry-gevinge.
+
+Industrie, gaauwigheydt.
+
+Inegaal, oneffen, ongelijck.
+
+Inegaliteyt, oneffenheydt, ongelijckheydt.
+
+Inepte, ongerijmt, onbequaam.
+
+Ineptie, ongerijmtheydt, onbequaamheydt.
+
+Inertie, vadsigheydt, leuyheydt.
+
+Inestimabel, onschattelijck, onwaardeerlijck.
+
+Inëvitabel, onvermijdelijck.
+
+Inexcusabel, schuldbaar, onverschoonlijck.
+
+Inexecutie, on-uytgereghtheyt, on-uytreghtinge.
+
+Inexplicabel, on-uytleggelijck.
+
+Iuexpugnabel, onwinbaar, onverwinnelijck.
+
+Infaam, eerloos.
+
+Infameren, faamrooven, schantvlecken.
+
+Infamie, schandtvleck, faamroovingh.
+
+Infantie, kintsheydt.
+
+Infanterie, voetvolck.
+
+Infect, stinckend, besmet.
+
+Infecteren, besmetten.
+
+Infereren, invoeren.
+
+Inferieur, minder, lager, onderdaen, onderbeurtige.
+
+Infernaal, helsch.
+
+Infertil, onvrughtbaar.
+
+Infesteren, beleedigen, bekommeren.
+
+Infidel, ontrouw, trouwloos.
+
+Infideliteyt, ontrouwigheydt, trouweloosheydt,
+
+Infirmiteyt, onsterckheydt, swackheyt.
+
+Inflammatie, ontstekinge.
+
+Inflatie, opblasinge.
+
+Inflectie, ombuyginge.
+
+Inflexibel, onbuygelijck.
+
+Influentie, invloeyinge.
+
+Informatie, kundtschap, berightinghe, bescheydt.
+
+Informeren, kennis nemen, kuntschap doen, berighten.
+
+Infortuyn, ramp-spoedt.
+
+Infractie, inbreuck.
+
+Infrangibel, onbreeckelijck.
+
+Infrequent, selden.
+
+Infructueux, onvrughtbaar.
+
+Infusie, instortinge, doorgietinge.
+
+Ingenieur, bolwercker.
+
+Ingenieux, zin-rijck.
+
+Ingereren, indringen.
+
+Ingratitude, ondanckbaarheydt.
+
+Ingredient, in-menghsel.
+
+Ingrediëren, intreden.
+
+Ingressie, intredinge, ingangh.
+
+Inhabil, onbequaam.
+
+Inhabiliteyt, onbequaamheydt.
+
+Inhabitabel, onbewoonlijck.
+
+Inhereren, inhangen, inblijven.
+
+Inhibitie, verbodt.
+
+Inhospitaliteyt, onherbergigh, ongast-vryheydt.
+
+Inhumain, onbeleeft.
+
+Inimitabel, onnavolgelijck.
+
+Iniquiteyt, ongerechtigheydt.
+
+Injunctie, beveelinge.
+
+Injungeren, toe-voegen.
+
+Injurie, ongelijck, onreght, hoon.
+
+Injuriëren, verongelijcken, hoonen.
+
+Injuste, onrechtvaerdigh.
+
+Innavigabel, onbevaarlijck.
+
+Innocent, onnoosel.
+
+Innocentie, onnooselheydt.
+
+Innovatie, vernieuwinge.
+
+Innoveren, vernieuwen.
+
+Innumerabel, ontelbaar.
+
+Inobedient, ongehoorsaam.
+
+Inproviste, oversiens.
+
+Inquiëteren, ontrusten.
+
+Inquiëtatie, Inquiëtude, ontrustinghe, onrust.
+
+Inquireren, ondersoecken.
+
+Inquisitie, ondersoeck.
+
+Inquisiteur, ondersoecker, ondersoeck-meester.
+
+Insanabel, ongeneeselijck.
+
+Insatiabel, onversadelijck.
+
+Inscriptie, opschrift.
+
+Inscrutabel, ondoorgrondelijck.
+
+Insensibel, ongevoelijck.
+
+Inseparabel, onscheydelijck.
+
+Insereren, insetten, invoegen, inlijven.
+
+Insertie, invoeginge.
+
+Insidie, belaginge.
+
+Insigne, merckelijck, kenteyken.
+
+Insimuleren, betighten.
+
+Insinuatie, inschuyvinge, te kennen ghevinghe, anmeldinge.
+
+Insinuëren, indringen, invlyen, inschuyven, te kennen geven, anmelden.
+
+Insisteren, aanstaan, volherden, anhouden.
+
+Insociabel, ongeselschappigh.
+
+Insolent, moedwilligh, ongewoon.
+
+Insolentie, moedwilligheydt, moedwil.
+
+Insolide, ondight.
+
+Insolidum, gantschelijck, geheelijck.
+
+Insolvent, onbetalijck, onbetaalbaar.
+
+Inspectie, beschouwinge, aanschouwinge.
+
+Inspiratie, inblasinghe, anblasinge.
+
+Inspireren, inblasen, anblasen.
+
+Instantie, anhoudinge.
+
+Instauratie, herstellinghe, oprechtinghe, vernieuwinge.
+
+Instaureren, oprechten, vernieuwen, herstellen.
+
+Instigatie, aanstuwinge.
+
+Instigeren, opstoken, aanstuwen, drijven, ophitsen.
+
+Instinct, drift, ingeven.
+
+Instituëren, insetten, onderwijsen, instellen.
+
+Institutie, insettinge, onderwijsinghe, instellinge.
+
+Instructie, onderrichtinghe, toereghtinghe, beright.
+
+Instruëren, onderreghten, toereghten.
+
+Instrument, tuygh, werck-tuygh.
+
+Insupportabel, onverdragelijck.
+
+Integriteyt, deegelijckheydt.
+
+Intellect, vernuft.
+
+Intelligentie, kundtschap, verstandt.
+
+Intemperantie, ongematightheydt.
+
+Intenderen, be-oogen, voor-hebben.
+
+Intentie, ooghwit, ooghmerck, opset, voorneemen.
+
+Intenteren, onderstaan, aanlegghen, aanwenden.
+
+Intercederen, tusschen-spreeken, bemiddelen.
+
+Intercessie, bemiddelinge, tusschen-komst.
+
+Interdiceren, verbieden.
+
+Interdict, verbodt.
+
+Interesseren, beschadigen, vernadeelen.
+
+Interest, schade, naedeel, belangh.
+
+Interjectie, inworp.
+
+Interieur, inwendigh.
+
+Interineren, gestaden.
+
+Interlocutie, tusschen-spraack.
+
+Interloqueren, tusschen spreeken.
+
+Interlocutorie, tusschen-oordeel.
+
+Interminabel, on-eyndelijck.
+
+Intermineren, op-houden, af-laten, verposen.
+
+Intermissie, af-latinge, verposinge, tusschen-komst.
+
+Interpellatie, inspraack, tusschen-spraack.
+
+Interpelleren, inspreeken, tusschen-spreeken.
+
+Interponeren, Interposeren, tusschen-stellen.
+
+Interpositie, tusschen-stellinge.
+
+Interpretatie, uytlegginge.
+
+Interpreteren, uytleggen.
+
+Interrogatie, ondervraginge.
+
+Interrogatorien, vraagh-stucken.
+
+Interrogeren, ondervragen.
+
+Interrupt, af-gebroken.
+
+Interruptie, afbrekinge.
+
+Interval, tusschenheydt.
+
+Interventie, tusschen-komst.
+
+Intestin, darm, ingewand, inwendigh.
+
+Intimatie, ankundinge.
+
+Intime, binnenst.
+
+Intimeren, ontbieden, ankundigen.
+
+Intimideren, vertsaghen, vreese aen-jaghen.
+
+Intituleren, naam noemen, benamen.
+
+Intollerabel, onverdragelijck.
+
+Intractabel, onhandelbaar, bars, onreckelijck.
+
+Intricaat, verwart, verstrickt.
+
+Intricatie, verwerringhe, verstrickinge.
+
+Intriqueren, Intrinqueren, verstricken.
+
+Introduceren, invoeren, inleyden.
+
+Introductie, inleydinge.
+
+Invaderen, anvallen, invaren.
+
+Invalide, onsterck.
+
+Invectif, lasteringh, bescheldinge, doorstrijkinge.
+
+Inventeren, vinden, uytvinden.
+
+Inventie, vindinge, vondt, ervindinge.
+
+Inventaris, inhoudt, beschrijvingh van goederen.
+
+Inversie, omkeeringe.
+
+Investigeren, opspeuren, naevorschen.
+
+Investiture, instellinge.
+
+Invetereren, verouden.
+
+Invincibel, onwinbaer.
+
+Inviolabel, onschendbaar.
+
+Invisibel, onsightbaar.
+
+Invitatie, noodigingh.
+
+Inviteren, anporren, noodigen.
+
+Inundatie, overvloeyinge.
+
+Involutie, inwickelinge.
+
+Invocatie, anroepinge.
+
+Invoqueren, anroepen.
+
+Inutil, onnut.
+
+I. O.
+
+Ioincture, voeginge, gelidt, gewright.
+
+Iournaal, dagelijcks, daghboeck.
+
+I. R.
+
+Iracundie, gramschap.
+
+Ironie, schimp-reeden.
+
+Irraisonnabel, onreedelijck.
+
+Irrecuperabel, onwederkrijgelijck.
+
+Irreparabel, onverbeeterlijck, onvergoedelijck.
+
+Irreprehensibel, onberispelijck.
+
+Irreverentie, oneerbiedinghe, oneerbiedigheydt.
+
+Irrevocabel, onwederroepelijck.
+
+Irrideren, begecken.
+
+Irriteren, tergen.
+
+I. S.
+
+Issue, uytgangh, uytkomst.
+
+I. T.
+
+Item, desgelijcx, insgelijcx.
+
+Iteratie, hervattinge.
+
+Iteratijf, meermaals.
+
+Itereren, hervatten.
+
+I. U.
+
+Iubilee, luyt-jaar, juygh-jaer.
+
+Iubileren, verheugen, juygghen.
+
+Iudicature, vonnis, reghts-pleeginge.
+
+Iudiceren, oordeelen, reghten, wijsen.
+
+Iudiciaal, gereghtelijck.
+
+Iuge, Reghter.
+
+Iugement, oordeel.
+
+Iugeren, reghten, oordeelen.
+
+Iulius, Hooymaant.
+
+Iunius, Somermaant.
+
+Iureren, zweeren.
+
+Iurisdictie, reghtsprekinge, reghts-dwang, gebiedt, reghts-maght.
+
+Iurisconsulte, Iurist, Reghts-geleerde.
+
+Iustitie, gereght, gereghtigheydt.
+
+Iustificatie, reghtvaardighmakinge, reghtvaardigingh.
+
+Iustifiëren, reghtvaardigen.
+
+L. A.
+
+LAbeur, arbeydt.
+
+Laboureren, arbeyden.
+
+Labourieux, arbeydigh, arbeydtsaam.
+
+Labyrint, Dool-hof.
+
+Laceratie, verscheuringe.
+
+Lacereren, verscheuren.
+
+Lachrimeren, weenen, schreyen.
+
+Lamentatie, gekarm, jammer-klaght.
+
+Lamenteren, karmen, jammeren.
+
+Lancet, vliem.
+
+Larderen, door-specken.
+
+Large, rijckelijck, breedt.
+
+Lasche, laf.
+
+Lascif, geyl, wulps, brooddroncken.
+
+Lasciviteyt, geylheydt, brooddronckenheyt.
+
+Latiteren, wech-schuylen.
+
+Latitude, wijdte, breedte.
+
+Lauderen, loven.
+
+Lavoir, wasch-vat.
+
+Laxatie, losinge, lossinge.
+
+Laxeren, losen, lossen.
+
+L. E.
+
+Lectie, leesinge.
+
+Lecture, leesinge.
+
+Lederen, quetsen.
+
+Legaal, wettigh.
+
+Legaat, af-ghesant, erf-makinghe, makinghe.
+
+Legataris, erf-gemaackte, maackingh-beurder.
+
+Legateur, erf-deeler.
+
+Legatie, afsendinghe, besendinghe, erf-makinge.
+
+Legende, verhaal, vertellingh.
+
+Legioen, Krijghs-heyr.
+
+Legislateur, Wet-geever.
+
+Legitimatie, bewettiging.
+
+Legitime, wettigh.
+
+Legitimeren, bewettigen.
+
+Limitatie, bepalinge.
+
+Limite, afpalinge.
+
+Limiteren, bepalen.
+
+Lenitif, verzaghtende.
+
+Lepreux, melaatsch.
+
+Letarge, slaapsught.
+
+Levant, Oosten.
+
+L. I.
+
+Lias, snoer.
+
+Liasseren, snoeren.
+
+Libel, geschrift, aanschrift.
+
+Liberaal, mildt.
+
+Liberaliteyt, mildtheydt.
+
+Liberteyt, vryheydt.
+
+Libertijn, vry-geest, vry-ghemaackte knecht.
+
+Libery, Boeck-winckel, Boeck-kas.
+
+Libidineren, wellust plegen.
+
+Licent, verlof-gelt, geoorloft.
+
+Licentie, verlof, toe-latinghe, vry-ghevinghe.
+
+Licentiëren, toe-laten, vry-gheeven, gehengen.
+
+Lieutenant, Stedehouder.
+
+Ligament, Ligature, bindtsel, bandt.
+
+Ligue, verbindingh.
+
+Linage, afkomst.
+
+Liquide, weeck, effen.
+
+Liquideren, weeck maken, afrekenen, effenen.
+
+Litigeren, krackeelen, pleyten.
+
+Litigieux, krackeeligh.
+
+Litiscontestatie, reghts-pleeginge.
+
+Litiscontesteren, reght-pleegen.
+
+Litispendentie, twisthangingh.
+
+L. O.
+
+Locaal, plaatselijck.
+
+Locatie, verhuuringe.
+
+Locupleteren, verrijcken.
+
+Logica, reeden-konst.
+
+Logijs, huysvestinge, herbergh.
+
+Logeren, huysvesten, herberghen, t’huys-leggen.
+
+Lombard, leen-tafel-houder, tafel-houder.
+
+Longitude, lenghte.
+
+Loy, Wet.
+
+Loyaal, Wettelijck.
+
+L. U.
+
+Lubricque, slibberigh, gladt.
+
+Lucrum, winst.
+
+Lumineux, lightende.
+
+Lunatijc, maansughtigh, bysinnigh.
+
+Lustratie, reyniginge, wyinge.
+
+Luxurie, geylheydt.
+
+Luxurieux, geyl.
+
+M. A.
+
+MAchinatie, quaatstokinge.
+
+Machineren, quaadt-stoken, quaadt-brouwen, berockenen.
+
+Maculature, kladt-papier.
+
+Maculeren, bevlecken, bekladden.
+
+Magazijn, voorraat-schuur, pack-huys.
+
+Magie, Toover-konst.
+
+Magistraat, Overheydt.
+
+Magnanime, grootmoedigh.
+
+Magneet, Noordt-steen, Zeyl-steen.
+
+Magnificentie, heerlijckheydt, praght.
+
+Magnificq, heerlijck.
+
+Magnitude, grootheydt.
+
+Majesteyt, hoogheydt, hoogh-maghtigheydt.
+
+Mayus, Bloey-maandt.
+
+Mainteneren, handthaven.
+
+Maintenuë, handthavinge.
+
+Malcontent, ongenoeght, t’onvreden.
+
+Maledictie, vloeck, quaadt-spreecken, lasteringe.
+
+Malheur, ongeval, ramp.
+
+Malheureux, rampspoedigh, ongheluckigh.
+
+Malitie, boosheydt.
+
+Maligniteyt, boosaardigheydt.
+
+Manciperen, eygen geven, vereygenen.
+
+Mandaat, bevel.
+
+Mandament, bevel, beveelinge, daagh-ceel.
+
+Manie, dulligheydt.
+
+Maniabel, handelbaar.
+
+Manier, wijse.
+
+Manifacture, handtwercksel.
+
+Manifest, openbaar, verklaringe.
+
+Manquement, ontbrekinge.
+
+Manqueren, ontbreken.
+
+Mansuëtude, zaghtmoedigheydt.
+
+Manual, handtboeck, handtdoeck.
+
+Maquerelle, Koppeleres.
+
+March, toght, optoght, aantoght.
+
+Marcheren, aantrecken, aantreeden.
+
+Marge, kant.
+
+Marquis, Marck-graaf.
+
+Masque, mom-aansight, grijns.
+
+Masqueren, vermommen, mommen.
+
+Massacre, moordt, moordery.
+
+Massacreren, vermoorden, moorden.
+
+Masse, klomp.
+
+Massif, dight.
+
+Materiaal, stoffelijck.
+
+Materie, stof.
+
+Maternel, moederlijck.
+
+Mathematica, Wiskonsten.
+
+Matrice, baar-moeder.
+
+Matrimonie, Huwelijck, Echt.
+
+Matrone, huysmoeder.
+
+Maturiteyt, rijpheydt.
+
+Maxime, grond-regel.
+
+M. E.
+
+Mechanique, ambaghts-man, werck-man, karigh, vreck, hoetelachtigh.
+
+Mechaniseren, hoetelen, ambaght doen.
+
+Medaille, pronckpenningh, potstuck.
+
+Medicijn, Arts.
+
+Medicijne, ghenees-middel.
+
+Medicinaal, heelsaam.
+
+Mediaan, middel-ader.
+
+Mediateur, middelaer.
+
+Mediatie, bemiddelinge.
+
+Medicamenten, ghenees-kruyden, ghenees-middelen.
+
+Mediocre, middelmatigh, middelbaar.
+
+Meditatie, betraghtinge, besinninghe, overlegh.
+
+Mediteren, betraghten, overweeghen, besinnen.
+
+Melancolijcq, swaarmoedigh.
+
+Melancolie, swaarbloedigheyt, swaarmoedigheydt.
+
+Melodie, zoet geluyd.
+
+Melodieux, zoet-luydigh.
+
+Membrane, vlies.
+
+Memorabel, gedenckwaardigh.
+
+Memoriaal, Klad-boeck.
+
+Memorie, geheugenisse, onthoudinghe, ghedaghtenis.
+
+Menaceren, dreygen.
+
+Menage, huysraat, huyshoudingh, huysghesin.
+
+Menageren, huyshouden.
+
+Meneen, treeken.
+
+Mendicant, Bedelaar.
+
+Menstrue, Maanstonden.
+
+Mentie, meldinge, gewagh.
+
+Mentioneren, melden, gewagen.
+
+Meridiaan, middaghs.
+
+Merite, verdienst.
+
+Meriteren, verdienen.
+
+Meschant, snood.
+
+Mescontent, onvernoeght, misnoeght.
+
+Mescontentement, onghenoeghsaemheydt, misnoeginge.
+
+Mescontenteren, misnoegen.
+
+Metaal, Bergh-werck, gout-mengsel.
+
+Methode, leer-wijse, beleedinge, leer-wegh.
+
+Meubelen, tilbare goederen, inboel.
+
+M. I.
+
+Mignardise, liefkosinge, aanminnigheydt.
+
+Mignon, troetel-kindt.
+
+Migreren, verhuysen.
+
+Militair, oorlooghs.
+
+Militie, oorlogh.
+
+Millioen, thien hondert duysent.
+
+Mineraal, Mijn-stof, Bergh-werck.
+
+Minoriteyt, minderjarigheydt, onmondigheydt.
+
+Ministerie, bedieningh, dienst.
+
+Minister, Dienaer.
+
+Minute, bewerp, de kladde.
+
+Minuteren, ontwerpen.
+
+Mirakel, wonderwerck.
+
+Miscontentement, ongenoegen, misnoeginghe.
+
+Miscontenteren, misnoegen.
+
+Miserabel, ellendigh.
+
+Miseratie, erbarminge, deernis.
+
+Miserie, ellende, jammer.
+
+Misericorde, bermhertigheydt.
+
+Missive, Sendbrief.
+
+Miste, huys.
+
+Mistique, verborgen.
+
+Mittigatie, versaghtinge.
+
+Mitiguëren, versachten.
+
+Mixte, gemenght.
+
+Mixtie, mengsel, menginge.
+
+Mijne, gelaat.
+
+M. O.
+
+Mobile, mobilair, roerlijck, beweeghlijck.
+
+Mode, wijse.
+
+Model, voorbeeldt, bewerp, schets.
+
+Moderateur, middelaar.
+
+Moderatie, bemiddelinge.
+
+Modereren, middelen, matigen.
+
+Moderne, hedendaaghs.
+
+Modest, zeedigh.
+
+Modestie, zeedigheydt.
+
+Mol, zaght.
+
+Molest, overlast, lastigheydt.
+
+Molesteren, overlasten, lastigh zijn, moeyelijck vallen.
+
+Moment, oogenblick, yet geringhs.
+
+Monarch, eenigh-Vorst.
+
+Monarchie, eens-regeeringe, eenigh-Vorstheydt.
+
+Monderen, suyveren, reynigen.
+
+Mondificatie, suyveringe.
+
+Monitie, vermaninge.
+
+Monopolie, voorkoop, opkoop.
+
+Monopoliëren, voorkoopen, opkoopen.
+
+Monsteren, toonen.
+
+Monster, ondier, mis-geboort, wanschepsel, staal, toonsel, proeve.
+
+Monstreux, wanschapigh.
+
+Monteren, opklimmen, bedraghen, toe-rusten.
+
+Monument, gedenck-teycken, graf.
+
+Moraal, zeedelijck, zeedigh.
+
+Morisque, Moorin.
+
+Morositeyt, korselheydt, geemelijckheydt.
+
+Mortaliteyt, sterffelijckheydt.
+
+Mortel, doodlijck.
+
+Mortier, steen-vijsel.
+
+Mortificatie, doodinge.
+
+Mortifiëren, dooden.
+
+Motie, roeringe, beweeginge. [Red.: Moet zijn: 100]
+
+Motijf, beweeghsel, beweegh-reeden, grond-oorsaack.
+
+Movement, roeringe, beweeginge.
+
+Moveren, roeren, beweegen.
+
+M. U.
+
+Mulcteren, straffen.
+
+Mulcte, boete, straffe.
+
+Multiplicatie, vermeenighvuldigingh.
+
+Multipliceren, vermeenighvuldigen.
+
+Multitude, meenighte, veelheydt.
+
+Muniment, bevestinge, beweeringe.
+
+Munitie, rustinge.
+
+Murmuratie, morringe.
+
+Murmureren, knorren, morren.
+
+Musette, Ruyspijpe.
+
+Muscule, spier.
+
+Musijcq, maatzangh, zanghkonst.
+
+Mutatie, veranderingh, wisselingh.
+
+Muteren, wisselen, verauderen.
+
+Mutilatie, verminckinge.
+
+Mutileren, vermincken.
+
+Mutinatie, oproer, muytery.
+
+Mutineren, oproer maken, muyten.
+
+Mutuel, onderlingh.
+
+M. Y.
+
+Mysterie, verholentheydt, verborgentheydt, geheymenis.
+
+[Red.: Moet zijn 101]
+
+N. A.
+
+NAmptissement, handtvullinge.
+
+Narratie, vertellinge.
+
+Narreren, vertellen, verhalen.
+
+Natie, Volck, Lantsvolck.
+
+Nativiteyt, geboorte.
+
+Naufrage, schipbreuck.
+
+Navigatie, schipvaart.
+
+Navigeren, schipvaren, varen.
+
+N. E.
+
+Nebileux, nevelaghtigh, duysteraghtigh.
+
+Necessaire, noodigh, noodtwendigh, noodtsakelijck.
+
+Necessiteyt, noodtwendigheydt.
+
+Negatie, lochgeninge, ontkenninge.
+
+Negeren, lochgenen, ontkennen, beneenen.
+
+Negligent, versnymigh, onaghtsaam, aghteloos.
+
+Negligentie, versuym, verwaarlosinge, aghteloosheydt.
+
+Negligeren. versuymen, verwaarloosen, veronaghtsamen.
+
+Negotiant, Handelaar, Koopman.
+
+Negotiatie, Negotie, handelingh, beslagh, omslag, onderwind.
+
+Negotiëren, handelen, handel drijven.
+
+Nequitie, fieltery, guytery.
+
+Nerveux, zenuwaghtigh, kraghtigh.
+
+Neuter, Neutraal, onzijdigh, geenderley.
+
+Neutraliteyt, onzijdigheydt.
+
+N. O.
+
+Nobel, edel.
+
+Nobiliteren, veredelen, edel maken.
+
+Noblesse, Edeldom, Adel.
+
+Nomber, getal.
+
+Nombreux, getalligh, veel in getal.
+
+Nomenclator, benaminge.
+
+Nominatie, noeminge.
+
+Nomineren, noemen.
+
+Nominatijf, noemende.
+
+Nompareil, onvergelijckelijck, sonder weergae.
+
+Nonchalant, onaghtsaam.
+
+Norme, zegel.
+
+Nota, merck.
+
+Notabel, merckelijck.
+
+Notaris, be-ampt-schrijver.
+
+Note, teycken, merck.
+
+Noteren, anteyckenen.
+
+Notifiëren, kundigh maken.
+
+Notitie, aanteykeningh, kundschap.
+
+Notoir, kenlijck, kenbaar.
+
+Notule, merck-ceel, teycken-schrift.
+
+Novatie, vernieuwinge.
+
+November, Slaghtmaandt.
+
+Nourriture, voedsel.
+
+Nouvelles, nieuwigheden.
+
+N. U.
+
+Nubileux, wolckaghtigh.
+
+Nuditeyt, naacktheydt, blootheydt.
+
+Nugeren, beuselen.
+
+Nul, niets.
+
+Nulliteyt, nietigheydt.
+
+Numeratie, tellinge.
+
+Nunciatie, verkondiging, anzegginge, bootschap.
+
+O. B.
+
+OBedientie, onderdanigheydt.
+
+Object, voorwerp.
+
+Objecteren, voorwerpen.
+
+Oblatie, offerhande, offer, aanbiedinge, opdraght.
+
+Oblectatie, verlustiging, vermaack.
+
+Oblecteren, verlustigen.
+
+Obligatie, verbandt, verbindinghe, schuld-kennis, schuld-brief.
+
+Obligeren, verbinden, verplighten.
+
+Oblique, scheef.
+
+Oblivie, vergeetinge.
+
+Oblivieux, vergeetelijck.
+
+Obmissie, siet Omissie.
+
+[Red.: Moet zijn 104]
+
+Obreptie, insluypinge.
+
+Obscuur, duyster, doncker.
+
+Obscureren, verdonckeren.
+
+Obsecratie, smeeckinge.
+
+Obsecreren, smeecken.
+
+Observantie, Observatie, waarneeminghe, gebruyck, gewoonte.
+
+Observeren, waarneemeu.
+
+Obsidie, beleegeringe, belegh.
+
+Obstacule, verhinderingh, hinderpaal.
+
+Obsteren, in den weege staan, verhinderen, teegenstaan.
+
+Obstinatie, halstarrigheydt, hartneckigheyt.
+
+Obtineren, verwerven.
+
+O. C.
+
+Occasie, geleegentheydt.
+
+Occident, West, ondergangh.
+
+Occidentaal, Westwaarts, Westersch.
+
+Occulte, verborgen.
+
+Occulteren, verbergen.
+
+Occupatie, inneeminge, voorkominge, ontleedigingh, beesigheyt, bekommeringh.
+
+Occuperen, inneemen, ontleedigen.
+
+Occurrentie, ontmoetinge.
+
+October, Wijnmaandt.
+
+Octroy, verleeningh, vergunningh.
+
+Octroyeren, verleenen, vergunnen.
+
+Oculair, ooghschijnlijck, schijnbaarlijck, sightbaar.
+
+[Red.: Moet zijn 105]
+
+O. D.
+
+Ode, eerdight.
+
+Odieux, hatelijck.
+
+O. E.
+
+Oeconomie, huyshoudinge.
+
+O. F.
+
+Offenceren, beleedigen, leedt doen, quetsen, beschadigen, verongelijcken.
+
+Offensie, leedt, beleedinge, quetsinge.
+
+Offereren, anbieden, toe-dienen.
+
+Officie, Ampt, plight.
+
+Officiers, Amptluyden.
+
+O. M.
+
+Ombrage, Ombre, schaduwe, achterdencken, archwaen.
+
+Ombrageren, beschaduwen, overschaduwen.
+
+Ombrageux, schaduwigh, aghterdoghtigh.
+
+Omissie, overslaninge, nalatingh.
+
+Omitteren, overslaan, nalaten.
+
+Omnipotent, almogende.
+
+Omnipotentie, almogentheydt.
+
+O. N.
+
+Onderen, golven.
+
+Onguent, Zalve.
+
+O. P.
+
+Operateur, Werck-meester.
+
+Operatie, werckinge.
+
+Opereren, wercken.
+
+Opereux, arbeydtsaam, werckelijck.
+
+Opinie, waan, meyninge.
+
+Opiniëren, wanen, meynen.
+
+Opiniatre, stijfsinnigh, krigel.
+
+Opinieux, verwaant.
+
+Oppilatie, verstoppinge.
+
+Oppileren, verstoppen.
+
+Opposant, opponent, verweerder, tegenstrever
+
+Opposeren, opponeren, teeghenstellen, teegensetten, weederstaan.
+
+Oppositie, teeghenstellinghe, wederstandt, teegenweer.
+
+Oppresseren, verdrucken.
+
+Oppressie, verdruckinge.
+
+Oppugneren, beveghten, bestrijden.
+
+Opteren, begeeren.
+
+Optie, keur, kiesinge.
+
+Opulent, rijck.
+
+Opulentie, rijckheydt, rijckdom.
+
+Opuscule, wercxken.
+
+O. R.
+
+Oracul, Hemel-spraack, hoed-spraack.
+
+Orage, storm.
+
+Orateur, reedenaar.
+
+Oratie, reeden, vertoogh, reedeneeringh.
+
+Oreren, reeden-voeren.
+
+Orbiculair, rondt.
+
+Ordoyeren, vuyl maken.
+
+Ordure, vuyligheydt.
+
+Ordinaris, gewoonlijck.
+
+Ordonnantie, insettinge, keure, schickinge.
+
+Ordonneren, schicken, instellen, willekeuren.
+
+Ordre, schickinghe.
+
+Orgueilleus, hoovaardigh.
+
+Orient, Oost, opganck.
+
+Orientaal, Oostwaarts.
+
+Orifice, mondt-gat.
+
+Originaal, oorspronckelijck.
+
+Ornament, vercieringe.
+
+Orneren, vercieren.
+
+Orthodox, reght-geloovigh, reghtsinnigh.
+
+Orthographie, spellinge, reghtschrijvinge.
+
+O. S.
+
+Ostage, pandt, gijselinge.
+
+Ostagier, Gijselaar.
+
+Ostenderen, vertoonen.
+
+[Red.: Moet zijn 108]
+
+Ostentatie, beroeminge, pocchinge.
+
+Ostenteren, brallen, pocchen, beroemen.
+
+P. A.
+
+PAcifiq, vreedigh, vreedsaam.
+
+Pacificatie, bevreedigingh.
+
+Pacisceren, verdragen.
+
+Pagadoor, betaals-heer, penning-meester.
+
+Pagie, zijde, zy-dienaer.
+
+Paisibel, vreedsaam.
+
+Paix, vreede.
+
+Palfrenier, stal-kneght.
+
+Palais, Princen-hof.
+
+Palinodie, wederroepinge.
+
+Palissade, borstweeringe, paal-werck, stacket.
+
+Palpabel, tastbaar.
+
+Palustre, Broeck-landt.
+
+Panurge, loos, doortrapt, al-beschick, moey-al.
+
+Parabel, gelijckenis, sinne-beeldt.
+
+Parade, op-tooysel, op-pronckinge.
+
+Paradox, wonder-spreuck.
+
+Paragon, puyck.
+
+Paragraphe, beschrijvinge, onderschrijvinge, afdeylinge.
+
+Paralysie, lammigheydt.
+
+Paraphrase, uytbreydinge.
+
+Pardon, vergiffenis.
+
+Pardonneren, vergeeven.
+
+Parenthese, inworp, tusschen-reeden.
+
+[Red.: Moet zijn 109]
+
+Pareren, cieren, op-proncken, tooyen, ghehoorsamen.
+
+Paresse, luyheydt, traagheydt.
+
+Parfumeren, beroken, doorlughten.
+
+Parlement. Raadt-Hof.
+
+Parochie, Karspel.
+
+Partage, deelinge.
+
+Partisaan, meedestander.
+
+Partiaal, zijdigh, een-zijdigh.
+
+Participatie, meede-deelinghe, mede-ghenietinge.
+
+Participant, deelhebber, deelaghtighe, deel-genoot.
+
+Participeren, meede-deelen.
+
+Particulier, bysonder, af-gedeelt, enckelingh.
+
+Particulariteyt, bysonderheydt, naarder beright.
+
+Partie, deel, gedeelte, teegendeel.
+
+Partyschap, zijdigheydt.
+
+Partuer, gade, weerga.
+
+Parure, bekleedinge.
+
+Pas, stap, schreede.
+
+Pasquil, schimp-schrift.
+
+Passade, reys-gelt.
+
+Passage, wegh, doorgangh.
+
+Passement, lint, boortsel.
+
+Passeren, doorgaan, verby-gaan, doorlijden, verlijden.
+
+Passagier, reyser.
+
+Passeport, vry-brief, vrye reysbrief.
+
+Passijf, lijdende.
+
+Passie, lijdinge, zught.
+
+Pastoor, Harder, Pharheer, Kerckheer.
+
+Pastorel, Harderlijck, Harder-werck.
+
+Pastorye, Phar, Harder-staat, Kerckmeesterschap.
+
+Patent, open brief, Placcaat, bevel, bulle.
+
+Paternel, Vaderlijck.
+
+Patient, lijder, sieck.
+
+Patienteren, lijden, dulden, gedoogen.
+
+Patientie, gedult, lijdsaamheydt.
+
+Patriarch, Oppervader.
+
+Patrimonie, Vaders erf.
+
+Patriot, Vaderlander.
+
+Patronnage, Patronaatschap, Huyshouderschap.
+
+Patroon, voorstander, Huysvader.
+
+Patrocineren, voorstaan, verdadigen.
+
+Paveljoen, Tente.
+
+Pauseren, verposen, rusten.
+
+Payement, betalinghe.
+
+P. E.
+
+Pecceren, sondigen, misdoen.
+
+Pedagoge, Tucht-meester, Leer-meester.
+
+Pedant, Kinder-meester.
+
+Pedanterie, Kinder-werck, leurery.
+
+Peine, breucke, boete.
+
+Pellegrimage, Beevaart.
+
+Pellegrum, Beevaart-reyser.
+
+Peletier, Bontwercker.
+
+Penetreren, doordringen.
+
+Penitentie, berouw, leedtschap.
+
+Pensioen, huur-loon, loon, wedde.
+
+Pensionaris, loon-trecker, Stadts Raat-geever, Raadts-man.
+
+Perceren, doorboren.
+
+Percipiëren, ontfangen, vatten, begrijpen.
+
+Perditie, verlies, quistinge, verderf.
+
+Perdurabel, geduurigh.
+
+Peregrinatie, reyse, landtreyse.
+
+Peregrineren, reysen, landt-reysen.
+
+Peremtoir, uyt-eyndigh, uytvoerlijck.
+
+Perfect, volmaackt.
+
+Perfectie, volmaacktheydt.
+
+Perfidie, ontrouw, trouweloosheydt.
+
+Perijckel, gevaar.
+
+Periode, punt, stip.
+
+Perissabel, verganckelijck.
+
+Perjurie, eet-breeckinge.
+
+Permissie, toe-latinge, verlof.
+
+Permutatie, wisselingh, mangelinge.
+
+Permuteren, wisselen, mangelen.
+
+Pernitieux, schadelijck, verderffelijck.
+
+Perpetreren, bedrijven.
+
+Perplex, verbaast, raadeloos.
+
+Perplexiteydt, verbaastheydt, radeloosheydt.
+
+Perruque, hayr-tooysel, hayr-kap.
+
+Persecuteren, vervolgen.
+
+[Red.: Moet zijn 112]
+
+Persecutie, vervolginge.
+
+Perseverantie, volherdinge.
+
+Persevereren, volherden.
+
+Persisteren, aanhouden.
+
+Personeel, hooft voor hooft.
+
+Personen, lieden, luyden.
+
+Perspective, doorschouwinghe.
+
+Persuaderen, vroed maken, aanraden, overreeden.
+
+Persuasie, vroed-makinge, aanradinge, overreedinghe.
+
+Pertinent, behoorlijck, nae den eysch.
+
+Perturbatie, beroeringe, verstooringe.
+
+Perturberen, beroeren, verstooren.
+
+Pervers, verkeert.
+
+Pesant, swaar, gewightigh.
+
+Peter, Doop-heffer.
+
+Petard, stormstuck.
+
+Petitie, begeerte, eysch.
+
+Petulant, dartel, brooddroncken.
+
+Peupel, volck, gespuys, ’t graauw.
+
+P. H.
+
+Philosooph, wijs-geerige, wijs-sughtige.
+
+Philosophie, wijs-geerigheydt, wijsheydt, wijswordinge, wijsheyt-sught.
+
+Phiole, Fles.
+
+Phisionomie, gedaant-kunst.
+
+Phlegbotomie, aderlatinge.
+
+Phlegma, slijm, fluym.
+
+Phlegmatijck, slijmigh, fluymigh.
+
+Physica, natuur-kunde.
+
+Physique, natuur-kundigh.
+
+P. I.
+
+Picant, steeckeligh, scherp, steeckaghtigh.
+
+Pieteyt, Godtvrughtigheydt.
+
+Pilaar, Zuijl.
+
+Pilleren, plonderen.
+
+Pinas, Spiegel-schip.
+
+Pinnant, muer-stijl, tusschen-muer.
+
+Piqueren, steecken, noopen.
+
+Piraat, Zee-roover.
+
+Pistool, Sinck-roer, Ry-roer.
+
+Pituite, slijm, fluym.
+
+P. L.
+
+Plainte, klaghte.
+
+Plaisant, lustigh, vrolijck.
+
+Plaisier, lust, vrolijckheydt, vreught.
+
+Planeet, sweef-star.
+
+Planeren, schaven, effenen, sleghten.
+
+Pleuris, zijd-pijn, zy-sieckte.
+
+Plauderen, handt-klappen.
+
+Plenipotentie, volmaght.
+
+Plenipotentiaris, volmaghtighe, volmaghtighde.
+
+Plenitude, volheydt.
+
+Pleydoy, geding, ding-taal.
+
+Pluraliteyt, meerderheydt.
+
+P. O.
+
+Poëma, gedight.
+
+Poësie, gedight, dightkonst.
+
+Poët, Dighter.
+
+Poliëren, schaven, effenen.
+
+Politijc, Burgerlijck.
+
+Politie, Burgerschap, Burgerlijcke regeeringe, Burgerstant.
+
+Polijt, net, beschaaft.
+
+Poligamic, veel-wijfschap.
+
+Polluëren, besmetten.
+
+Poltron, fielt.
+
+Pompe, staty, praght.
+
+Pompeux, praghtigh.
+
+Pondereren, overwegen.
+
+Pontificaal, Pauselijck, Priesterlijck.
+
+Populair, gemeensaam, sleghtaghtigh.
+
+Populeux, Volckrijck.
+
+Port, Haven, brengh-loon.
+
+Porteren, dragen, brengen.
+
+Portie, deel, gedeelte.
+
+Portier, deurwaghter.
+
+Poseren, setten, stellen.
+
+Positie, stellinge, stant.
+
+Positijf, gestelt.
+
+Possederen, besitten.
+
+Possesseur, besitter.
+
+Possessijf, besittende.
+
+Possessoir, besittelijck.
+
+Possessie, besit.
+
+Possibel, mogelijck.
+
+Posteriteyt, nakomelinghschap, afkomste.
+
+Postuur, stal, gestalte.
+
+Postulatie, af-eysschinge.
+
+Postuleren, af-eysschen, eysschen.
+
+Potage, pot-spijse.
+
+Potent, maghtigh, vermogend.
+
+Potentaat, geweldt-heer.
+
+Potentie, vermogen.
+
+P. R.
+
+Practijck, bewerckinghe, handel-greep, uyt-werckinge, onderwind.
+
+Practiseren, in ’t werck stellen, uytwercken, bewercken, onderwind.
+
+Practizijn, bewercker, uytwercker.
+
+Prebende, prove, inkomste.
+
+Precedent, voorgaande.
+
+Precederen, voorgaan.
+
+Predecesseur, voorganger, voorsaat.
+
+Precarie, ter beede.
+
+Precelleren, te boven gaan, uyt-munten, overtreffen.
+
+Precept, gebodt.
+
+Precepteur, meester.
+
+Preceptie, bevel.
+
+Precipice, steylte, steylheydt.
+
+Precipitatie, over-ylinge, verhaastingc.
+
+Precipiteren, over-ylen, neerstorten.
+
+Precijs, juyst, stip.
+
+Predestinatie, voorschickinge.
+
+Predestineren, voorschicken.
+
+Predicant, Leeraer, Wtroeper, Preecker.
+
+Predicatie, uytroep, leer-reeden, Preecke.
+
+Predictie, voorsegginge.
+
+Preëminentie, uyt-stekentheydt, voortreffelijckheydt, uytsteeck.
+
+Prefatie, voor-reeden.
+
+Preferentie, voordeel,voordeelinghe, voortreckinge.
+
+Prefereren, voordeelen, voortrecken, meer-aghten.
+
+Prefigeren, voor-bestemmen.
+
+Prefixie, voor-bestemminge.
+
+Prejuditie, nadeel, vervoordeelinge.
+
+Prejudiceren, beschadigen, vervoordeelen.
+
+Prelaat, Kerck-vooght.
+
+Prelature, Kerck-vooghdy.
+
+Prelegateren, voor-uyt-maken.
+
+Premie, wedde, loon, prijs, vereeringe.
+
+Premiëren, beloonen, vereeren, begiften.
+
+Premitteren, voor senden, voor-heen-senden, voor-af-senden.
+
+Preoccupatie, voor-kominghe, voor-op-neeminge.
+
+Preparatie, toe-reydinge, voor-bereydinghe, gereedtschap.
+
+Preparatoir, toe-reydelijck, by voor-raedt.
+
+Prepareren, toe-reyden, voor-bereyden.
+
+Preposeren, voor-stellen.
+
+Prepositie, voorstellinge.
+
+Prerogatijf, voordeel, voor-reght.
+
+Presbyter, Ouderlingh.
+
+Presbyteriaal, Ouderlingschap, Ouderling-aghtigh, Ouderlingh betamelijck.
+
+Prescientie, voor-wetenschap, voorwetenheydt.
+
+Prescriberen, voor-schrijven, verjaren.
+
+Prescriptie, verjaringhe, bevel, voor-schrijvinge.
+
+Present, tegenwoordigh, geschenck.
+
+Presentatie, anbiedinge.
+
+Presenteren, aanbieden.
+
+Presentie, tegenwoordigheydt.
+
+Preservatie, behoedinge, verhoedingh, bewaringe.
+
+Preservatijf, verhoedigh, bewarend.
+
+Preserveren, behoeden, behouden, beschutten.
+
+President, voorsitter.
+
+Prefidentie, voorsittinge.
+
+Prestantie, overtreffinge.
+
+Presteren, betoonen, te weegh brengen, vol-voeren, daer doen.
+
+Presumeren, vermoeden, wanen.
+
+Presumptie, vermoeden, waan, laatdunckentheydt.
+
+Presumptueux, verwaant, vermetende, laatdunckend.
+
+Presupponeren, vast stellen, voor heen bedinghen.
+
+Presuppositie, vast-stellinghe, voor-bedingh.
+
+Preteriëren, verby-gaen.
+
+Pretenderen, vereysschen, voorwenden, vorderen.
+
+Pretentie, vereysschinghe, voorwendinghe, vorderinge.
+
+Pretext, dexel, voorwendinge.
+
+Pretieux, kostelijck, dierbaar.
+
+Prevaleren, overtreffen, te boven gaan.
+
+Prevaricatie, overtredinge, te buyten ganinge, vergrijpinge.
+
+Prevariceren, te buyten gaan, vergrijpen.
+
+Preventie, voorkominge.
+
+Prevoost, zede-straffer, tught-vooght, tught-meester.
+
+Preuve, proeve, bewijs.
+
+Primaat, Opper-Kerck-vooght.
+
+Primogeniture, eerst-geborenschap.
+
+Prins, Vorst.
+
+Principaal, voorneemste, voornaamste.
+
+Prisatie, waardeeringe.
+
+Privaat, afgesondert, bysonder.
+
+Privatie, ontneeminge, ontbeeringe.
+
+Privé, bysonder.
+
+Priveren, ontneemen, ontsetten.
+
+Privilegie, voor-reght, Hantvest.
+
+Probabel, bewijslijck, waarschijnlijck.
+
+Probatie, beproevinghe, bewijsinghe.
+
+Proberen, beproeven, bewijsen.
+
+Probleme, leer-beeld, vraagh-stuck.
+
+Procederen, voort-gaan, voort-varen, dinghen.
+
+Procedure, voort-ganck, dingh-taal, pleyt-handel.
+
+Proces, gedingh.
+
+Processie, ommegangh.
+
+Proclamatie, uytroep.
+
+Proclameren, uytroepen.
+
+Procreatie, teelinge.
+
+Procreëren, teelen.
+
+Procuratie, voorsorge, volmaght.
+
+Procurator, gemaghtighde.
+
+Procureren, versorgen.
+
+Procureur, versorgher, Pleyt-versorgher.
+
+Prodige, deur-brenger, quist-goedt.
+
+Prodigaliteyt, quistinge.
+
+Prodigeren, verquisten.
+
+Prodigieux, wanschapen, wonderbaarlijck.
+
+Productie, voort-brenginge.
+
+Profaan, onheyligh, werelts.
+
+Profaneren, ontheyligen, ontwijen.
+
+Profereren, uytspreecken, uytten, voortbrenghen.
+
+Professie, belijdenisse, voorgeevinge.
+
+Professor, Hooft-leeraar, Opper-leeraar.
+
+Profijt, baat, voordeel, winst.
+
+Profiteren, vorderen, winninge doen.
+
+Profuge, toevlught, voorvlughtigh.
+
+Profusie, quistinge, verplenginge.
+
+Progenie, geslaght, afkomste.
+
+Prognosticatie, voorkenninge, voorduydinghe.
+
+Prognostiqueren, voorkennen, voorduyden, voorkundigen.
+
+Progressie, voortgangh.
+
+Prohiberen, verbieden.
+
+Prohibitie, verbodt.
+
+Proye, buyt, roof.
+
+Project, voorwerp, ontwerp.
+
+Projecteren, voorwerpen, ontwerpen.
+
+Prolix, wijdloopigh.
+
+Prologie, voor-reeden.
+
+Prolongatie, verlenginge.
+
+Prolongeren, verlengen.
+
+Promissie, belofte, toe-segginge.
+
+Promitteren, toeseggen.
+
+Promotie, bevorderinge, voortsettingh.
+
+Promoveren, bevorderen, voortsetten.
+
+Prompt, vaardigh.
+
+Prononciëren, uyt-spreken.
+
+Prononciatie, uytspraack.
+
+Propagatie, voortplantinghe, uytbreydinghe.
+
+Propheet, Godts Tolck.
+
+Propheteren, voorsegghen, waarsegghen, Preken.
+
+Prophetie, voorsegginge.
+
+Propice, goedtgunstigh, toe-gedaan.
+
+Proportie, even-reedenheydt.
+
+Propoost, voorneemen, voorhebbinge.
+
+Proposeren, proponeren, voorstellen.
+
+Propositie, voorstel.
+
+Proscriberen, verbannen.
+
+Proscriptie, ban, verbanninge.
+
+Prose, rijmloos, onberijmt.
+
+Prospereren, welvaren, veroveren.
+
+Prosperiteyt, voorspoet, welvaart.
+
+Prosterneren, nederwerpen.
+
+Protectie, beschut, bescherminge.
+
+Protecteur, beschutter, beschermer.
+
+Protigeren, beschermen, beschutten.
+
+Protest, wederspraack.
+
+Protestatie, teegenspraack.
+
+Protesteren, voortuygen, weederspreken.
+
+Protocol, schrijf-boeck, klad-boeck, schrijf-rol.
+
+Protocolleren, te boeck stellen.
+
+Proverbe, spreeckwoord.
+
+Provident, voorsienigh.
+
+Provideren, voorsien.
+
+Providentie, voorsienigheydt, voorsieninge.
+
+Provisie, voorsieninge, voorraat.
+
+Provisioneel, by voor-raadt.
+
+Provocatie, uytdaginge, porringe.
+
+Provoqueren, uytdagen, porren.
+
+Prudent, voorsightigh.
+
+Prudentie, voorsightigheydt.
+
+P. U.
+
+Publicatie, afkondigingh.
+
+Publiceren, afkondigen, af-leesen.
+
+Publijck, openbaar, ’t gemeen-eyghen, ghemeyntlijck, werelt-kundigh.
+
+Pudijck, schaamtelijck, schaamaghtigh, eerbaar.
+
+Puëril, kinderaghtigh.
+
+Pulveriseren, vermorselen, stof maken.
+
+Punctuaal, geschicktelijck.
+
+Punctuëren, afteykenen, afstippen.
+
+Punitie, straf.
+
+Pupil, Wees.
+
+Pupillariteyt, onmondigheydt.
+
+Puriteyt, suyverheydt.
+
+Puritein, suyver, suyver geest.
+
+Purgatie, suyveringe, losingh.
+
+Purgeren, suyveren, losen.
+
+Purificatie, reyn-makinghe.
+
+Putatijf, aghtender wijs, vermeyntlijck.
+
+Putrefactie, verrottinge.
+
+Qu. A.
+
+Quadraat, vierkant.
+
+Qualificeren, hoedanigh maken.
+
+Qualiteyt, hoedanigheydt.
+
+Quantiteyt, grootheyt, menighvuldigheyt, menighte.
+
+Quartier, vierendeel, een wijck.
+
+Quatertemper, viergety.
+
+Qu. E.
+
+Querelle, krackeel.
+
+Querelleren, krackeelen.
+
+Querelleux, krackeeligh, twistigh.
+
+Quereren, beklagen, klagen.
+
+Questeren, versoecken, opsoecken.
+
+Questie, geschil, vraaghstuck.
+
+Questioneren, ondervragen.
+
+Qu. I.
+
+Quiësceren, berusten, rusten.
+
+Quiëtude, gerustheydt.
+
+Quitantie, quijtinge, quijt-brief, quijtscheldinge.
+
+Quiteren, quijten, verlaten, ontslaen.
+
+Qu. O.
+
+Quote, aandeel.
+
+Quoteren, anteyckenen.
+
+Quotisatie, schattinge.
+
+Quotiseren, schatten, andeel-eysschen.
+
+R. A.
+
+RAbat, afkortinge, afslagh.
+
+Rabatteren, afkorten, afslaen.
+
+Race, herkomst, wortel.
+
+Racine, wortel.
+
+Raconteren, vertellen.
+
+Radicaal, worteligh, ghewortelt, oorspronckelijck.
+
+Radiceren, wortelen.
+
+Raffineren, suyveren.
+
+Raillerie, geckerny, boert.
+
+Ramasseren, vergaderen.
+
+Rampart, wal.
+
+Rantsoen, verlossinge, versoening.
+
+Rapiamus, mengelmoes.
+
+Rappel, herroep, wederroepinge.
+
+Raport, anbrenginge, overdraght.
+
+Raporteren, aanbrengen, overdragen.
+
+Raar, selden.
+
+Rariteyt, seldsaamheydt.
+
+Raseren, vernielen.
+
+Rate, behoorte.
+
+Ratificatie, bekraghtigingh.
+
+Ratificeren, bekraghtigen.
+
+Rationaal, reedelijck.
+
+Ravalleren, slincken, sacken.
+
+Ravelijn, bolwerck.
+
+Rayeren, uytschrabben, uytdoen.
+
+R. E.
+
+Reaal, Realijck, Koninghlijck, gulhertigh.
+
+Reauditie, wederhooringe.
+
+Rebelleren, wederspannig zijn, tegen-spannen, muyten.
+
+Rebellie, wederspannigheyd, muytery.
+
+Rebours, avereghts, verkeert.
+
+Recapitulatie, hooft-deelinge, wederhalinge der hooft-stucken, vertellinge.
+
+Recapituleren, hooft-deelen, wederhalen de hooft-stucken.
+
+Recerche, ondersoeck.
+
+Recepisse, ontfangh, ontfangh-ceel, quijt-brief.
+
+Recept, Recipe, ontfanginge, inneeminge.
+
+Reces, afscheydt, uytstel.
+
+Recesseren, een saack in rechte voordragen.
+
+Recidive, wedervallende, weer-instortende.
+
+Reciproque, wederzijdts, onderlinge.
+
+Recisie, afsnijdinge, opsegginge.
+
+Reciteren, verhalen, opleesen, opsegghen.
+
+Reclamatie, teegenroep, wederspraack.
+
+Reclameren, teegen-roepen, weder-spreken.
+
+Reclinatie, afbuyginghe, afwijckinghe, nederlegginge.
+
+Reclineren, afbuyghen, afwijcken, neder-buygen.
+
+Recogneren, Recognosceren, erkennen.
+
+Recognitie, erkentenis.
+
+Recollatie, weder-vergelijckinge.
+
+Recolement, overhooringe.
+
+Recoleren, overhooren.
+
+Recommandabel, prijselijck, anprijselijck.
+
+Recommandatie, anbeveelinge, aanprijsinge, voorschrijvinge.
+
+Recommanderen, anbeveelen, aanprijsen.
+
+Recompenseren, vergelden.
+
+Reconciliatie, versoeningh.
+
+Reconciliëren, versoenen.
+
+Recordatie, herdenckinge.
+
+Recorderen, herdencken, geheugen.
+
+Reconventie, weeder-eysschinge, weder-anspraack.
+
+Recouvrement, veroveringe, weer-krijging.
+
+Recouvreren, veroveren, weeder-krijgen.
+
+Recreantie, weeder-vertrouwinge, toe-vertrouwinghe.
+
+Recreatie, vermaack.
+
+Recredentie, toe-vertrouwingh.
+
+Recificeren, louteren, reght-maken.
+
+Rectoor, School-vooght.
+
+Recueil, verzaam, kort verhaal.
+
+Reculeren, aarselen.
+
+Recuperatie, veroveringhe, weeder-krijginghe.
+
+Recupereren, veroveren, weeder-krijghen.
+
+Recusant, onwilligh, weygerende.
+
+Recusatie, weygeringe.
+
+Recuseren, weygeren.
+
+Redemptie, verlossinge, vrykoop.
+
+Redevabel, schuldigh, schuldbaar.
+
+Redigeren, maken, stellen, schicken, daar toe brengen.
+
+Redijt, hersegginge, weersegginge.
+
+Redimeren, verlossen, vry koopen.
+
+Redonderen, overvloeyen, hervloeyen, te rugge vloeyen.
+
+Redonneren, weder-geven.
+
+Redoubleren, verdubbelen.
+
+Redres, herstellinge.
+
+Redresseren, herstellen, herschicken.
+
+Reduceren, weederleyden, te recht brengen, herbrengcn.
+
+Reductie, herbrenginghe.
+
+Reël, dadelijck, werckelijck, waarlijck.
+
+Refectie, voedinge.
+
+Refereren, verhalen, by-brenghen, aanghedragen.
+
+Reflecteren, verbuygen, ombuygen.
+
+Reflexie, verbuyginge, weerslagh.
+
+Reformatie, hervorminghe.
+
+Reformeren, hervormen, suyveren.
+
+Refrescheren, vervarsschen.
+
+Refuge, toe-vlught.
+
+Refuseren, weygeren.
+
+Refutatie, wederlegh.
+
+Refuteren, wederleggen.
+
+Regent, bestierder, vooght.
+
+Regime, Regiment, beheerschinge.
+
+Register, Tafel, rol.
+
+Registreren, opschrijven.
+
+Reglement, schickinge.
+
+Regneren, heerschen.
+
+Regres, verhaal.
+
+Regretteren, leedt dragen, rouw hebben.
+
+Reguleren, schicken.
+
+Rejecteren, verwerpen.
+
+Rejectie, verwerpinge.
+
+Reine, Coninginne.
+
+Reine Mere, Coninginne Moeder.
+
+Relaas, verhaal.
+
+Relateren, vertellen, verhalen.
+
+Relatie, vertellinghe, verhaal, onderlinghe opsight.
+
+Relaxatie, lossinge, ontslagingh.
+
+Relaxeren, lossen, ontslaan.
+
+Releveren, op-heffen, op-beuren, verheffen, ontheffen.
+
+Relief, opheve, opheffinge.
+
+Reliëvement, ontheffinge.
+
+Religie, Godtsdienst.
+
+Religieux, Godtsdienstigh.
+
+Reliqua, overblijfsel, overschot.
+
+Reliquen, overblijfselen.
+
+Remarqueren, aanmercken.
+
+Rembourseren, weer uyt-geven, weer betalen, verschieten.
+
+Remedie, help-middel, heel-middel.
+
+Remediëren, heelen, geneesen.
+
+Rememoriëren, herdencken, weder-verhalen, erinneren.
+
+Remisse, oversettinge, overmakinghe.
+
+Remissie, vergiffenis.
+
+Remitteren, oversetten, overmaken.
+
+Remonstrantie, vertoogh.
+
+Remonstreren, vertoonen.
+
+Remors, knaginge, wroeginghe.
+
+Removeren, weeren, afwenden.
+
+Remuëren, verroeren, beweegen, roeren.
+
+Rencontreren, ontmoeten, bejeegenen.
+
+Renfort, versterckinge.
+
+Renommeren, vermaart maken, vermaren.
+
+Renonceren, ontseggen, opseggen.
+
+Renonciatie, ontsegginge, opsegginge.
+
+Renoveren, vernieuwen.
+
+Renverseren, verkeeren.
+
+Renversaal-brieven, weder-brieven, onkragtingh-brieven.
+
+Renvoy, versendingh, wedersendingh.
+
+Renvoyeren, versenden, wedersenden.
+
+Reparatie, vermakinge, vergoedinge.
+
+Repareren, vermaken, vergoeden.
+
+Repelleren, verdrijven, te rugge drijven.
+
+Repeteren, herhalen.
+
+Repetitie, herhalinge.
+
+Repliceren, wederseggen, weder-antwoorden.
+
+Replijcq, wedersegginge, weder-antwoord, verantwoordingh.
+
+Reposeren, rusten, verposen.
+
+Reprehenderen, berispen.
+
+Reprehensibel, berispelijck.
+
+Reprehensie, berispinge.
+
+Represallie, weder-neemingh.
+
+Representatie, vertooninghe, plaats-vullinghe.
+
+Representeren, vertoonen, plaats-vullen.
+
+Reprimende, bedwangh, bestraffingh.
+
+Reprimeren, verdrucken, bedwingen.
+
+Reprinse, hervattinge.
+
+Repriseren, herschatten.
+
+Reproche, berispinge, wreeckinge.
+
+Reprocheren, wraken, berispen.
+
+Reprouveren, reproberen, wraken.
+
+Republijcque, ghemeen-best, Ghemeynten-Staat.
+
+Repudiatie, verlatinge.
+
+Repudiëren, verstooten, verlaten.
+
+Repugneren, bevechten, teegenstrijden.
+
+Repulsie, verdrijvinge, afweeringe.
+
+Reputabel, aghtbaar.
+
+Reputatie, aghtinge, aghtbaarheydt.
+
+Reputeren, aghten.
+
+Request, versoeck, versoeck-schrift.
+
+Requesteren, versoecken.
+
+Requirant, eysscher.
+
+Requireren, versoecken, eysschen.
+
+Requisitie, versoeck.
+
+Requisitorien, versoeck-brieven.
+
+Reserveren, behouden, voor-behouden.
+
+Resident, verblijver, plaats-houder.
+
+Residentie, verblijf, verhoudinge, sittinge.
+
+Resideren, verblijven, verhouden, sitten.
+
+Resignatie, overwijsinghe, vertightinge.
+
+Resigneren, overwijsen, vertighten.
+
+Resistentie, weederstandt, teegenstandt.
+
+Resisteren, weederstaan, teegenstaan.
+
+Resolveren, voorneemen, besluyten.
+
+Resolut, onbeteutert.
+
+Resolutie, voorneeminghe, opset, besluyt.
+
+Resolutien, besluyten.
+
+Resonnantie, klanck.
+
+Resort, besteck, kavelingh.
+
+Resorteren, gehooren.
+
+Respect, ontsagh, ghesagh, aansien, opsight.
+
+Respecteren, eer-bieden, ontsien.
+
+Respijt, uytstel.
+
+Responderen, antwoorden.
+
+Responsabel, verantwoordelijck.
+
+Response, antwoorde.
+
+Restabiliëren, weder-opreghten.
+
+Restablissement, weder-opreghtinge.
+
+Restauratie, opreghtinghe, weeder-opreghtinghe.
+
+Restaureren, opreghten, weeder-opreghten.
+
+Reste, overblijfsel, overschot.
+
+Resteren, overblijven, overschieten.
+
+Restituëren, herstellen, weeder-geeven.
+
+Restitutie, herstellinge, weeder-gevinge.
+
+Restoir, overschot, overblijfsel, vergoedinge.
+
+Restrictie, vervangh, inbindinge.
+
+Restrictien, in-banden.
+
+Resultatie, weerspringinge, opsprongh, opstandt.
+
+Resulteren, weerspringen, opspringen, ontstaan, ontspringen.
+
+Resumeren, herhalen, hervatten.
+
+Resumtie, herhalinge, hervattinge.
+
+Resurrectie, verrijsenisse.
+
+Resusciteren, verwecken.
+
+Retarderen, vertoeven, ophouden, verachteren.
+
+Retardement, vertoevinge, ophoudinge.
+
+Retentie, onthoudinge.
+
+Retineren, onthouden, behouden.
+
+Retireren, aerselen, vertrecken.
+
+Retorqueren, verdraayen, verkeeren, te rugghe drijven.
+
+Retorsie, verdraayinge, te rugh drijvingh.
+
+Retour, weerkeer, keer.
+
+Retourneren, weerkeeren, keeren,
+
+Retraict, vertreck, wijck.
+
+Retracteren, herroepen, herdoen.
+
+Retrenchement, besnijdingh, afsnijdingh.
+
+Retrencheren, afsnijden, besnoeyen.
+
+Revelatie, openbaringe.
+
+Reveleren, openbaren.
+
+Revenge, wraacke.
+
+Revengeren, wreken.
+
+Revenuen, inkomsten.
+
+Reverentie, eerbiedinge.
+
+Revisie, hersieninge.
+
+Reumatijcq, koutvoghtigh.
+
+Revocatie, herroepinghe.
+
+Revolveren, ontwinden, omwenden, om-loopen.
+
+Revolteren, afvallen, omwenden, omkeeren.
+
+Revolte, oploop, afval.
+
+Revolutie, ontwindinghe, omwentelinghe, omloop.
+
+Revoqueren, revoceren, herroepen.
+
+R. I.
+
+Ridicule, ridiculeux, belaghgelijck.
+
+Rigeur, strafheydt, strengheydt.
+
+Rigoureux, strengh.
+
+Riole, Goot, Verlaat.
+
+R. O.
+
+Roboratie, sterckinge.
+
+Roboreren, stercken.
+
+Robust, sterck.
+
+Route, verstroyinge.
+
+R. U.
+
+Rubrijck, afteyckeninge.
+
+Rude, hardt, rouw.
+
+Rudiment, begin-lesse, ontwerp, schets.
+
+Ruijne, vernielinge, neederstortinge.
+
+Ruijneren, vernielen, nederslaan, te gronde werpen.
+
+Ruijneux, bouvalligh.
+
+Rumoer, gerught.
+
+Rupture, breuck.
+
+Ruse, loosheydt, list.
+
+Rustijck, boersch.
+
+S. A.
+
+SAccageren, plonderen, rooven.
+
+Sacrament, heyl-teycken.
+
+Sacreren, Heyligen, wijen.
+
+Sacrifitie, toe-heyligingh, heyligingh, offerhande.
+
+Sacrilegie, Kerck-roof.
+
+Sacristi, Heylighdom.
+
+Saysoen, gety.
+
+Saisine, genietinge, besit.
+
+Salariëren, besoldigen, loonen.
+
+Salaris, wedde, loon, besoldinge.
+
+Salvatie, bewaringe, beschut.
+
+Salveconduit, vry-geley-ceel.
+
+Saluëren, begroeten.
+
+Salut, heyl, saligheyt, groetenis.
+
+Salutair, heylsaam.
+
+Salutatie, begroetinghe, heyl-wenschinghe.
+
+Sanguijn, bloedigh, bloedt-rijck.
+
+Sapientie, wijsheydt.
+
+Sapperen, ondergraven.
+
+Satisfactie, voldoeninge.
+
+Saufconduit, vry-geley.
+
+Sauvegarde, bescherminghe, beschuttinghe.
+
+S. C.
+
+Scabel, banck.
+
+Scabreux, rouw, ruygh, schrabbigh.
+
+Scandaal, aanstoot, ergernis.
+
+Scandaleux, ergerlijck, aanstootelijck.
+
+Scandaliseren, ergheren, aenstoot gheeven.
+
+Scarificatie, schervinge.
+
+Scarifiëren, scherven.
+
+Scedule, handt-schrift, ceel.
+
+Scelereux, schelmaghtigh.
+
+Scene, Tooneel.
+
+Scepter, Konincx staf.
+
+Scisma, tweespalt, scheuringe.
+
+Scismatijcq, scheurmaker, scheursughtigh.
+
+Scholastijcq, schools.
+
+Sciatica, heup-gight.
+
+Scorpioen, Slangh.
+
+Scortatie, hoereeringe.
+
+Scorteren, hoereeren.
+
+Scrupule, anghst, ghewight oft steentje van twintigh greynen.
+
+Scrupuleux, angstigh, aghterkousigh.
+
+Scrutatie, nasoeckinge, doorgrondinge.
+
+Scruteren, doorsnuffelen, nasoecken, doorgronden.
+
+Scurriliteyt, rabauwery.
+
+S. E.
+
+Secluderen, afsluyten, uytsluyten.
+
+Seclusie, afsluytinge, uytsluytinge.
+
+Seconde, tweede.
+
+Seconderen, bystaan, ondervangen.
+
+Secours, bystant, hulpe.
+
+Secreet, geheym.
+
+Secretaris, Raadt-schrijver, gheheym-schrijver, schrift-heer.
+
+Secte, anhang.
+
+Sectaris, anhanger.
+
+Seculier, wereltlijck.
+
+Securiteyt, veyligheydt.
+
+Seditie, oproer.
+
+Seditieux, oproerigh.
+
+Seigneur, Heere.
+
+Seigneurie, Heerschappy.
+
+Semblant, schijn.
+
+Seminarium, Planthof, quekerye.
+
+Senateur, Raadtsheer.
+
+Sensibel, gevoeligh.
+
+Sententie, vonnis, oordeel, ’t gewijsde.
+
+Sententiëren, vonnissen, oordeel-vellen.
+
+Sententieux, zin-rijck.
+
+Separatie, scheydinge.
+
+Separeren, scheyden.
+
+September, Herfstmaandt.
+
+Sepulchre, graf.
+
+Sepulture, begraffenis, graf.
+
+Sequestratie, bylegginghe, over-gift, in bewaar-stellinge.
+
+Sequestreren, over geven, in bewaringh stellen.
+
+Sereniteyt, helderheydt.
+
+Sergeant, bediener, Reghts-bode.
+
+Serieux, ernstigh.
+
+Sermoen, Leer-reeden.
+
+Serpent, Slangh.
+
+Servateur, behoeder, behouder.
+
+Serviteur, dienaar.
+
+Servituyt, dienstbaarheydt.
+
+Severiteyt, hardigheydt, strengheydt.
+
+Seureteyt, veyligheydt.
+
+Sexe, soorte, geslaght, kunne, hy oft sy.
+
+S. I.
+
+Signaal, teycken.
+
+Signature, teyckeningh.
+
+Significant, duydelijck.
+
+Signifiëren, beteyckenen.
+
+Silentie, stilswijgingh.
+
+Simpel, enckel, eenvoudigh, sleght.
+
+Simpliciteyt, eenvoudigheyt, sleghtigheyt.
+
+Simulatie, veynsinge, bewimpelingh.
+
+Simuleren, veynsen, bewimpelen.
+
+Sinceer, opreght.
+
+Sinceriteyt, opreghtigheydt.
+
+Singulariteyt, bysonderheydt.
+
+Singulier, bysonder.
+
+Sinister, slincks.
+
+Situatie, standt, gelegentheydt.
+
+S. O.
+
+Sober, nughteren, suynigh, spaarsaam.
+
+Sobriëteyt, nughterheydt.
+
+Sociaal, geselschappigh.
+
+Sociëteyt, geselschap, maatschap.
+
+Solaas, troost.
+
+Solemneel, feestelijck.
+
+Solemniseren, vieren, Feest vieren, Hooghtijdt houden.
+
+Solemniteyt, Hooghtijdt, Hooghtijdt-vieringe, Feest.
+
+Solicitatie, beneerstigingh, versoeck.
+
+Soliciteren, beneerstigen, versoecken.
+
+Solide, louter, heght, hard, vast.
+
+Soliditeyt, louterheydt, vastigheydt.
+
+Solitair, eensaam.
+
+Solstitie, Sonne-standt.
+
+Solvent, betaalbaar.
+
+Solveren, op-lossen, lossen, betalen.
+
+Solutie, op;lossinge, lossinge.
+
+Sombre, beschaduwt, bedeckt, treuraghtig.
+
+Sommarie, inhoudt.
+
+Sommatie, op-eysschinge, optelling.
+
+Sommeren, af-eysschen, af-vorderen, uyt-eysschen, op-eysschen, op-tellen.
+
+Somtueux, kostelijck.
+
+Somtueusiteyt, kostelijckheydt.
+
+Sonderen, gronden, peylen.
+
+Sonnet, klinck-dight.
+
+Sophist, mugghesifter, neuswijse, bet-weeter.
+
+Sophistiseren, muggesiften, bet-weeten.
+
+Sorteren, uytsonderen.
+
+Effect sorteren, stant grijpen.
+
+Soulagement, troost.
+
+Soulageren, vertroosten.
+
+Souverain, Opperhooft, Opperste.
+
+Souverainiteyt, Opper-maght, Opper-hoofdigheydt.
+
+S. P.
+
+Spargeren, verspreyden.
+
+Spasme, kramp.
+
+Spatie, wijde.
+
+Spatieux, ruym, wijd.
+
+Speciaal, sonderlingh, bysonder.
+
+Specialijck, insonderheydt, bysonderlijck.
+
+Specialiteyt, bysonderheydt.
+
+Specie, gedaante, soorte.
+
+Specieux, sonderlijck, sonderlingh.
+
+Specificatie, sonderinge, benoeminge.
+
+Specifiëren, specificeren, sonderen.
+
+Spectakel, Schou-spel.
+
+Spectateur, anschouwer.
+
+Specteren, anschouwen.
+
+Speculatie, opmerckinge, bespeuringhe, bespiedinge.
+
+Speculeren, besinnen, bespeuren, bespieden.
+
+Speculatijf, opmerckend.
+
+Spelonck, aard-kuyl.
+
+Sphere, kloot, kogel.
+
+Spineux, doornaghtigh, steeckelaghtigh.
+
+Spirituël, geestelijck.
+
+Splenderen, glinsteren.
+
+Splendeur, klaarheydt, glans.
+
+Splenitijck, mildtsughtigh.
+
+Spoliatie, beroovinge, plonderingh.
+
+Spoliëren, berooven, plonderen.
+
+Spongieux, schuymaghtigh.
+
+S. T.
+
+Statuë, beeldt, stock-beeldt.
+
+Statuëren, instellen, vast setten.
+
+Statuyten, instellingen.
+
+Stature, lijfs groote, lijf-stal.
+
+Steriliteyt, onvrughtbaarheyt.
+
+Stimulatie, aanporringhen.
+
+Stipulatie, toesegginge.
+
+Stipuleren, toeseggen.
+
+Stratagema, arghlistigheydt.
+
+Structure, timmeringe, gebouw.
+
+Studie, leer-oeffeningh.
+
+Studieux, naarstigh, vlijtigh, leersughtigh.
+
+Stupiditeyt, plompigheydt.
+
+S. U.
+
+Suasie, anradinge.
+
+Subject, onderwerp, onderworpen, grondt-saack.
+
+Subjiciëren, onderwerpen.
+
+Subijt, snel, terstondt, geswind.
+
+Subjungeren, onderwerpen.
+
+Sublimeren, verheffen.
+
+Submissie, onderstellinge, verblijf.
+
+Submitteren, onderstellen, verblijven.
+
+Subordoneren, onderschicken.
+
+Suborneren, besteeken, uyt-maken.
+
+Subrideren, meesmuylen.
+
+Subrogeren, in de plaats van een ander stellen.
+
+Subsidie, onderstant.
+
+Subsisteren, bystaan, onderstandt doen.
+
+Subsigneren, onderteyckenen.
+
+Substantie, weesentlijckheydt, selfstandigheydt.
+
+Substantieux, bondigh, selfstandigh, eygen-kraghtigh.
+
+Substractie, aftreckinge.
+
+Substraheren, aftrecken.
+
+Substituëren, inde plaats stellen, onderstellen, erf-stellen.
+
+Substituyt, inde plaets gestelde, ondergestelde.
+
+Substitutie, in de plaats stellinge, onderstellinge, erf-makinge.
+
+Subtijl, spitsvindigh, scharpsinnigh, fijn.
+
+Subtiliseren, hairkloven.
+
+Subtiliteyt, spitsvindigheydt.
+
+Subventie, onderstant.
+
+Subversie, omkeeringe.
+
+Succederen, involgen, naevolgen.
+
+Succes, Successie, involginge, navolgingh.
+
+Succincte, beknopt.
+
+Succumberen, onderliggen.
+
+Suffisant, genoeghsaam.
+
+Suffocatie, verstickinge.
+
+Suggestie, ingeevinge.
+
+Superabondant, overvloedigh.
+
+Superabondantie, overvloedt.
+
+Superb, hooghmoedigh, trots.
+
+Superbiteyt, hooghmoedigheydt, trotsheyt.
+
+Superficie, Opper-vlack.
+
+Superflu, overvloedigh, overtolligh.
+
+Superintendent, Opper-vooght.
+
+Superioriteyt, Overheydt.
+
+Superscriptie, opschrift.
+
+Supersederen, af-laten, nae-laten.
+
+Superstitie, overstalligheydt, by-geloof.
+
+Superstitieux, overstalligh, by-geloovig.
+
+Suppliëren, vullen.
+
+Supplement, vullinge.
+
+Supplicatie, smeeckinge, smeeck-schrift.
+
+Supplice, straffe, lijf-straffe.
+
+Suppliceren, Suppliëren, smeeken, te voet vallen.
+
+Supportabel, verdragelijck.
+
+Supporteren, verdragen, onderstutten.
+
+Supposeren, ondersteecken, onderstellen, uyt maken, toe-stellen, verzieren.
+
+Suppoost, ondergestelde.
+
+Suppositie, uytmakinge, toestellinge, onderstellinge.
+
+Suppressie, verdruckinghe, onderdruckinghe.
+
+Supprimeren, verdrucken, onderdrucken, t’onderhouden.
+
+Supputatie, overtellinge.
+
+Surabondant, overvloeyende, overvloedigh.
+
+Surabondantie, overvloedigheydt.
+
+Surabonderen, overvloeyen, overigh zijn.
+
+Surmonteren, te boven gaan, overtreffen.
+
+Surrogatie, inde plaats stellinge.
+
+Surrogeren, inde plaats stellen.
+
+Sursaut, bespringinge.
+
+Surseance, schorssinge, op-schortinge.
+
+Survivantie, overleevinge.
+
+Susceptibel, vatbaar.
+
+Susciteren, opwecken.
+
+Suspect, verdaght.
+
+Suspecteren, verdencken, nae-dencken, aghterdencken.
+
+uspectie, verdenckinge.
+
+Suspenderen, opschorten, afstellen.
+
+Suspensie, opschortinge, schorssinge.
+
+Suspitie, aghterdoght, arghwaan, nadencken.
+
+Sustentatie, onderhoudt.
+
+Sustineren, onderhouden, ophouden, staande houden, drijven.
+
+Sustinue, staande-houdinge, drijvinge.
+
+S. Y.
+
+Syllabe, woord-greep.
+
+Syllogismus, sluyt-reeden.
+
+Symbole, waar-teycken.
+
+Sympatie, meewaardigheydt, toeneyginge, gelijcke neyginge.
+
+Synagoge, School, vergaar-plaatse.
+
+Synode, Kercken-Landt-raadt.
+
+T. A.
+
+TAbernakel, Tente, Hut.
+
+Tangibel, gevoelijck, tastbaar.
+
+Tapijt, pel.
+
+Tarderen, vertoeven, beyden.
+
+Tardijf, traagh.
+
+Taverne, Herberge.
+
+Tavernier, Waart.
+
+Taxatie, schattinge, waardeeringe.
+
+Taxeren, schatten, waardeeren.
+
+T. E.
+
+Teinture, verwinge.
+
+Temerair, reuckeloos, stout, vermeeten.
+
+Temperantie, matigheydt.
+
+Temperature, matigingh.
+
+Tempel, Kerck.
+
+Tempeest, onweer, storm.
+
+Temporeel, tijdelijck.
+
+Tenderen, strecken.
+
+Temptatie, quellinghe.
+
+Tempteren, quellen.
+
+Teneur, inhoudt.
+
+Tentatie, beproevinge, versoeckinge, bekoringe.
+
+Tenteren, beproeven, versoecken, bekoren.
+
+Termijn, bepalinge, paal-teecken.
+
+Terminatie, eynde, uyt-eynde.
+
+Termineren, eyndigen, bepalen.
+
+Testament, uytterste wille.
+
+Territoria, Landtpalen.
+
+Testateur, uytterste wil maker.
+
+Testatrice, uytterste wil maackster.
+
+Testeren, erf maken, betuygen.
+
+Testificatie, betuyginge.
+
+T. H.
+
+Theatre, Schouwburgh, Tooneel.
+
+Theologie, Godt-geleertheydt.
+
+Theologus, Godtgeleerde, Schrift-geleerde.
+
+Theorema, werck-stuck.
+
+Thresoor, schat.
+
+Thresorier, ontfangher, schat-meester, penningh-meester.
+
+T. I.
+
+Tincture, verwinge.
+
+Titule, Opschrift, by-naam, Van.
+
+Tituleren, by-noemen, op-schrijven.
+
+T. O.
+
+Tolerantie, verdraaghsaamheydt.
+
+Tolereren, verdraghen.
+
+Tombe, Graf.
+
+Tome, Boeck-deel.
+
+Torment, pijn.
+
+Tormenteren, pijnigen.
+
+Torqueren, wenden, draayen, keeren, wringhen.
+
+Torture, pijninge.
+
+Tortureren, pijnigen.
+
+Totaal, geheel, al.
+
+T. R.
+
+Tractaat, handelinge.
+
+Tractabel, handelbaar, reckelijck.
+
+Tracteren, handelen.
+
+Traditie, overleeveringe.
+
+Traduceren, oversetten, over-halen, bekladden.
+
+Traductie, oversettinge.
+
+Trafijcq, koophandel.
+
+Tragedie, treur-spel.
+
+Traineren, sleepen.
+
+Traiter, verrader.
+
+Tranquilliteyt, stilligheydt, gerustheydt.
+
+Transactie, overgeevinghe, af-handelinghe, daadinge.
+
+Transformatie, gedaant-veranderinge, vervorminghe.
+
+Transformeren, ghedaant-veranderen, vervormen.
+
+Transiëren, overgaan.
+
+Translateren, oversetten, overdragen.
+
+Translatie, oversettinge, overdracht.
+
+Transmigreren, verhuysen.
+
+Transmitteren, versenden.
+
+Transmuteren, verwisselen.
+
+Transport, overdraght.
+
+Transporteren, overdragen, overleeveren.
+
+Travailleren, arbeyden, quellen, moeyten aandoen.
+
+Travers, dwars, kruys-weeghs.
+
+Traverseren, kruyssen, dwerssen, drijven.
+
+Trenchee, loop-grave.
+
+Triangel, drie-hoeck.
+
+Tribulatie, verdriet, ghequel, weederwaardigheydt.
+
+Tribuyt, tol, schattinge, oplage.
+
+Triumphe, zeege-praal, intreede.
+
+Tripaneren, doorboren.
+
+Triste, treurigh.
+
+Tropheen, zeege-teyckenen.
+
+Trotteren, draven.
+
+Troubleren, beroeren.
+
+Troup, kudde, hoop.
+
+T. U.
+
+Tumult, oproer.
+
+Tumultueux, oproerigh.
+
+Turbatie, beroeringe.
+
+Turbe, bende, meenighte.
+
+Turberen, beroeren.
+
+Turbulent, onstuymigh.
+
+Turpe, leelijck, oneerlijck.
+
+Tutele, vooghdy, momberschap.
+
+Tuteur, vooght, momber.
+
+V. A.
+
+VAcant, leedigh.
+
+Vacantie, leedigheydt.
+
+Vacatie, beesigheydt, ontleedigingh.
+
+Vaceren, beleedigen, verleedigen, ontleedigen.
+
+Vacillatie, waggelinge, wispelturigheydt.
+
+Vacilleren, waggelen.
+
+Vacuätie, leedigingh.
+
+Vacuëren, leedigen.
+
+Vagabond, landtlooper.
+
+Vallant, kloeck.
+
+Vaillantise, kloeckheydt.
+
+Valey – dal.
+
+Valeur, waardy.
+
+Valideren, gelden.
+
+Valise, male.
+
+Valitude, gesontheydt.
+
+Valabel, waardigh.
+
+Valuätie, waardeeringe.
+
+Vaniteyt, ydelheydt.
+
+Vanteren, beroemen.
+
+Vapeur, wasem, damp, domp.
+
+Vaporeus, dompigh.
+
+Vaqueren, beesigh zijn.
+
+Variabel, veranderlijck, wisselbaar.
+
+Variëren, veranderen.
+
+Variëteyt, veranderingh.
+
+Vassaal, Leenman, Smalheer.
+
+Vaticineren, waarseggen.
+
+V. E.
+
+Vehement, heevigh, heftigh.
+
+Vehementie, heevigheyt.
+
+Venaal, veyl.
+
+Venaison, wildtbraadt, wiltgeback.
+
+Venditie, verkoopinge.
+
+Vente, verkoop.
+
+Venerabel, eerwaardigh.
+
+Veneratie, eeringe, eerbiedinge.
+
+Ventileren, wannen, reeden-siften.
+
+Verbaal, vertellingh, verhaal.
+
+Verificatie, waar-makinge.
+
+Verifiëren, verificeren, waar-maken.
+
+Versseren, verkeeren, oeffenen.
+
+Versië, oversettinge, omsettinge.
+
+Vertueux, deughdigh, deughtsaam.
+
+Vesper, avondt-stondt.
+
+Vestige, spoor, voetstap.
+
+Vesture, kleedingh.
+
+Vexeren, quellen, plagen.
+
+V. I.
+
+Vicaris, plaats-houder.
+
+Vice, mangel, gebreck, ondeught.
+
+Vicerooy, onder-Coningh.
+
+Vicieux, ondeugende, gebreekigh.
+
+Victoirie, overhand, overwinninghe, zeege.
+
+Victorieux, zeege-rijck, overwinningh.
+
+Victualie, voedtsel, leeftoght.
+
+Victuailleren, voeden, spijsen.
+
+Vigeur, sterckte, kraght.
+
+Vigilant, wacker.
+
+Vigilantie, wackerheydt.
+
+Vigoreux, sterck, kraghtigh, fris.
+
+Vijl, sleght, gering, onaghtbaar, onwaard.
+
+Vilain, guytaghtigh, schandigh.
+
+Vilenie, guyterye.
+
+Vilipendie, veraghtinge, kleynaghtinge.
+
+Vilipenderen, veraghten, versmaden.
+
+Vindiceren, vry-maken, verlossen.
+
+Violatie, schoffeeringh, schendinge.
+
+Violent, geweldigh.
+
+Violeren, schoffeeren, verkraghten, schenden.
+
+Violentie, gewelt, schoffeeringhe.
+
+Visie, sieninge.
+
+Visier, doorsight.
+
+Visioen, gesight.
+
+Visitatie, besoeck.
+
+Visiteren, besoecken.
+
+Vitupereren, lasteren, veraghten.
+
+Vivaciteyt, leevendigheydt.
+
+Ulceratie, zweer, zweeringe.
+
+Ulcereren, zweeren.
+
+V. N.
+
+Unanimiteyt, eenmoedigheydt.
+
+Vnguent, Zalve.
+
+Vnie, eenigheydt, vereenigingh.
+
+Vniëren, vereenigen.
+
+Vniverseel, algemeen.
+
+Vniversiteyt, Land-school.
+
+V. O.
+
+Vocaal, klinckerd.
+
+Vocabel, woorden.
+
+Vocabulaar, vertaal-boeck, woord-boeck.
+
+Vocatie, beroep.
+
+Voceren, roepen, beroepen.
+
+Vogue, swier, swangh, voortoght.
+
+Voix, stem.
+
+Volumen, Boeck-deel.
+
+Voluntaris, vrywillige.
+
+Voluptueux, wellustigh, dartel.
+
+Vomitoirie, spou-dranck.
+
+Voraciteyt, gulsigheydt.
+
+Voreren, opslocken, verslinden.
+
+Voyage, reyse.
+
+Vouëren, verloven.
+
+U. R.
+
+Urbaan, deftigh.
+
+Urbaniteyt, deftigheydt.
+
+Urgeren, dringen.
+
+Urinaal, Pis-glas.
+
+U. S.
+
+Vsantie, gebruyck.
+
+Vsufruct – lijftoght, vrugt-gebruyck, blading.
+
+Vsure, woecker.
+
+Vsurpatie, gebruyck, besit-neeminge, inneemingh.
+
+Vsurperen, besit nemen, gebruycken, innemen.
+
+Z.
+
+Zelateur, yveraar.
+
+Zele, yver-sught.
+
+Zone, gordel.
+
+EYNDE.
