@@ -1,0 +1,19 @@
+# requirements.txt
+#
+# ── Core utilities ───────────────────────────────────────────────────────
+lxml>=4.9        # XML / HTML parsing
+tqdm>=4.66       # progress bars
+python-dotenv>=1.0
+
+# ── LangChain stack ──────────────────────────────────────────────────────
+langchain-core>=0.1
+langchain-openai>=0.1
+langchain-text-splitters>=0.0.5
+
+# ── Document handling & fuzzy matching ───────────────────────────────────
+python-docx>=0.8.11       # read / write Word files
+fuzzywuzzy[speedup]>=0.18 # string similarity (speedup pulls in python‑Levenshtein)
+python-Levenshtein>=0.23  # explicit for when fuzzywuzzy isn't installed with [speedup]
+
+# ── Data validation ──────────────────────────────────────────────────────
+pydantic>=2.6
