@@ -6,6 +6,7 @@ from typing import Optional
 from pydantic import BaseModel, Field, create_model
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from .token_cost import TokenCostTracker
 
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=400,
