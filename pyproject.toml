@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dbnl_bear"
+version = "0.3.3"
+description = "A Python package to use an AI assistant for historical analysis"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Arjan van Dalfsen", email = "j.a.vandalfsen@uu.nl"}
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+]
+dependencies = [
+  "lxml>=4.9",
+  "tqdm>=4.66",
+  "python-dotenv>=1.0",
+  "langchain-core>=0.1",
+  "langchain-openai>=0.1",
+  "langchain-text-splitters>=0.0.5",
+  "python-docx>=0.8.11",
+  "rapidfuzz>=3.6",
+  "pydantic>=2.6"
+]
+
+[project.scripts]
+dbnl-bear = "dbnl_bear.cli:main"
