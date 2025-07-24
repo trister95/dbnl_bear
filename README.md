@@ -1,4 +1,4 @@
-![My Package Logo](assets/logo.png)
+![My Package Logo](assets/logo%20text.png)
 
 This is dbnl_bear, a python package to make it easier to use AI for reading assistance in historical analaysis. 
 
