@@ -12,4 +12,3 @@ exclude *.egg-info/
 
 # Include essential files
 include README.md
-include LICENSE

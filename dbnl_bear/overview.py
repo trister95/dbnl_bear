@@ -1,6 +1,6 @@
 import docx
 from docx.shared import RGBColor
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import matplotlib.pyplot as plt
 import tqdm 
 
@@ -18,7 +18,7 @@ import docx
 from difflib import SequenceMatcher
 import re
 import tqdm
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import numpy as np
 
 def highlight_relevant_passages(input_file, output_file, relevant_passages):

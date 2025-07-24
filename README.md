@@ -10,4 +10,19 @@ The package is available on PyPi. However, currently, it's not perfect, and shou
 
 The goal of the package is to make it easier for historians to use AI in their research. It will assist in parsing texts, sending them to the OpenAI API, and viewing the results. 
 
-See the notebook for info on how to use this. 
+See the notebook for info on how to use this.
+
+## Installation
+
+The package now ships with a modern `pyproject.toml` configuration.  You can
+install it directly from the repository using:
+
+```bash
+pip install git+https://github.com/trister95/dbnl_bear.git
+```
+
+Or clone the repository and install in editable mode:
+
+```bash
+pip install -e .
+```
