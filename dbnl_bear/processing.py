@@ -25,8 +25,7 @@ async def _run(paths, phenomenon: str, output_dir: str, max_tasks: int):
 
 
 def run_processing(phenomenon_of_interest: str, input_dir: str, output_dir: str,
-                   batch_size: int = 1, max_document_tasks: int = 1,
-                   max_fragment_tasks: int = 10):
+                   max_document_tasks: int = 1):
     """Analyze all text files in ``input_dir`` and save relevant passages."""
     paths = [os.path.join(input_dir, f) for f in os.listdir(input_dir) if f.endswith('.txt')]
     if not paths:

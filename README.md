@@ -26,3 +26,12 @@ Or clone the repository and install in editable mode:
 ```bash
 pip install -e .
 ```
+
+## Usage
+
+Run the CLI to analyze all `.txt` files in a directory. For example:
+
+```bash
+python -m dbnl_bear.cli "my phenomenon" --input_dir ./texts --output_dir ./out --max_document_tasks 2
+```
+
