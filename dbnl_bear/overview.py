@@ -1,11 +1,11 @@
 import docx
-from docx.shared import RGBColor
 from rapidfuzz import fuzz
 import matplotlib.pyplot as plt
-import tqdm 
+import tqdm
+import numpy as np
 
-""""
-The highlight relevant passages function still has flaws. 
+"""
+The highlight relevant passages function still has flaws.
 I have not been able to come up with a system that has 100% recall and 100% precision,
 but theoretically that should be possible.
 
@@ -13,13 +13,6 @@ The barcode plot has the same issue (with a different solution though) but here 
 is less urgent because the barcode plot is just used to give an indication so there's more
 room for error.
 """
-import matplotlib.pyplot as plt
-import docx
-from difflib import SequenceMatcher
-import re
-import tqdm
-from rapidfuzz import fuzz
-import numpy as np
 
 def highlight_relevant_passages(input_file, output_file, relevant_passages):
     # Read the original text

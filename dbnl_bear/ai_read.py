@@ -1,8 +1,6 @@
 import os
-import asyncio
 from langchain_openai import ChatOpenAI
 from tqdm.asyncio import tqdm
-from typing import Optional
 from pydantic import BaseModel, Field, create_model
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter

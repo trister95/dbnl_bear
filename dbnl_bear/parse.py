@@ -4,7 +4,6 @@ import tqdm
 import glob
 import re
 import html
-from typing import List, Dict, Optional
 
 class DBNLParser:
     @staticmethod
